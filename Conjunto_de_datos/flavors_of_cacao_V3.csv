@@ -1,0 +1,1796 @@
+Id_d,Creador_empresa_si_exite,Origen_FRIJOL_BARRA,REF,Revisar,Porcentaje_Cocoa,Empresa_localidad,Popularidad,Frijo_tipo,Haba_origen,Popularidad_Class
+1,A. Morin,Agua Grande,1876,2016,0.63,France,3.75,,Sao Tome,Sastisfactorio
+2,A. Morin,Kpime,1676,2015,0.7,France,2.75,,Togo,Decepcionante
+3,A. Morin,Atsane,1676,2015,0.7,France,3,,Togo,Sastisfactorio
+4,A. Morin,Akata,1680,2015,0.7,France,3.5,,Togo,Sastisfactorio
+5,A. Morin,Quilla,1704,2015,0.7,France,3.5,,Peru,Sastisfactorio
+6,A. Morin,Carenero,1315,2014,0.7,France,2.75,Criollo,Venezuela,Decepcionante
+7,A. Morin,Cuba,1315,2014,0.7,France,3.5,,Cuba,Sastisfactorio
+8,A. Morin,Sur del Lago,1315,2014,0.7,France,3.5,Criollo,Venezuela,Sastisfactorio
+9,A. Morin,Puerto Cabello,1319,2014,0.7,France,3.75,Criollo,Venezuela,Sastisfactorio
+10,A. Morin,Pablino,1319,2014,0.7,France,4,,Peru,Premiun
+11,A. Morin,Panama,1011,2013,0.7,France,2.75,,Panama,Decepcionante
+12,A. Morin,Madagascar,1011,2013,0.7,France,3,Criollo,Madagascar,Sastisfactorio
+13,A. Morin,Brazil,1011,2013,0.7,France,3.25,,Brazil,Sastisfactorio
+14,A. Morin,Equateur,1011,2013,0.7,France,3.75,,Ecuador,Sastisfactorio
+15,A. Morin,Colombie,1015,2013,0.7,France,2.75,,Colombia,Decepcionante
+16,A. Morin,Birmanie,1015,2013,0.7,France,3,,Burma,Sastisfactorio
+17,A. Morin,Papua New Guinea,1015,2013,0.7,France,3.25,,Papua New Guinea,Sastisfactorio
+18,A. Morin,Chuao,1015,2013,0.7,France,4,Trinitario,Venezuela,Premiun
+19,A. Morin,Piura,1019,2013,0.7,France,3.25,,Peru,Sastisfactorio
+20,A. Morin,Chanchamayo Province,1019,2013,0.7,France,3.5,,Peru,Sastisfactorio
+21,A. Morin,Chanchamayo Province,1019,2013,0.63,France,4,,Peru,Premiun
+22,A. Morin,Bolivia,797,2012,0.7,France,3.5,,Bolivia,Sastisfactorio
+23,A. Morin,Peru,797,2012,0.63,France,3.75,,Peru,Sastisfactorio
+24,Acalli,"Chulucanas, El Platanal",1462,2015,0.7,U.S.A.,3.75,,Peru,Sastisfactorio
+25,Acalli,"Tumbes, Norandino",1470,2015,0.7,U.S.A.,3.75,Criollo,Peru,Sastisfactorio
+26,Adi,Vanua Levu,705,2011,0.6,Fiji,2.75,Trinitario,Fiji,Decepcionante
+27,Adi,"Vanua Levu, Toto-A",705,2011,0.8,Fiji,3.25,Trinitario,Fiji,Sastisfactorio
+28,Adi,Vanua Levu,705,2011,0.88,Fiji,3.5,Trinitario,Fiji,Sastisfactorio
+29,Adi,"Vanua Levu, Ami-Ami-CA",705,2011,0.72,Fiji,3.5,Trinitario,Fiji,Sastisfactorio
+30,Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,0.55,Ecuador,2.75,Forastero_Arriba,Ecuador,Decepcionante
+31,Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,0.7,Ecuador,3,Forastero_Arriba,Ecuador,Sastisfactorio
+32,Ah Cacao,Tabasco,316,2009,0.7,Mexico,3,Criollo,Mexico,Sastisfactorio
+33,Akesson's (Pralus),"Bali (west), Sukrama Family, Melaya area",636,2011,0.75,Switzerland,3.75,Trinitario,Indonesia,Sastisfactorio
+34,Akesson's (Pralus),"Madagascar, Ambolikapiky P.",502,2010,0.75,Switzerland,2.75,Criollo,Madagascar,Decepcionante
+35,Akesson's (Pralus),"Monte Alegre, D. Badero",508,2010,0.75,Switzerland,2.75,Forastero,Brazil,Decepcionante
+36,Alain Ducasse,Trinite,1215,2014,0.65,France,2.75,Trinitario,Trinidad,Decepcionante
+37,Alain Ducasse,Vietnam,1215,2014,0.75,France,2.75,Trinitario,Vietnam,Decepcionante
+38,Alain Ducasse,Madagascar,1215,2014,0.75,France,3,Trinitario,Madagascar,Sastisfactorio
+39,Alain Ducasse,Chuao,1061,2013,0.75,France,2.5,Trinitario,Venezuela,Decepcionante
+40,Alain Ducasse,"Piura, Perou",1173,2013,0.75,France,2.5,,Peru,Decepcionante
+41,Alexandre,"Winak Coop, Napo",1944,2017,0.7,Netherlands,3.5,Forastero_Nacional,Ecuador,Sastisfactorio
+42,Alexandre,"La Dalia, Matagalpa",1944,2017,0.7,Netherlands,3.5,Criollo_Trinitario,Nicaragua,Sastisfactorio
+43,Alexandre,Tien Giang,1944,2017,0.7,Netherlands,3.5,Trinitario,Vietnam,Sastisfactorio
+44,Alexandre,"Makwale Village, Kyela",1944,2017,0.7,Netherlands,3.5,Forastero,Tanzania,Sastisfactorio
+45,Altus aka Cao Artisan,Momotombo,1728,2016,0.6,U.S.A.,2.75,,Nicaragua,Decepcionante
+46,Altus aka Cao Artisan,Acopagro,1728,2016,0.6,U.S.A.,3,,Peru,Sastisfactorio
+47,Altus aka Cao Artisan,CIAAB Coop,1732,2016,0.6,U.S.A.,2.5,,Bolivia,Decepcionante
+48,Altus aka Cao Artisan,Villa Andina,1732,2016,0.6,U.S.A.,2.5,,Peru,Decepcionante
+49,Altus aka Cao Artisan,Gruppo Salinas,1732,2016,0.6,U.S.A.,2.75,,Ecuador,Decepcionante
+50,Altus aka Cao Artisan,Sur del Lago,1125,2013,0.6,U.S.A.,2.5,,Venezuela,Decepcionante
+51,Altus aka Cao Artisan,Conacado,1125,2013,0.6,U.S.A.,3,Trinitario,Dominican Republic,Sastisfactorio
+52,Altus aka Cao Artisan,Bolivia,1129,2013,0.8,U.S.A.,3.25,,Bolivia,Sastisfactorio
+53,Altus aka Cao Artisan,Bolivia,1133,2013,0.6,U.S.A.,3,,Bolivia,Sastisfactorio
+54,Altus aka Cao Artisan,Peru,1133,2013,0.6,U.S.A.,3.25,,Peru,Sastisfactorio
+55,Amano,Morobe,725,2011,0.7,U.S.A.,4,,Papua New Guinea,Premiun
+56,Amano,Dos Rios,470,2010,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+57,Amano,Guayas,470,2010,0.7,U.S.A.,4,,Ecuador,Premiun
+58,Amano,Chuao,544,2010,0.7,U.S.A.,3,Trinitario,Venezuela,Sastisfactorio
+59,Amano,Montanya,363,2009,0.7,U.S.A.,3,,Venezuela,Sastisfactorio
+60,Amano,"Bali, Jembrana",304,2008,0.7,U.S.A.,2.75,,Indonesia,Decepcionante
+61,Amano,Madagascar,129,2007,0.7,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+62,Amano,Cuyagua,147,2007,0.7,U.S.A.,3,,Venezuela,Sastisfactorio
+63,Amano,Ocumare,175,2007,0.7,U.S.A.,3.75,Criollo,Venezuela,Sastisfactorio
+64,Amatller (Simon Coll),Ghana,322,2009,0.7,Spain,3,Forastero,Ghana,Sastisfactorio
+65,Amatller (Simon Coll),Ecuador,327,2009,0.7,Spain,2.75,,Ecuador,Decepcionante
+66,Amatller (Simon Coll),Ecuador,464,2009,0.85,Spain,2.75,,Ecuador,Decepcionante
+67,Amatller (Simon Coll),Ghana,464,2009,0.85,Spain,3,Forastero,Ghana,Sastisfactorio
+68,Amazona,"LamasdelChanka, San Martin, Oro Verde coop",1145,2013,0.72,Peru,3.25,,Peru,Sastisfactorio
+69,Amazona,"Bellavista Gran Pajeten, San Martin",1145,2013,0.73,Peru,3.5,Trinitario,Peru,Sastisfactorio
+70,Ambrosia,Belize,1494,2015,0.64,Canada,3,Trinitario,Belize,Sastisfactorio
+71,Ambrosia,Madagascar,1494,2015,0.66,Canada,3.25,Trinitario,Madagascar,Sastisfactorio
+72,Ambrosia,Dominican Republic,1498,2015,0.75,Canada,3.25,,Dominican Republic,Sastisfactorio
+73,Ambrosia,Papua New Guinea,1498,2015,0.63,Canada,3.25,,Papua New Guinea,Sastisfactorio
+74,Ambrosia,Venezuela,1498,2015,0.7,Canada,3.25,,Venezuela,Sastisfactorio
+75,Ambrosia,Peru,1498,2015,0.68,Canada,3.5,,Peru,Sastisfactorio
+76,Amedei,"Piura, Blanco de Criollo",979,2012,0.7,Italy,3.75,,Peru,Sastisfactorio
+77,Amedei,Porcelana,111,2007,0.7,Italy,4,Criollo_Porcelana,Venezuela,Premiun
+78,Amedei,Nine,111,2007,0.75,Italy,4,Blend,,Premiun
+79,Amedei,Chuao,111,2007,0.7,Italy,5,Trinitario,Venezuela,Elite
+80,Amedei,Ecuador,123,2007,0.7,Italy,3,Trinitario,Ecuador,Sastisfactorio
+81,Amedei,Jamaica,123,2007,0.7,Italy,3,Trinitario,Jamaica,Sastisfactorio
+82,Amedei,Grenada,123,2007,0.7,Italy,3.5,Trinitario,Grenada,Sastisfactorio
+83,Amedei,Venezuela,123,2007,0.7,Italy,3.75,Trinitario_85%_Criollo,Venezuela,Sastisfactorio
+84,Amedei,Madagascar,123,2007,0.7,Italy,4,Trinitario_85%_Criollo,Madagascar,Premiun
+85,Amedei,Trinidad,129,2007,0.7,Italy,3.5,Trinitario,Trinidad,Sastisfactorio
+86,Amedei,Toscano Black,170,2007,0.63,Italy,3.5,Blend,,Sastisfactorio
+87,Amedei,Toscano Black,40,2006,0.7,Italy,5,Blend,,Elite
+88,Amedei,Toscano Black,75,2006,0.66,Italy,4,Blend,,Premiun
+89,AMMA,Catongo,1065,2013,0.75,Brazil,3.25,Forastero_Catongo,Brazil,Sastisfactorio
+90,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.85,Brazil,2.75,Forastero_Parazinho,Brazil,Decepcionante
+91,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.5,Brazil,3.75,Forastero_Parazinho,Brazil,Sastisfactorio
+92,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.75,Brazil,3.75,Forastero_Parazinho,Brazil,Sastisfactorio
+93,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,0.6,Brazil,4,Forastero_Parazinho,Brazil,Premiun
+94,Anahata,Elvesia,1259,2014,0.75,U.S.A.,3,,Dominican Republic,Sastisfactorio
+95,Animas,Alto Beni,1852,2016,0.75,U.S.A.,3.5,,Bolivia,Sastisfactorio
+96,Ara,Madagascar,1375,2014,0.75,France,3,Trinitario,Madagascar,Sastisfactorio
+97,Ara,Chiapas,1379,2014,0.72,France,2.5,,Mexico,Decepcionante
+98,Ara,Equateur,1379,2014,0.75,France,2.75,,Ecuador,Decepcionante
+99,Ara,Trincheras,1379,2014,0.75,France,3,,Venezuela,Sastisfactorio
+100,Arete,San Juan,1724,2016,0.7,U.S.A.,3.5,Trinitario,Trinidad,Sastisfactorio
+101,Arete,Kokoa Kamili,1724,2016,0.7,U.S.A.,3.75,,Tanzania,Sastisfactorio
+102,Arete,Tien Giang,1900,2016,0.73,U.S.A.,3.5,Trinitario,Vietnam,Sastisfactorio
+103,Arete,Hacienda Victoria,1904,2016,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+104,Arete,Costa Esmeraldas,1904,2016,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+105,Arete,Lachua,1904,2016,0.7,U.S.A.,3.5,,Guatemala,Sastisfactorio
+106,Arete,Rugoso,1904,2016,0.7,U.S.A.,3.75,,Nicaragua,Sastisfactorio
+107,Arete,"La Masica, FHIA",1908,2016,0.7,U.S.A.,3.5,,Honduras,Sastisfactorio
+108,Arete,"Coto Brus, Terciopelo",1908,2016,0.7,U.S.A.,4,,Costa Rica,Premiun
+109,Arete,Phantom,1924,2016,0.7,U.S.A.,4,Forastero_Nacional,Peru,Premiun
+110,Arete,Elvesia,1928,2016,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+111,Arete,Matasawalevu,1928,2016,0.7,U.S.A.,3.25,,Fiji,Sastisfactorio
+112,Arete,Lam Dong,1928,2016,0.73,U.S.A.,3.25,,Vietnam,Sastisfactorio
+113,Arete,Fazenda Camboa,1534,2015,0.7,U.S.A.,3.5,,Brazil,Sastisfactorio
+114,Arete,Nacional,1534,2015,0.68,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+115,Arete,"Puerto Quito, heirloom",1534,2015,0.7,U.S.A.,3.75,Forastero_Nacional,Ecuador,Sastisfactorio
+116,Arete,Oko Caribe,1598,2015,0.7,U.S.A.,3.5,,Domincan Republic,Sastisfactorio
+117,Arete,Maya Mountain,1598,2015,0.7,U.S.A.,3.75,Trinitario,Belize,Sastisfactorio
+118,Arete,Chuno,1598,2015,0.7,U.S.A.,4,Criollo_Trinitario,Nicaragua,Premiun
+119,Arete,Fazenda Camboa,1602,2015,0.75,U.S.A.,2.75,,Brazil,Decepcionante
+120,Arete,Guatemala,1602,2015,0.7,U.S.A.,3.25,,Guatemala,Sastisfactorio
+121,Arete,Camino Verde,1602,2015,0.75,U.S.A.,3.5,,Ecuador,Sastisfactorio
+122,Artisan du Chocolat,"Trinidad, Heritage, Limited ed.",1193,2013,0.72,U.K.,3.25,Trinitario,Trinidad,Sastisfactorio
+123,Artisan du Chocolat,"Colombia, Casa Luker",947,2012,0.72,U.K.,3.75,,Colombia,Sastisfactorio
+124,Artisan du Chocolat,Haiti,729,2011,0.72,U.K.,4,,Haiti,Premiun
+125,Artisan du Chocolat,Panama,745,2011,0.72,U.K.,2.75,,Panama,Decepcionante
+126,Artisan du Chocolat,Venezuela,486,2010,1,U.K.,1.75,,Venezuela,Desagradable
+127,Artisan du Chocolat,Jamaica,531,2010,0.72,U.K.,3.75,Trinitario,Jamaica,Sastisfactorio
+128,Artisan du Chocolat,Costa Rica,600,2010,0.72,U.K.,3.25,,Costa Rica,Sastisfactorio
+129,Artisan du Chocolat,Ba Ria Vung Tau Province,600,2010,0.72,U.K.,3.25,Trinitario,Vietnam,Sastisfactorio
+130,Artisan du Chocolat,Bali,600,2010,0.72,U.K.,3.5,,Indonesia,Sastisfactorio
+131,Artisan du Chocolat,"Ocumare, Venezuela",355,2009,0.75,U.K.,2.5,Criollo_Trinitario,Venezuela,Decepcionante
+132,Artisan du Chocolat,Java,355,2009,0.72,U.K.,2.75,Trinitario,Indonesia,Decepcionante
+133,Artisan du Chocolat,Brazil Rio Doce,363,2009,0.72,U.K.,1.75,,Brazil,Desagradable
+134,Artisan du Chocolat,Madagascar,363,2009,0.8,U.K.,3,Criollo_Trinitario,Madagascar,Sastisfactorio
+135,Artisan du Chocolat,Peru,363,2009,0.75,U.K.,3,Criollo,Peru,Sastisfactorio
+136,Artisan du Chocolat,Dominican Republic,363,2009,0.72,U.K.,3.25,Trinitario,Dominican Republic,Sastisfactorio
+137,Artisan du Chocolat,Congo,300,2008,0.72,U.K.,3.75,Forastero,Congo,Sastisfactorio
+138,Artisan du Chocolat (Casa Luker),"Orinoqua Region, Arauca",1181,2013,0.72,U.K.,2.75,Trinitario,Colombia,Decepcionante
+139,Askinosie,Mababa,1780,2016,0.68,U.S.A.,3.75,Trinitario,Tanzania,Sastisfactorio
+140,Askinosie,"Tenende, Uwate",647,2011,0.72,U.S.A.,3.75,Trinitario,Tanzania,Sastisfactorio
+141,Askinosie,Cortes,661,2011,0.7,U.S.A.,3.75,Trinitario,Honduras,Sastisfactorio
+142,Askinosie,Davao,331,2009,0.77,U.S.A.,3.75,Trinitario,Philippines,Sastisfactorio
+143,Askinosie,Xoconusco,141,2007,0.75,U.S.A.,2.5,Trinitario,Mexico,Decepcionante
+144,Askinosie,San Jose del Tambo,175,2007,0.7,U.S.A.,3,Forastero_Arriba,Ecuador,Sastisfactorio
+145,Bahen & Co.,Houseblend,1474,2015,0.8,Australia,3.25,,,Sastisfactorio
+146,Bahen & Co.,Papua New Guinea,1474,2015,0.7,Australia,3.5,,Papua New Guinea,Sastisfactorio
+147,Bahen & Co.,Sambirano,995,2012,0.7,Australia,3,Trinitario,Madagascar,Sastisfactorio
+148,Bahen & Co.,Bahia,999,2012,0.7,Australia,2.5,,Brazil,Decepcionante
+149,Bahen & Co.,Houseblend,999,2012,0.7,Australia,2.5,Blend,,Decepcionante
+150,Bakau,"Bambamarca, 2015",1454,2015,0.7,Peru,2.75,,Peru,Decepcionante
+151,Bakau,"Huallabamba, 2015",1454,2015,0.7,Peru,3.5,,Peru,Sastisfactorio
+152,Bar Au Chocolat,Bahia,1554,2015,0.7,U.S.A.,3.5,,Brazil,Sastisfactorio
+153,Bar Au Chocolat,Maranon Canyon,1295,2014,0.7,U.S.A.,4,Forastero_Nacional,Peru,Premiun
+154,Bar Au Chocolat,Duarte Province,983,2012,0.7,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+155,Bar Au Chocolat,Chiapas,983,2012,0.7,U.S.A.,3.5,,Mexico,Sastisfactorio
+156,Bar Au Chocolat,Sambirano,983,2012,0.7,U.S.A.,3.75,Trinitario,Madagascar,Sastisfactorio
+157,Baravelli's,single estate,955,2012,0.8,Wales,2.75,,Costa Rica,Decepcionante
+158,Batch,"Dominican Republic, Batch 3",1840,2016,0.65,U.S.A.,3.5,,Domincan Republic,Sastisfactorio
+159,Batch,Brazil,1868,2016,0.7,U.S.A.,3.75,,Brazil,Sastisfactorio
+160,Batch,Ecuador,1880,2016,0.65,U.S.A.,3.25,,Ecuador,Sastisfactorio
+161,Beau Cacao,"Asajaya E, NW Borneo, b. #132/4500",1948,2017,0.73,U.K.,3,,Malaysia,Sastisfactorio
+162,Beau Cacao,"Serian E., NW Borneo, b. #134/3800",1948,2017,0.72,U.K.,3.25,,Malaysia,Sastisfactorio
+163,Beehive,"Brazil, Batch 20316",1784,2016,0.8,U.S.A.,2.75,,Brazil,Decepcionante
+164,Beehive,"Dominican Republic, Batch 31616",1784,2016,0.7,U.S.A.,2.75,,Domincan Republic,Decepcionante
+165,Beehive,"Ecuador, Batch 31516",1784,2016,0.7,U.S.A.,2.75,,Ecuador,Decepcionante
+166,Beehive,Ecuador,1788,2016,0.9,U.S.A.,2.75,,Ecuador,Decepcionante
+167,Belcolade,Costa Rica,586,2010,0.64,Belgium,2.75,,Costa Rica,Decepcionante
+168,Belcolade,Papua New Guinea,586,2010,0.64,Belgium,2.75,,Papua New Guinea,Decepcionante
+169,Belcolade,Peru,586,2010,0.64,Belgium,2.75,,Peru,Decepcionante
+170,Belcolade,Ecuador,586,2010,0.71,Belgium,3.5,,Ecuador,Sastisfactorio
+171,Bellflower,"Kakao Kamili, Kilombero Valley",1800,2016,0.7,U.S.A.,3.5,Criollo_Trinitario,Tanzania,Sastisfactorio
+172,Bellflower,"Alto Beni, Palos Blanco",1804,2016,0.7,U.S.A.,3.25,,Bolivia,Sastisfactorio
+173,Bellflower,"Oko Caribe, Duarte P.",1864,2016,0.7,U.S.A.,3.5,,Domincan Republic,Sastisfactorio
+174,Belyzium,"Belize south, low fermentation",1768,2016,0.83,Germany,2.75,Trinitario,Belize,Decepcionante
+175,Belyzium,Belize south,1768,2016,0.78,Germany,3,Trinitario,Belize,Sastisfactorio
+176,Belyzium,Belize south,1768,2016,0.83,Germany,3.5,Trinitario,Belize,Sastisfactorio
+177,Benoit Nihant,Baracoa,1141,2013,0.74,Belgium,3.5,Trinitario,Cuba,Sastisfactorio
+178,Benoit Nihant,Chuao,1141,2013,0.74,Belgium,3.5,Criollo,Venezuela,Sastisfactorio
+179,Benoit Nihant,Cuyagua Village,1141,2013,0.74,Belgium,3.5,Criollo,Venezuela,Sastisfactorio
+180,Benoit Nihant,Rio Peripa H.,1141,2013,0.73,Belgium,4,Trinitario,Ecuador,Premiun
+181,Benoit Nihant,"Bali, Sukrama Bros. Farm, Melaya, 62hr C",757,2011,0.72,Belgium,4,Trinitario,Indonesia,Premiun
+182,Benoit Nihant,"Somia Plantation, Sambirano, 70hr C",773,2011,0.72,Belgium,3.75,Trinitario,Madagascar,Sastisfactorio
+183,Bernachon,Nature,797,2012,0.55,France,2.75,,,Decepcionante
+184,Beschle (Felchlin),Madagascar,636,2011,0.64,Switzerland,3,Trinitario,Madagascar,Sastisfactorio
+185,Beschle (Felchlin),Maracaibo,636,2011,0.88,Switzerland,3,Criollo,Venezuela,Sastisfactorio
+186,Beschle (Felchlin),"Indigena Amazonia, Grand Cru, Quizas",636,2011,0.72,Switzerland,3.5,,Venezuela,Sastisfactorio
+187,Beschle (Felchlin),Ecuador,636,2011,0.72,Switzerland,4,,Ecuador,Premiun
+188,Beschle (Felchlin),"Carenero S., Barlovento, Grand Cru",508,2010,0.7,Switzerland,3.25,Trinitario,Venezuela,Sastisfactorio
+189,Beschle (Felchlin),"Porcelana, Premier Cru, Quizas No. 1",508,2010,0.74,Switzerland,3.25,Criollo_Porcelana,Venezuela,Sastisfactorio
+190,Beschle (Felchlin),"Java, Grand Cru",508,2010,0.64,Switzerland,3.5,,Indonesia,Sastisfactorio
+191,Beschle (Felchlin),"Ocumare, Premier Cru, Quizas No. 2",508,2010,0.72,Switzerland,3.5,,Venezuela,Sastisfactorio
+192,Bisou,"Nicaragua, American style",1482,2015,0.76,U.S.A.,2.5,,Nicaragua,Decepcionante
+193,Bisou,"San Andres, American style",1486,2015,0.76,U.S.A.,2.5,,Costa Rica,Decepcionante
+194,Bisou,"San Andres, silk",1486,2015,0.78,U.S.A.,2.5,,Costa Rica,Decepcionante
+195,Bisou,Belize,1486,2015,0.86,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+196,Bittersweet Origins,Ghana,963,2012,0.72,U.S.A.,3.5,Forastero,Ghana,Sastisfactorio
+197,Bittersweet Origins,"Bali, Singaraja",478,2010,0.75,U.S.A.,3.25,,Indonesia,Sastisfactorio
+198,Bittersweet Origins,2009 Hapa Nibby,502,2010,0.7,U.S.A.,3.75,Blend,"Dominican Rep., Bali",Sastisfactorio
+199,Bittersweet Origins,"Bali, Singaraja",558,2010,0.65,U.S.A.,2.75,,Indonesia,Decepcionante
+200,Bittersweet Origins,"Sambirano, 2009",565,2010,0.7,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+201,Bittersweet Origins,"Ocumare, prototype",565,2010,0.78,U.S.A.,3,Criollo,Venezuela,Sastisfactorio
+202,Bittersweet Origins,Puerto Plata,414,2009,0.75,U.S.A.,3,,Dominican Republic,Sastisfactorio
+203,Bittersweet Origins,Puerto Plata,414,2009,0.65,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+204,Bittersweet Origins,Sambirano,423,2009,0.75,U.S.A.,3.25,Trinitario,Madagascar,Sastisfactorio
+205,Bittersweet Origins,Sambirano,431,2009,0.65,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+206,Bittersweet Origins,Sambirano,233,2008,0.71,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+207,Bittersweet Origins,Bocas del Toro,233,2008,0.75,U.S.A.,3.5,,Panama,Sastisfactorio
+208,Bittersweet Origins,Puerto Plata,233,2008,0.68,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+209,Bittersweet Origins,Ankasa,256,2008,0.7,U.S.A.,3,Forastero,Ghana,Sastisfactorio
+210,Black Mountain,La Red,256,2008,0.7,U.S.A.,2.75,,Dominican Republic,Decepcionante
+211,Black Mountain,Carenero Superior,256,2008,0.7,U.S.A.,2.75,Trinitario,Venezuela,Decepcionante
+212,Black Mountain,Matiguas,256,2008,0.7,U.S.A.,3,,Nicaragua,Sastisfactorio
+213,Black River (A. Morin),Blue Mountain Region,1331,2014,0.7,U.K.,2.75,Trinitario,Jamaica,Decepcionante
+214,Blanxart,"Congo, Grand Cru",1046,2013,0.82,Spain,3.5,Forastero,Congo,Sastisfactorio
+215,Blanxart,Organic Dark,322,2009,0.72,Spain,2.75,,,Decepcionante
+216,Blue Bandana,"Akesson's E., Sambirano V.",1740,2016,0.82,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+217,Blue Bandana,Lachua,1752,2016,0.75,U.S.A.,2.75,,Guatemala,Decepcionante
+218,Blue Bandana,Kokoa Kamili,1752,2016,0.75,U.S.A.,3.5,,Tanzania,Sastisfactorio
+219,Blue Bandana,Zorzal Reserva,1756,2016,0.75,U.S.A.,3,,Dominican Republic,Sastisfactorio
+220,Blue Bandana,Guatemala,911,2012,0.7,U.S.A.,3.5,,Guatemala,Sastisfactorio
+221,Blue Bandana,Madagascar,911,2012,0.7,U.S.A.,3.75,Trinitario,Madagascar,Sastisfactorio
+222,Bonnat,Selva Maya,1912,2016,0.75,France,3.5,,Mexico,Sastisfactorio
+223,Bonnat,Kaori,1339,2014,0.75,France,4,,Brazil,Premiun
+224,Bonnat,"Los Colorados, Santo Domingo, Equateur",1418,2014,0.75,France,3.25,,Dominican Republic,Sastisfactorio
+225,Bonnat,Surfin,1418,2014,0.65,France,3.75,,"Venez,Africa,Brasil,Peru,Mex",Sastisfactorio
+226,Bonnat,Maragnam,1038,2013,0.75,France,3.5,,Brazil,Sastisfactorio
+227,Bonnat,Gabon,1042,2013,0.75,France,3.25,,Gabon,Sastisfactorio
+228,Bonnat,Cuba,629,2011,0.75,France,3.5,Trinitario,Cuba,Sastisfactorio
+229,Bonnat,"Cusco, Cacao Cusco",629,2011,0.75,France,3.5,,Peru,Sastisfactorio
+230,Bonnat,Piura Blanco,629,2011,0.75,France,3.5,Forastero_Nacional,Peru,Sastisfactorio
+231,Bonnat,Libanio,629,2011,0.75,France,3.75,,Brazil,Sastisfactorio
+232,Bonnat,Haiti,629,2011,0.75,France,4,,Haiti,Premiun
+233,Bonnat,"Madagascar, 100% criollo",629,2011,0.75,France,4,Criollo,Madagascar,Premiun
+234,Bonnat,Juliana,672,2011,0.75,France,3.5,,Brazil,Sastisfactorio
+235,Bonnat,Jamaique,761,2011,0.75,France,3.25,Trinitario,Jamaica,Sastisfactorio
+236,Bonnat,Ivory Coast,331,2009,0.75,France,3,,Ivory Coast,Sastisfactorio
+237,Bonnat,"Porcelana, Apotequil",336,2009,0.75,France,2.75,Criollo,Peru,Decepcionante
+238,Bonnat,"Porcelana, Tabasco, Marfil de Blanco",336,2009,0.75,France,3,Criollo,Mexico,Sastisfactorio
+239,Bonnat,"Xoconusco, cacao Real",395,2009,0.75,France,3,Criollo,Mexico,Sastisfactorio
+240,Bonnat,"Porcelana, Venezuela",199,2008,0.75,France,4,Criollo_Porcelana,Venezuela,Premiun
+241,Bonnat,Equateur,123,2007,0.75,France,2.5,Forastero_Arriba,Ecuador,Decepcionante
+242,Bonnat,Trinite,24,2006,0.75,France,3.75,Trinitario,Carribean,Sastisfactorio
+243,Bonnat,"Ocumare, Puerto Cabello",32,2006,0.75,France,4,,Venezuela,Premiun
+244,Bonnat,"Maracaibo, El Rosario",48,2006,0.75,France,4,Criollo,Venezuela,Premiun
+245,Bonnat,Madagascar,75,2006,0.75,France,4,Trinitario,Madagascar,Premiun
+246,Bonnat,One Hundred,81,2006,1,France,1.5,,,Desagradable
+247,Bonnat,Ceylan,81,2006,0.75,France,3,,Sri Lanka,Sastisfactorio
+248,Bonnat,Chuao,81,2006,0.75,France,4,Trinitario,Venezuela,Premiun
+249,Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",316,2009,0.77,Ecuador,3.25,Forastero_Arriba,Ecuador,Sastisfactorio
+250,Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",341,2009,1,Ecuador,1.5,Forastero_Arriba,Ecuador,Desagradable
+251,Bowler Man,Maya Mountain,1267,2014,0.7,U.S.A.,2.75,Trinitario,Belize,Decepcionante
+252,Bowler Man,Conacado,1271,2014,0.7,U.S.A.,2.75,,Dominican Republic,Decepcionante
+253,Brasstown aka It's Chocolate,"Guasare, Zulia Prov.",1868,2016,0.7,U.S.A.,3.5,Criollo,Venezuela,Sastisfactorio
+254,Brasstown aka It's Chocolate,"O'payo, Waslala",1868,2016,0.7,U.S.A.,3.75,,Nicaragua,Sastisfactorio
+255,Brasstown aka It's Chocolate,Conacado,1462,2015,0.68,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+256,Brasstown aka It's Chocolate,Maya Mountain,1255,2014,0.7,U.S.A.,3.75,Trinitario,Belize,Sastisfactorio
+257,Brasstown aka It's Chocolate,Chuao,1355,2014,0.7,U.S.A.,4,Trinitario,Venezuela,Premiun
+258,Brasstown aka It's Chocolate,Cooproagro,1125,2013,0.72,U.S.A.,3,Trinitario,Dominican Republic,Sastisfactorio
+259,Brasstown aka It's Chocolate,"Camino Verde, Guayas",1125,2013,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+260,Brasstown aka It's Chocolate,Ghana,1129,2013,0.75,U.S.A.,3.5,Forastero,Ghana,Sastisfactorio
+261,Brasstown aka It's Chocolate,"Chuao, Mantuano blend",1129,2013,0.85,U.S.A.,3.5,Trinitario,Venezuela,Sastisfactorio
+262,Brazen,Elvesia P.,1514,2015,0.6,U.S.A.,3,,Dominican Republic,Sastisfactorio
+263,Brazen,Elvesia P.,1514,2015,0.8,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+264,Brazen,"Alta Verapaz, 2014",1514,2015,0.7,U.S.A.,3.5,,Guatemala,Sastisfactorio
+265,Brazen,Ambolikapiky P.,1518,2015,0.8,U.S.A.,2.75,,Madagascar,Decepcionante
+266,Brazen,Maya Mountain,1518,2015,0.8,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+267,Brazen,Ambolikapkly P.,1518,2015,0.6,U.S.A.,3.25,,Madagascar,Sastisfactorio
+268,Breeze Mill,Jamaica,1149,2013,0.7,U.S.A.,3,Trinitario,Jamaica,Sastisfactorio
+269,Bright,Somia Plantation,1231,2014,0.72,Australia,3,Trinitario,Madagascar,Sastisfactorio
+270,Bright,Marabel Farms,1231,2014,0.7,Australia,3.5,,Dominican Republic,Sastisfactorio
+271,Bright,"Camino Verde, Balao, Guayas",1231,2014,0.72,Australia,3.5,,Ecuador,Sastisfactorio
+272,Bright,Gran Couva,1235,2014,0.68,Australia,2.75,Trinitario,Trinidad,Decepcionante
+273,Britarev,Ecuador,1638,2015,0.7,Russia,3.25,,Ecuador,Sastisfactorio
+274,Bronx Grrl Chocolate,Dominican Republic,1181,2013,0.68,U.S.A.,2.75,,Dominican Republic,Decepcionante
+275,Burnt Fork Bend,Trinidad,1299,2014,0.72,U.S.A.,3.25,Trinitario,Trinidad,Sastisfactorio
+276,Burnt Fork Bend,Mindo,1299,2014,0.72,U.S.A.,3.5,,Ecuador,Sastisfactorio
+277,Burnt Fork Bend,Belize,1303,2014,0.72,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+278,Burnt Fork Bend,Blend,1303,2014,0.72,U.S.A.,3.25,Blend,,Sastisfactorio
+279,Burnt Fork Bend,"Ecuador, Bob Bar",1323,2014,0.6,U.S.A.,2.5,,Ecuador,Decepcionante
+280,Cacao Arabuco,Puerto Rico,1606,2015,0.7,Puerto Rico,2.5,,Puerto Rico,Decepcionante
+281,Cacao Atlanta,Tumbes,1215,2014,0.75,U.S.A.,2.5,Criollo,Peru,Decepcionante
+282,Cacao Atlanta,"Dominican Republic, ""Love Bar""",502,2010,0.75,U.S.A.,2.5,,Dominican Republic,Decepcionante
+283,Cacao Atlanta,Dominican Republic w/ nibs,502,2010,0.75,U.S.A.,2.75,,Dominican Republic,Decepcionante
+284,Cacao Atlanta,Patanemo,600,2010,0.75,U.S.A.,2.25,,Venezuela,Decepcionante
+285,Cacao Barry,Grand 'Anse,1716,2016,0.65,France,3.5,Trinitario_Criollo,Haiti,Sastisfactorio
+286,Cacao Barry,Santo Domingo,586,2010,0.7,France,3,,Dominican Republic,Sastisfactorio
+287,Cacao Barry,Tanzania,300,2008,0.75,France,2,,Tanzania,Decepcionante
+288,Cacao Barry,Venezuela,141,2007,0.72,France,2,,Venezuela,Decepcionante
+289,Cacao Barry,Mexico,147,2007,0.66,France,3,,Mexico,Sastisfactorio
+290,Cacao de Origen,Chuao,1688,2015,0.77,Venezuela,3.5,Trinitario,Venezuela,Sastisfactorio
+291,Cacao de Origen,Rio Caribe,1692,2015,0.75,Venezuela,3.25,Trinitario,Venezuela,Sastisfactorio
+292,Cacao de Origen,Agua Fria; Sucre region,1391,2014,0.75,Venezuela,2.5,,Venezuela,Decepcionante
+293,Cacao de Origen,Macuare; Miranda; Chloe formula,1391,2014,0.74,Venezuela,3.25,,Venezuela,Sastisfactorio
+294,Cacao de Origen,"Chuao, Aragua region",1391,2014,0.75,Venezuela,3.5,Trinitario,Venezuela,Sastisfactorio
+295,Cacao de Origen,"Chuao, Aragua region",1395,2014,0.7,Venezuela,3.75,Trinitario,Venezuela,Sastisfactorio
+296,Cacao de Origin,Hacienda la Trinidad,1668,2015,0.74,Venezuela,3.25,,Venezuela,Sastisfactorio
+297,Cacao Hunters,Macondo,1816,2016,0.71,Colombia,3.75,,Colombia,Sastisfactorio
+298,Cacao Hunters,Perla Negra,1816,2016,0.74,Colombia,3.75,,Colombia,Sastisfactorio
+299,Cacao Hunters,Arhuacos,1662,2015,0.72,Colombia,3.75,,Colombia,Sastisfactorio
+300,Cacao Hunters,Sierra Nevada,1430,2014,0.64,Colombia,3.5,,Colombia,Sastisfactorio
+301,Cacao Hunters,Tumaco,1430,2014,0.7,Colombia,3.5,,Colombia,Sastisfactorio
+302,Cacao Hunters,"Boyaca, Aprocampa Coop, Pauna",1434,2014,0.69,Colombia,2.75,,Colombia,Decepcionante
+303,Cacao Hunters,Arauca,1434,2014,0.7,Colombia,3.25,,Colombia,Sastisfactorio
+304,Cacao Market,"Jutiapa, lot 050916D",1860,2016,0.7,U.S.A.,3.5,Trinitario,Honduras,Sastisfactorio
+305,Cacao Prieto,"Criollo, Dominican Republic",991,2012,0.72,U.S.A.,3.75,Criollo,Dominican Republic,Sastisfactorio
+306,Cacao Prieto,"Dominican Republicm, rustic",641,2011,0.72,U.S.A.,3,,Dominican Republic,Sastisfactorio
+307,Cacao Prieto,Dominican Republic,641,2011,0.66,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+308,Cacao Prieto,"Dominican Republic, rustic",647,2011,0.65,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+309,Cacao Sampaka,"Mahali, Kasai",1908,2016,0.7,Spain,3.5,Criollo,Congo,Sastisfactorio
+310,Cacao Sampaka,Madagascar,508,2010,0.71,Spain,3.5,Trinitario,Madagascar,Sastisfactorio
+311,Cacao Sampaka,Ecuador,523,2010,0.71,Spain,3.75,,Ecuador,Sastisfactorio
+312,Cacao Sampaka,Papua,523,2010,0.71,Spain,4,,Papua New Guinea,Premiun
+313,Cacao Sampaka,Grenada,537,2010,0.71,Spain,3.25,Trinitario,Grenada,Sastisfactorio
+314,Cacao Sampaka,Venezuela,537,2010,0.71,Spain,3.5,,Venezuela,Sastisfactorio
+315,Cacao Sampaka,Venezuela,537,2010,0.77,Spain,3.5,,Venezuela,Sastisfactorio
+316,Cacao Sampaka,"Porcelana, Tabasco, La Joya",336,2009,0.7,Spain,4,Criollo,Mexico,Premiun
+317,Cacao Sampaka,"Xoconusco, Chiapas",346,2009,0.7,Spain,4,Criollo,Mexico,Premiun
+318,Cacao Store,Madagascar,1684,2015,0.7,Japan,3,Trinitario,Madagascar,Sastisfactorio
+319,Cacao Store,Peru,1684,2015,0.7,Japan,3.25,,Peru,Sastisfactorio
+320,Cacao Store,Vietnam,1684,2015,0.7,Japan,3.5,Trinitario,Vietnam,Sastisfactorio
+321,Cacaosuyo (Theobroma Inversiones),Piura,1173,2013,0.7,Peru,3.25,,Peru,Sastisfactorio
+322,Cacaoyere (Ecuatoriana),Amazonia,237,2008,0.63,Ecuador,3.5,Forastero_Arriba,Ecuador,Sastisfactorio
+323,Cacaoyere (Ecuatoriana),Esmeraldas,237,2008,0.71,Ecuador,3.5,Forastero_Arriba,Ecuador,Sastisfactorio
+324,Cacaoyere (Ecuatoriana),Bolivar,245,2008,0.82,Ecuador,2.5,Forastero_Arriba,Ecuador,Decepcionante
+325,Cacaoyere (Ecuatoriana),Pichincha,259,2008,0.91,Ecuador,1.5,Forastero_Arriba,Ecuador,Desagradable
+326,Callebaut,Grenade,296,2008,0.6,Belgium,2.75,Trinitario,Grenada,Decepcionante
+327,Callebaut,Baking,141,2007,0.7,Belgium,1,,Ecuador,Desagradable
+328,C-Amaro,Cuba,1442,2014,0.75,Italy,2.5,,Cuba,Decepcionante
+329,C-Amaro,Dominican Republic,1442,2014,0.72,Italy,3,,Dominican Republic,Sastisfactorio
+330,C-Amaro,"Lago di Como, Blu",1442,2014,0.7,Italy,3.5,Blend,,Sastisfactorio
+331,C-Amaro,Ecuador,1185,2013,1,Italy,3.5,,Ecuador,Sastisfactorio
+332,C-Amaro,Venezuela,809,2012,0.8,Italy,3,,Venezuela,Sastisfactorio
+333,C-Amaro,Sao Tome,749,2011,0.78,Italy,2.25,Forastero,Sao Tome,Decepcionante
+334,C-Amaro,Trinidad,765,2011,0.7,Italy,2.5,Trinitario,Trinidad,Decepcionante
+335,Cao,Porcelana,1804,2016,0.75,U.S.A.,2.5,Criollo,Venezuela,Decepcionante
+336,Cao,Tanzania,1804,2016,0.73,U.S.A.,2.75,,Tanzania,Decepcionante
+337,Cao,"Porcelana, Batch 5163",1804,2016,0.7,U.S.A.,3,Criollo,Venezuela,Sastisfactorio
+338,Cao,Bolivia,1808,2016,0.75,U.S.A.,3,,Bolivia,Sastisfactorio
+339,Cao,Brazil,1808,2016,0.7,U.S.A.,3.25,Trinitario,Brazil,Sastisfactorio
+340,Caoni (Tulicorp),Esmeraldas,237,2008,0.77,Ecuador,2,Forastero_Arriba,Ecuador,Decepcionante
+341,Caoni (Tulicorp),Manabi,237,2008,0.77,Ecuador,2.5,Forastero_Arriba,Ecuador,Decepcionante
+342,Caoni (Tulicorp),Los Rios,245,2008,0.77,Ecuador,2.75,Forastero_Arriba,Ecuador,Decepcionante
+343,Caoni (Tulicorp),Manabi,266,2008,0.55,Ecuador,3,Forastero_Arriba,Ecuador,Sastisfactorio
+344,Caoni (Tulicorp),Los Rios,269,2008,0.55,Ecuador,3.25,Forastero_Arriba,Ecuador,Sastisfactorio
+345,Caoni (Tulicorp),Esmeraldas,269,2008,0.55,Ecuador,3.5,Forastero_Arriba,Ecuador,Sastisfactorio
+346,Captain Pembleton,"Saidor Estate, Madang P.",1263,2014,0.7,New Zealand,3.5,Trinitario,Papua New Guinea,Sastisfactorio
+347,Captain Pembleton,Kulili Estate,1263,2014,0.7,New Zealand,3.75,,Papua New Guinea,Sastisfactorio
+348,Caribeans,"Antigua, Special Reserve",1582,2015,0.72,Costa Rica,3.5,,Guatemala,Sastisfactorio
+349,Caribeans,"Talamanca, Raul-Kekoldo community",1586,2015,0.72,Costa Rica,3.25,,Costa Rica,Sastisfactorio
+350,Caribeans,Anselmo Paraiso Estate,1586,2015,0.72,Costa Rica,3.5,,Costa Rica,Sastisfactorio
+351,Caribeans,Costa Rica,841,2012,0.72,Costa Rica,3,Forastero,Costa Rica,Sastisfactorio
+352,Caribeans,Costa Rica,845,2012,0.8,Costa Rica,2.75,Forastero,Costa Rica,Decepcionante
+353,Carlotta Chocolat,Arauca,1884,2016,0.65,Colombia,3,Trinitario,Colombia,Sastisfactorio
+354,Carlotta Chocolat,Tumaco,1888,2016,0.65,Colombia,3.25,Trinitario,Colombia,Sastisfactorio
+355,Carlotta Chocolat,Cordoba,1888,2016,0.65,Colombia,3.25,Trinitario,Colombia,Sastisfactorio
+356,Carlotta Chocolat,Huila,1888,2016,0.65,Colombia,3.5,Trinitario,Colombia,Sastisfactorio
+357,Carlotta Chocolat,Cesar,1888,2016,0.65,Colombia,3.5,CCN51,Colombia,Sastisfactorio
+358,Castronovo,"Maya Mtn, Batch 454, Heirloom",1724,2016,0.72,U.S.A.,4,Trinitario,Belize,Premiun
+359,Castronovo,"the lost city, gracias a dias, batch 362",1570,2015,0.72,U.S.A.,3.5,Trinitario,Honduras,Sastisfactorio
+360,Castronovo,"Duarte, Batch 360",1570,2015,0.7,U.S.A.,3.75,Criollo_Trinitario,Domincan Republic,Sastisfactorio
+361,Castronovo,"Piaroa, Amazonas, Batch 350",1574,2015,0.72,U.S.A.,3.5,,Venezuela,Sastisfactorio
+362,Castronovo,Sierra Nevada,1347,2014,0.72,U.S.A.,3.5,Criollo_Trinitario,Colombia,Sastisfactorio
+363,Castronovo,Arauca,1371,2014,0.76,U.S.A.,3.5,Criollo_Trinitario,Colombia,Sastisfactorio
+364,Castronovo,Elvesia P.,1407,2014,0.7,U.S.A.,2.75,Trinitario,Dominican Republic,Decepcionante
+365,Castronovo,Bolivia,1101,2013,0.7,U.S.A.,3,Trinitario,Bolivia,Sastisfactorio
+366,Castronovo,Conacado,1101,2013,0.73,U.S.A.,3.5,Trinitario,Dominican Republic,Sastisfactorio
+367,Castronovo,San Martin,1105,2013,0.7,U.S.A.,2.5,Criollo,Peru,Decepcionante
+368,Castronovo,"Guaniamo, Amazonas",1105,2013,0.7,U.S.A.,3.25,,Venezuela,Sastisfactorio
+369,Castronovo,Nicaragua,1109,2013,0.72,U.S.A.,3.25,Trinitario,Nicaragua,Sastisfactorio
+370,Castronovo,Tumbes,1153,2013,0.7,U.S.A.,2.75,Criollo,Peru,Decepcionante
+371,Castronovo,Guaniamo,1153,2013,0.72,U.S.A.,3,,Venezuela,Sastisfactorio
+372,Cello,Ecuador,1247,2014,0.7,U.S.A.,2.5,,Ecuador,Decepcionante
+373,Cello,Peru,1247,2014,0.7,U.S.A.,2.75,,Peru,Decepcionante
+374,Cello,Venezuela,1251,2014,0.7,U.S.A.,2.75,,Venezuela,Decepcionante
+375,Cello,Bolivia,1251,2014,0.7,U.S.A.,3,,Bolivia,Sastisfactorio
+376,Cemoi,Equateur,404,2009,0.72,France,2.75,,Ecuador,Decepcionante
+377,Chaleur B,Uganda,1426,2014,0.7,Canada,2.75,Forastero,Uganda,Decepcionante
+378,Charm School,Maya Mtn,1900,2016,0.7,U.S.A.,3.25,,Belize,Sastisfactorio
+379,Chchukululu (Tulicorp),Arriba,486,2010,0.55,Ecuador,2.75,Forastero_Arriba,Ecuador,Decepcionante
+380,Chchukululu (Tulicorp),Los Rios,252,2008,0.75,Ecuador,3,Forastero_Arriba,Ecuador,Sastisfactorio
+381,Chequessett,la Amistad,1235,2014,0.7,U.S.A.,3.5,,Costa Rica,Sastisfactorio
+382,Chloe Chocolat,Blend No. 1,672,2011,0.7,France,3.5,,,Sastisfactorio
+383,Chocablog,Ecuador,1454,2015,0.7,U.K.,3.25,,Ecuador,Sastisfactorio
+384,Choco Del Sol,Maya Mountain w/ nibs,1407,2014,0.75,Germany,3,Trinitario,Belize,Sastisfactorio
+385,Choco Del Sol,Maya Mountain,1407,2014,0.82,Germany,3.25,Trinitario,Belize,Sastisfactorio
+386,Choco Dong,"Mekong Delta, early 2014 Harvest",1696,2015,0.7,South Korea,2.75,Trinitario,Vietnam,Decepcionante
+387,Choco Dong,"Tawau, Oct. 2015 Harvest",1696,2015,0.7,South Korea,3.5,Trinitario,Malaysia,Sastisfactorio
+388,Chocolarder,Peru,1482,2015,0.65,U.K.,2.5,Criollo,Peru,Decepcionante
+389,Chocolarder,Peru + nibs,1482,2015,0.65,U.K.,2.75,Criollo,Peru,Decepcionante
+390,Chocolarder,Dominican Republic,1514,2015,0.8,U.K.,2.5,,Dominican Republic,Decepcionante
+391,Chocola'te,Madagascar,647,2011,0.7,U.S.A.,3.75,Trinitario,Madagascar,Sastisfactorio
+392,Chocola'te,Venezuela,647,2011,0.68,U.S.A.,3.75,,Venezuela,Sastisfactorio
+393,Chocolate Alchemist-Philly,"Tumbes, ""Zarumilla""",1772,2016,0.9,U.S.A.,2.5,,Peru,Decepcionante
+394,Chocolate Alchemist-Philly,"Philly Blend, 5 plantations",1772,2016,0.8,U.S.A.,2.5,,,Decepcionante
+395,Chocolate Con Amor,Wild Bolivian,1760,2016,0.7,U.S.A.,2.5,,Bolivia,Decepcionante
+396,Chocolate Con Amor,Uganda,1760,2016,0.7,U.S.A.,2.75,,Uganda,Decepcionante
+397,Chocolate Con Amor,Dominican Republic,1764,2016,0.6,U.S.A.,3,,Dominican Republic,Sastisfactorio
+398,Chocolate Con Amor,Dominican Republic,1764,2016,0.75,U.S.A.,3,,Dominican Republic,Sastisfactorio
+399,Chocolate Con Amor,Ocumare,1764,2016,0.8,U.S.A.,3,Criollo (Ocumare),Venezuela,Sastisfactorio
+400,Chocolate Con Amor,Ecuador,1764,2016,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+401,Chocolate Con Amor,Nicaragua,1768,2016,0.8,U.S.A.,2.75,,Nicaragua,Decepcionante
+402,Chocolate Conspiracy,Peru,1259,2014,0.74,U.S.A.,2.75,,Peru,Decepcionante
+403,Chocolate Makers,Tres Hombres,1530,2015,0.75,Amsterdam,3.25,Trinitario,Dominican Republic,Sastisfactorio
+404,Chocolate Makers,"Congo, Gorilla bar",1530,2015,0.68,Amsterdam,3.5,Forastero,Congo,Sastisfactorio
+405,Chocolate Makers,"Peru, Awagum bar",1530,2015,0.8,Amsterdam,3.75,Criollo,Peru,Sastisfactorio
+406,"Chocolate Tree, The",Maranon,1582,2015,0.69,Scotland,3.75,Forastero_Nacional,Peru,Sastisfactorio
+407,"Chocolate Tree, The",Carenero Superior,1582,2015,0.8,Scotland,3.75,Trinitario,Venezuela,Sastisfactorio
+408,"Chocolate Tree, The",Peru,1121,2013,0.7,Scotland,3.75,Forastero_Nacional,Peru,Sastisfactorio
+409,"Chocolate Tree, The",Ecuador,919,2012,0.82,Scotland,2.5,Forastero_Arriba,Ecuador,Decepcionante
+410,"Chocolate Tree, The",Peru,919,2012,0.68,Scotland,2.75,Criollo,Peru,Decepcionante
+411,"Chocolate Tree, The",Madagascar,919,2012,0.72,Scotland,3.25,Criollo,Madagascar,Sastisfactorio
+412,Chocolats Privilege,Xoconusco,1219,2014,0.7,Canada,2.5,Criollo,Mexico,Decepcionante
+413,ChocoReko,Patanemo,1454,2015,0.77,Japan,3,Criollo,Venezuela,Sastisfactorio
+414,Chocosol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",682,2011,0.65,Canada,3.25,,Mexico,Sastisfactorio
+415,Chocovic,Xoconusco,478,2010,0.71,Spain,3.25,Criollo,Mexico,Sastisfactorio
+416,Chocovic,Sambirano,478,2010,0.71,Spain,3.5,Trinitario,Madagascar,Sastisfactorio
+417,Chocovic,Kendari,439,2009,0.6,Spain,3.25,,,Sastisfactorio
+418,Chocovic,Tarakan,439,2009,0.75,Spain,3.25,,,Sastisfactorio
+419,Chocovic,Ocumare,209,2008,0.71,Spain,3.5,Criollo,Venezuela,Sastisfactorio
+420,Chocovic,"Bolivar, Guaranda",117,2007,0.71,Spain,2.5,Forastero_Arriba,Ecuador,Decepcionante
+421,Chocovic,Guyave,117,2007,0.71,Spain,2.5,Trinitario,Grenada,Decepcionante
+422,Chocovic,Maragda,117,2007,0.7,Spain,3,Blend,,Sastisfactorio
+423,Chocovivo,Tabasco,1522,2015,0.65,U.S.A.,2.5,Trinitario,Mexico,Decepcionante
+424,Chocovivo,Tabasco,1522,2015,0.75,U.S.A.,2.5,Trinitario,Mexico,Decepcionante
+425,Choklat,Ocumare,377,2009,0.8,Canada,2.5,Criollo,Venezuela,Decepcionante
+426,Choklat,"Porcelana, Tabasco",377,2009,0.7,Canada,2.75,Criollo,Mexico,Decepcionante
+427,Choklat,Brazilian,377,2009,0.7,Canada,3,,Brazil,Sastisfactorio
+428,Choklat,Brazilian,377,2009,0.8,Canada,3,,Brazil,Sastisfactorio
+429,Choklat,Ocumare,377,2009,0.7,Canada,3,Criollo,Venezuela,Sastisfactorio
+430,Chokolat Elot (Girard),Guadeloupe,1149,2013,0.42,Martinique,2.75,,Martinique,Decepcionante
+431,Choocsol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",1832,2016,0.75,Canada,3.25,,Mexico,Sastisfactorio
+432,Christopher Morel (Felchlin),"Maranon Canyon, Fortunato No. 4",666,2011,0.68,Canada,3.75,Forastero_Nacional,Peru,Sastisfactorio
+433,Chuao Chocolatier,Choroni,445,2009,0.61,U.S.A.,3,Criollo,Venezuela,Sastisfactorio
+434,Chuao Chocolatier (Pralus),Chuao,486,2010,0.77,U.S.A.,2.75,Trinitario,Venezuela,Decepcionante
+435,Claudio Corallo,Terreiro Velho P.,470,2010,0.735,Sao Tome,3.75,Forastero,Sao Tome & Principe,Sastisfactorio
+436,Claudio Corallo,Terreiro Velho P. w/ sugar crystals,209,2008,0.8,Sao Tome,3,Forastero,Sao Tome & Principe,Sastisfactorio
+437,Claudio Corallo,Terreiro Velho P.,227,2008,0.75,Sao Tome,4,Forastero,Sao Tome & Principe,Premiun
+438,Claudio Corallo,Principe,252,2008,1,Sao Tome,1,Forastero,Sao Tome & Principe,Desagradable
+439,Cloudforest,"Camino Verde P., Balao, Guayas, 2014",1486,2015,0.73,U.S.A.,3.5,,Ecuador,Sastisfactorio
+440,Coleman & Davis,Sambirano,1646,2015,0.75,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+441,Compania de Chocolate (Salgado),Sur del Lago,579,2010,0.7,Argentina,3.25,,Venezuela,Sastisfactorio
+442,Compania de Chocolate (Salgado),Carenero Superior,292,2008,0.8,Argentina,2.75,Trinitario,Venezuela,Decepcionante
+443,Compania de Chocolate (Salgado),Moxos,292,2008,0.72,Argentina,3.25,,Bolivia,Sastisfactorio
+444,Compania de Chocolate (Salgado),Ocumare,292,2008,0.7,Argentina,3.75,Criollo,Venezuela,Sastisfactorio
+445,Compania de Chocolate (Salgado),Esmeraldas,296,2008,0.88,Argentina,2.75,Forastero_Nacional,Ecuador,Decepcionante
+446,Condor,Camino Verde,1630,2015,0.76,U.S.A.,3.5,,Ecuador,Sastisfactorio
+447,Confluence,"Tien Giang, 2015, batch 10-2-16",1916,2016,0.78,U.S.A.,2.75,Trinitario,Vietnam,Decepcionante
+448,Coppeneur,"Ecuador, Puristique",1169,2013,0.65,Germany,3.25,Forastero_Nacional,Ecuador,Sastisfactorio
+449,Coppeneur,Ghana Puristique,813,2012,0.85,Germany,3.5,Forastero,Ghana,Sastisfactorio
+450,Coppeneur,Ecuador Puristique,817,2012,1,Germany,1.5,,Ecuador,Desagradable
+451,Coppeneur,Uba Budo,821,2012,0.72,Germany,3.75,Forastero,Sao Tome & Principe,Sastisfactorio
+452,Coppeneur,Madagascar,959,2012,0.7,Germany,3.5,Trinitario,Madagascar,Sastisfactorio
+453,Coppeneur,Grenada,470,2010,0.72,Germany,3.25,Trinitario,Grenada,Sastisfactorio
+454,Coppeneur,Chuao,478,2010,0.7,Germany,3,Trinitario,Venezuela,Sastisfactorio
+455,Coppeneur,"Los Rios, H. Iara",558,2010,0.72,Germany,2.5,Nacional,Ecuador,Decepcionante
+456,Coppeneur,Trinidad,558,2010,0.72,Germany,3,Trinitario,Trinidad,Sastisfactorio
+457,Coppeneur,Jamaica,558,2010,0.72,Germany,3.25,Trinitario,Jamaica,Sastisfactorio
+458,Coppeneur,Ocumare 61,558,2010,0.72,Germany,3.25,Criollo_Ocumare_61,Venezuela,Sastisfactorio
+459,Coppeneur,"Porcelana, Apotequil",341,2009,0.72,Germany,3,Criollo,Peru,Sastisfactorio
+460,Coppeneur,"Porcelana, Apotequil",445,2009,0.62,Germany,3.25,Criollo,Peru,Sastisfactorio
+461,Coppeneur,Chuao 100hr,451,2009,0.7,Germany,3.5,Criollo_Trinitario,Venezuela,Sastisfactorio
+462,Coppeneur,Chuao 70hr,451,2009,0.7,Germany,3.75,Criollo_Trinitario,Venezuela,Sastisfactorio
+463,Coppeneur,"Porcelana, Tabasco, Mexico",220,2008,0.72,Germany,3,Criollo,Mexico,Sastisfactorio
+464,Coppeneur,"Porcelana, Venezuela",220,2008,0.72,Germany,3,Criollo_Porcelana,Venezuela,Sastisfactorio
+465,Coppeneur,"Sambirano, Menava P.",196,2007,0.72,Germany,3,Trinitario,Madagascar,Sastisfactorio
+466,Cote d' Or (Kraft),Sensations Intense,48,2006,0.7,Belgium,1,,,Desagradable
+467,Cravve,New Ireland,1283,2014,0.7,Australia,2.5,Forastero,Papua New Guinea,Decepcionante
+468,Cravve,"Vanuatu, batch 2410",1335,2014,0.83,Australia,2.75,Trinitario,Vanuatu,Decepcionante
+469,Cravve,"Tanzania, batch a1",971,2012,0.75,Australia,3.25,Forastero,Tanzania,Sastisfactorio
+470,Cravve,"Bahia, batch a1213",975,2012,0.65,Australia,3.25,Trinitario,Brazil,Sastisfactorio
+471,Cravve,"Namau Village, N. Taileva P., batch a2812",975,2012,0.67,Australia,3.25,Trinitario,Fiji,Sastisfactorio
+472,Cravve,Vanuatu,975,2012,0.64,Australia,3.25,Trinitario,Vanuatu,Sastisfactorio
+473,Cravve,Djual Island,975,2012,0.75,Australia,3.5,Forastero,Papua New Guinea,Sastisfactorio
+474,Creo,"""heirloom"", Arriba Nacional",1736,2016,0.85,U.S.A.,3.25,Forastero_Nacional,Ecuador,Sastisfactorio
+475,Creo,"""heirloom"", Arriba Nacional",1736,2016,0.73,U.S.A.,3.75,Forastero_Nacional,Ecuador,Sastisfactorio
+476,Daintree,Goodman Estate,1654,2015,0.7,Australia,2.75,,Australia,Decepcionante
+477,Daintree,"Daintree Estates, N. Queensland",785,2011,0.7,Australia,3.25,,Australia,Sastisfactorio
+478,Dalloway,"Dominican Republic, batch 7",1928,2017,0.72,U.S.A.,2.75,,Dominican Republic,Decepcionante
+479,Damson,Robson Estate,1610,2015,0.7,U.K.,3,Trinitario,Trinidad,Sastisfactorio
+480,Damson,Los Rios,1610,2015,0.7,U.K.,3.5,,Ecuador,Sastisfactorio
+481,Damson,Crayfish Bay aka Non Pariel Estate,1666,2015,0.7,U.K.,2.25,,Grenada,Decepcionante
+482,Damson,O'Payo,1666,2015,0.7,U.K.,2.75,,Nicaragua,Decepcionante
+483,Dandelion,"Zorzal Reserva, 2015 H., Kerchner",1816,2016,0.7,U.S.A.,3.75,,,Sastisfactorio
+484,Dandelion,"Maya Mtn., Break Bar- Snark",1446,2015,0.7,U.S.A.,3,Trinitario,Belize,Sastisfactorio
+485,Dandelion,Maya Mountain,1219,2014,0.7,U.S.A.,3.5,Trinitario,Belize,Sastisfactorio
+486,Dandelion,"Camino Verde P., Balao, Guayas, 2013",1295,2014,0.7,U.S.A.,3.5,,Ecuador,Sastisfactorio
+487,Dandelion,Buto,1303,2014,0.7,U.S.A.,2.75,,Liberia,Decepcionante
+488,Dandelion,"San Francisco de Macoris, Cibao region",1387,2014,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+489,Dandelion,"Cumboto, farmer Jose Lugo",1026,2013,0.7,U.S.A.,2.75,,Venezuela,Decepcionante
+490,Dandelion,Patanemo,1026,2013,0.7,U.S.A.,3.25,,Venezuela,Sastisfactorio
+491,Dandelion,"Mantuano, 2012",1085,2013,0.7,U.S.A.,3.5,,Venezuela,Sastisfactorio
+492,Dandelion,Papua New Guinea,1153,2013,0.7,U.S.A.,3.5,,Papua New Guinea,Sastisfactorio
+493,Dandelion,Upala,805,2012,0.7,U.S.A.,3,,Costa Rica,Sastisfactorio
+494,Dandelion,Colombian,805,2012,0.7,U.S.A.,3.25,,Colombia,Sastisfactorio
+495,Dandelion,"Elvesia, 2011",915,2012,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+496,Dandelion,Dominican Republic,654,2011,0.7,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+497,Dandelion,Madagascar,654,2011,0.7,U.S.A.,3.25,Trinitario,Madagascar,Sastisfactorio
+498,Dandelion,Tanzania,654,2011,0.7,U.S.A.,3.25,,Tanzania,Sastisfactorio
+499,Danta,Los Ujuxtes,1223,2014,0.82,Guatemala,3.25,,Guatemala,Sastisfactorio
+500,Danta,Chuao,987,2012,0.75,Guatemala,3,Trinitario,Venezuela,Sastisfactorio
+501,Danta,Los Ujuxtes,987,2012,0.7,Guatemala,3.75,,Guatemala,Sastisfactorio
+502,Danta,Sambirano,987,2012,0.7,Guatemala,3.75,Trinitario,Madagascar,Sastisfactorio
+503,Danta,Las Acacias E.,987,2012,0.7,Guatemala,4,Criollo,Guatemala,Premiun
+504,Danta,"Oscuro, Finca Chimelb",991,2012,0.7,Guatemala,3.25,,Guatemala,Sastisfactorio
+505,Danta,Los Ujuxtes,661,2011,0.6,Guatemala,3.5,,Guatemala,Sastisfactorio
+506,Danta,Las Acacias E.,423,2009,0.75,Guatemala,3,Criollo,Guatemala,Sastisfactorio
+507,Danta,Las Acacias E.,423,2009,0.6,Guatemala,3.25,Criollo,Guatemala,Sastisfactorio
+508,DAR,"Venezuela, batch 122",1920,2016,0.72,U.S.A.,2.75,,Venezuela,Decepcionante
+509,DAR,Vietnam,1920,2016,0.72,U.S.A.,3,Trinitario,Vietnam,Sastisfactorio
+510,DAR,"DUO, batch 002",1920,2016,0.7,U.S.A.,3.25,,"Ecuador, Costa Rica",Sastisfactorio
+511,Dark Forest,Bolivia,1708,2016,0.75,U.S.A.,3.25,,Bolivia,Sastisfactorio
+512,Dark Forest,Madagascar,1550,2015,0.7,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+513,Dark Forest,Ocumare,1550,2015,0.7,U.S.A.,3.25,,Venezuela,Sastisfactorio
+514,Dark Forest,Tanzania,1554,2015,0.7,U.S.A.,3,,Tanzania,Sastisfactorio
+515,Dark Forest,Ecuador,1554,2015,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+516,Davis,Ghana,1093,2013,0.7,U.S.A.,2.5,Forastero,Ghana,Decepcionante
+517,Davis,Rainforest,1093,2013,0.7,U.S.A.,2.75,,Dominican Republic,Decepcionante
+518,Davis,Venezuela,1093,2013,0.7,U.S.A.,2.75,,Venezuela,Decepcionante
+519,Davis,West Africa,907,2012,0.58,U.S.A.,3.25,Forastero,West Africa,Sastisfactorio
+520,De Mendes,"Nativo, Varzea",1462,2015,0.72,Brazil,3.5,,Brazil,Sastisfactorio
+521,De Mendes,"Selvagem, Jari",1462,2015,0.65,Brazil,3.5,,Brazil,Sastisfactorio
+522,De Villiers,Bundibugyo District,1832,2016,0.7,South Africa,2.5,Forastero,Uganda,Decepcionante
+523,De Villiers,"Sambirano Valley, batch 2477",1832,2016,0.7,South Africa,3,,Madagascar,Sastisfactorio
+524,Dean and Deluca (Belcolade),Madagascar,170,2007,0.66,U.S.A.,2.5,Trinitario,Madagascar,Decepcionante
+525,Dean and Deluca (Belcolade),Costa Rica,175,2007,0.64,U.S.A.,3,,Costa Rica,Sastisfactorio
+526,Dean and Deluca (Belcolade),Ecuador,175,2007,0.71,U.S.A.,3,,Ecuador,Sastisfactorio
+527,Dean and Deluca (Belcolade),Ghana,175,2007,0.6,U.S.A.,3,Forastero,Ghana,Sastisfactorio
+528,Dean and Deluca (Belcolade),Papua New Guinea,180,2007,0.64,U.S.A.,3,,Papua New Guinea,Sastisfactorio
+529,Dean and Deluca (Belcolade),Peru,180,2007,0.64,U.S.A.,3,,Peru,Sastisfactorio
+530,Debauve & Gallais (Michel Cluizel),Papua New Guinea,423,2009,0.64,France,3,,Papua New Guinea,Sastisfactorio
+531,Debauve & Gallais (Michel Cluizel),Venezuela,263,2008,0.66,France,3.75,,Venezuela,Sastisfactorio
+532,Desbarres,"Kilombero, batch 41",1916,2016,0.72,Canada,2.5,,Tanzania,Decepcionante
+533,DeVries,Bolivian,241,2008,0.8,U.S.A.,2.75,,Bolivia,Decepcionante
+534,DeVries,Costa Rica,166,2007,0.77,U.S.A.,3.5,Trinitario,Costa Rica,Sastisfactorio
+535,DeVries,Dominican Republic,166,2007,0.77,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+536,Dick Taylor,Lanquin Estate,1952,2017,0.7,U.S.A.,3.75,,Guatemala,Sastisfactorio
+537,Dick Taylor,Tien Giang,1864,2016,0.78,U.S.A.,3.5,Trinitario,Vietnam,Sastisfactorio
+538,Dick Taylor,"Alto Beni, Wild Harvest, Limited Ed.",1634,2015,0.7,U.S.A.,3.75,,Bolivia,Sastisfactorio
+539,Dick Taylor,Elvesia,1235,2014,0.74,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+540,Dick Taylor,"Ecuador, Choc. Garage Exclusive",1034,2013,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+541,Dick Taylor,Camino Verde,1193,2013,0.76,U.S.A.,3.5,,Ecuador,Sastisfactorio
+542,Dick Taylor,Bolivia,895,2012,0.75,U.S.A.,2.75,,Bolivia,Decepcionante
+543,Dick Taylor,Belize,955,2012,0.72,U.S.A.,2.75,Trinitario,Belize,Decepcionante
+544,Dick Taylor,Sambirano,661,2011,0.8,U.S.A.,2.75,Trinitario,Madagascar,Decepcionante
+545,Dick Taylor,Sambirano,661,2011,0.72,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+546,Dick Taylor,Mantuano,682,2011,0.75,U.S.A.,2.75,Criollo,Venezuela,Decepcionante
+547,Dick Taylor,La Red,769,2011,0.74,U.S.A.,3,,Dominican Republic,Sastisfactorio
+548,Dick Taylor,Ecuador,769,2011,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+549,Doble & Bignall,Puerto Cabello,1688,2015,0.85,U.K.,3,,Venezuela,Sastisfactorio
+550,Doble & Bignall,"Panama, Raven",1371,2014,0.72,U.K.,3.25,,Panama,Sastisfactorio
+551,Doble & Bignall,"Puerto Cabello, Mantuano",1371,2014,0.72,U.K.,3.25,Trinitario,Venezuela,Sastisfactorio
+552,Doble & Bignall,Johe,1407,2014,0.72,U.K.,3.5,Criollo_Trinitario,Nicaragua,Sastisfactorio
+553,Dole (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,0.7,U.S.A.,3.75,,Hawaii,Sastisfactorio
+554,Dolfin (Belcolade),Africa,304,2008,0.88,Belgium,3,Forastero,West Africa,Sastisfactorio
+555,Dolfin (Belcolade),Noir,63,2006,0.7,Belgium,1.5,,,Desagradable
+556,Domori,Hacienda Victoria,1672,2015,0.7,Italy,3.75,,Ecuador,Sastisfactorio
+557,Domori,Ocumare 77,1672,2015,0.7,Italy,3.75,Criollo_Ocumare_77,Venezuela,Sastisfactorio
+558,Domori,"IL100, H. San Jose",1109,2013,1,Italy,3,Criollo,Venezuela,Sastisfactorio
+559,Domori,Morogoro,863,2012,0.7,Italy,3.5,,Tanzania,Sastisfactorio
+560,Domori,Guasare,863,2012,0.7,Italy,3.75,Criollo,Venezuela,Sastisfactorio
+561,Domori,"Canoabo, Hacienda San Jose",693,2011,0.7,Italy,3.5,Criollo,Venezuela,Sastisfactorio
+562,Domori,"Chuao, Hacienda San Jose",470,2010,0.7,Italy,3,Trinitario,Venezuela,Sastisfactorio
+563,Domori,"Carupano, H. San Jose",227,2008,0.7,Italy,3,Trinitario,Venezuela,Sastisfactorio
+564,Domori,Teyuna,272,2008,0.7,Italy,3,,Colombia,Sastisfactorio
+565,Domori,Blend No. 1,272,2008,0.78,Italy,3.5,Blend,,Sastisfactorio
+566,Domori,Ilblend,272,2008,0.7,Italy,3.75,Blend,,Sastisfactorio
+567,Domori,Porcelana,111,2007,0.7,Italy,4,Criollo_Porcelana,Venezuela,Premiun
+568,Domori,"Ocumare 61, Puertomar",129,2007,0.75,Italy,3.25,Criollo_Ocumare_61,Venezuela,Sastisfactorio
+569,Domori,Granella,135,2007,0.6,Italy,3.25,Trinitario,Venezuela,Sastisfactorio
+570,Domori,Madagascar,135,2007,0.7,Italy,3.5,Trinitario,Madagascar,Sastisfactorio
+571,Domori,Madagared,192,2007,0.7,Italy,3.5,Criollo,Madagascar,Sastisfactorio
+572,Domori,"Java, Javablond",192,2007,0.7,Italy,3.75,Criollo,Indonesia,Sastisfactorio
+573,Domori,Ecuador,192,2007,0.7,Italy,4,Forastero_Arriba,Ecuador,Premiun
+574,Domori,"Ocumare 67, Puertofino",192,2007,0.7,Italy,4,Criollo_Ocumare_67,Venezuela,Premiun
+575,Domori,Sur del Lago Classificado,87,2006,0.7,Italy,3,Trinitario,Venezuela,Sastisfactorio
+576,Domori,Apurimac,87,2006,0.7,Italy,3.25,Trinitario,Peru,Sastisfactorio
+577,Domori,Carenero Superior,87,2006,0.7,Italy,3.5,Trinitario,Venezuela,Sastisfactorio
+578,Dormouse,Non Pariel Estate,1880,2016,0.75,U.K.,2.75,Trinitario,Grenada,Decepcionante
+579,Dormouse,"Rio Caribe, Batch 7",1672,2015,0.7,U.K.,2.5,Trinitario,Venezuela,Decepcionante
+580,Dormouse,"Colombia, Batch 9",1676,2015,0.8,U.K.,2.75,Criollo_Trinitario,Colombia,Decepcionante
+581,Dormouse,"Madagascar, Batch 8",1676,2015,0.77,U.K.,2.75,Criollo_Trinitario,Madagascar,Decepcionante
+582,Duffy's,"Rio Dulce, Xoco",1662,2015,0.7,U.K.,4,Criollo,Guatemala,Premiun
+583,Duffy's,"Chuno, Xoco",1331,2014,0.7,U.K.,3.5,Criollo,Nicaragua,Sastisfactorio
+584,Duffy's,"Rico Rugoso, Xoco",1331,2014,0.76,U.K.,3.75,Criollo,Nicaragua,Sastisfactorio
+585,Duffy's,Ocumare,923,2012,0.72,U.K.,3.75,,Venezuela,Sastisfactorio
+586,Duffy's,"Indio Rojo, Xoco",623,2011,0.72,U.K.,3.75,Criollo,Honduras,Sastisfactorio
+587,Duffy's,Dominican Republic,661,2011,0.65,U.K.,3.5,,Dominican Republic,Sastisfactorio
+588,Duffy's,"Bocas del Toro, Tierra Oscura",697,2011,0.72,U.K.,3,,Panama,Sastisfactorio
+589,Duffy's,"Nicaliso, Xoco",697,2011,0.71,U.K.,3.25,Criollo,Nicaragua,Sastisfactorio
+590,Duffy's,Ocumare,765,2011,0.71,U.K.,3.5,,Venezuela,Sastisfactorio
+591,Duffy's,Panama,516,2010,0.7,U.K.,3.5,,Panama,Sastisfactorio
+592,Duffy's,"Corazon del Ecuador, Calceta beans",516,2010,0.72,U.K.,3.75,,Ecuador,Sastisfactorio
+593,Duffy's,Star of Ecuador,523,2010,0.7,U.K.,2.5,,Ecuador,Decepcionante
+594,Duffy's,Star of Peru,523,2010,0.7,U.K.,3.75,,Peru,Sastisfactorio
+595,Dulcinea,Dominican Republic,1506,2015,0.7,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+596,Durand,Madagascar,841,2012,0.82,France,2.75,Trinitario,Madagascar,Decepcionante
+597,Durci,"Maranon, Joya Rara",1626,2015,0.7,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+598,Durci,"Rio Caribe, Tepui Treasure",1626,2015,0.7,U.S.A.,3.5,Trinitario,Venezuela,Sastisfactorio
+599,Durci,Taino Secret,1630,2015,0.7,U.S.A.,3.25,,Domincan Republic,Sastisfactorio
+600,Durci,"Carenero, Empyrean Sabor",1630,2015,0.7,U.S.A.,3.25,Trinitario,Venezuela,Sastisfactorio
+601,Durci,Corona Arriba,1630,2015,0.7,U.S.A.,4,,Ecuador,Premiun
+602,East Van Roasters,Peru,1343,2014,0.7,Canada,3.25,,Peru,Sastisfactorio
+603,East Van Roasters,Madagascar,1343,2014,0.7,Canada,3.5,Trinitario,Madagascar,Sastisfactorio
+604,East Van Roasters,Dominican Republic,1343,2014,0.7,Canada,3.75,,Dominican Republic,Sastisfactorio
+605,Eau de Rose,Tumaco,1812,2016,0.7,Canada,3.25,,Colombia,Sastisfactorio
+606,Eau de Rose,Arauca,1812,2016,0.7,Canada,3.25,,Colombia,Sastisfactorio
+607,Eclat (Felchlin),"Maranon, Good & Evil, w/ nibs",919,2012,0.72,U.S.A.,2.75,Forastero_Nacional,Peru,Decepcionante
+608,Edelmond,Porcelana,1876,2016,0.68,Germany,3,Criollo,Venezuela,Sastisfactorio
+609,El Ceibo,"Alto Beni, Covendo Region",709,2011,0.75,Bolivia,3.75,,Bolivia,Sastisfactorio
+610,El Ceibo,Alto Beni,252,2008,0.71,Bolivia,2.75,,Bolivia,Decepcionante
+611,El Rey,San Joaquin,1662,2015,0.7,Venezuela,3.75,,Venezuela,Sastisfactorio
+612,El Rey,"Rio Caribe, Cariaco",439,2009,0.605,Venezuela,2.75,Trinitario,Venezuela,Decepcionante
+613,El Rey,"Rio Caribe, Macuro",439,2009,0.7,Venezuela,3,Trinitario,Venezuela,Sastisfactorio
+614,El Rey,"Carenero Superior, Apamate",206,2008,0.74,Venezuela,2.5,Criollo,Venezuela,Decepcionante
+615,El Rey,"Carenero Superior, Bucare",206,2008,0.58,Venezuela,2.5,Criollo,Venezuela,Decepcionante
+616,El Rey,"Carenero Superior, Mijao",206,2008,0.61,Venezuela,3,Criollo,Venezuela,Sastisfactorio
+617,El Rey,"Carenero Superior, Gran Saman",32,2006,0.7,Venezuela,2.75,Criollo,Venezuela,Decepcionante
+618,Emerald Estate,Emerald Estate,1137,2013,0.6,St. Lucia,2.75,,St. Lucia,Decepcionante
+619,Emerald Estate,Emerald Estate,1137,2013,0.7,St. Lucia,3.25,,St. Lucia,Sastisfactorio
+620,Emily's,Patanemo,1450,2015,0.79,Japan,3,,Venezuela,Sastisfactorio
+621,Emily's,Peru,1454,2015,0.78,Japan,3.5,Criollo,Peru,Sastisfactorio
+622,ENNA,"Wampusirpi, batch 007",1916,2016,0.75,U.S.A.,3.25,,Honduras,Sastisfactorio
+623,Enric Rovira (Claudio Corallo),Terreiro Velho P.,565,2010,0.8,Spain,3.25,Forastero,Sao Tome & Principe,Sastisfactorio
+624,Erithaj (A. Morin),Ben Tre,1205,2014,0.7,France,3.25,Trinitario,Vietnam,Sastisfactorio
+625,Erithaj (A. Morin),Ham Luong,1209,2014,0.8,France,3,Trinitario,Vietnam,Sastisfactorio
+626,Erithaj (A. Morin),Ba Lai,1209,2014,0.74,France,3.25,Trinitario,Vietnam,Sastisfactorio
+627,Escazu,Rio Caribe,903,2012,0.7,U.S.A.,2.75,Trinitario,Venezuela,Decepcionante
+628,Escazu,Guapiles,414,2009,0.65,U.S.A.,2,,Costa Rica,Decepcionante
+629,Escazu,Carenero Superior,423,2009,0.81,U.S.A.,3.5,Criollo,Venezuela,Sastisfactorio
+630,Escazu,"Carenero, Guapiles, Ocumare blend",431,2009,0.74,U.S.A.,2.75,,"Cost Rica, Ven",Decepcionante
+631,Escazu,Ocumare,252,2008,0.72,U.S.A.,3,Criollo,Venezuela,Sastisfactorio
+632,Ethel's Artisan (Mars),"Peru, Madagascar",666,2011,0.55,U.S.A.,2.5,,"Peru, Madagascar",Decepcionante
+633,Ethel's Artisan (Mars),Trinidad,666,2011,0.55,U.S.A.,2.5,Trinitario,Trinidad,Decepcionante
+634,Ethel's Artisan (Mars),Porcelana,666,2011,0.7,U.S.A.,2.5,Criollo_Porcelana,Venezuela,Decepcionante
+635,Ethel's Artisan (Mars),Red Vanilla,666,2011,0.62,U.S.A.,2.75,,,Decepcionante
+636,Ethel's Artisan (Mars),"Venezuela, Trinidad",672,2011,0.62,U.S.A.,2.5,,"Venezuela, Trinidad",Decepcionante
+637,Ethereal,Belize,1275,2014,0.8,U.S.A.,3,Trinitario,Belize,Sastisfactorio
+638,Ethereal,Ecuador,1275,2014,0.8,U.S.A.,3.5,,Ecuador,Sastisfactorio
+639,Ethereal,Dominican Republic,1275,2014,0.8,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+640,Fearless (AMMA),"Monte Alegre, D. Badaro, Raw, Organic",565,2010,0.75,U.S.A.,2.75,,Brazil,Decepcionante
+641,Feitoria Cacao,Blue Mountain,1732,2016,0.76,Portugal,3,,Jamaica,Sastisfactorio
+642,Feitoria Cacao,Cuyagua,1736,2016,0.76,Portugal,2.5,,Venezuela,Decepcionante
+643,Feitoria Cacao,Maya Mountain,1736,2016,0.76,Portugal,2.75,Trinitario,Belize,Decepcionante
+644,Felchlin,Grenada,494,2010,0.58,Switzerland,3.5,Trinitario,Grenada,Sastisfactorio
+645,Felchlin,Supremo- SF,105,2006,0.62,Switzerland,2,,,Decepcionante
+646,Felchlin,Elvesia P.,105,2006,0.74,Switzerland,3,Trinitario_Criollo,Dominican Republic,Sastisfactorio
+647,Felchlin,"Madagascar, Grand Cru",48,2006,0.64,Switzerland,3,Criollo,Madagascar,Sastisfactorio
+648,Felchlin,Maracaibo Clasificado,48,2006,0.65,Switzerland,3,Criollo,Venezuela,Sastisfactorio
+649,Felchlin,Arriba,48,2006,0.72,Switzerland,3.5,Forastero_Arriba,Ecuador,Sastisfactorio
+650,Felchlin,"Alto Beni, Cru Savage",56,2006,0.68,Switzerland,4,Criollo_Wild,Bolivia,Premiun
+651,Finca,Puerto Rico,1283,2014,0.65,U.S.A.,2.25,,Puerto Rico,Decepcionante
+652,Finca,Dominican Republic,1283,2014,0.8,U.S.A.,3,,Dominican Republic,Sastisfactorio
+653,Finca,Dominican Republic,1283,2014,0.7,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+654,Finca,Dominican Republic,1287,2014,0.85,U.S.A.,2.5,,Dominican Republic,Decepcionante
+655,Forever Cacao,Rio Eni,1267,2014,0.72,U.K.,2.75,Criollo,Peru,Decepcionante
+656,Forteza (Cortes),Dominican Republic,1776,2016,0.7,Puerto Rico,2.75,,Domincan Republic,Decepcionante
+657,Forteza (Cortes),Puerto Rico,1776,2016,0.8,Puerto Rico,2.75,,Domincan Republic,Decepcionante
+658,Fossa,"Akesson's E., Sambirano V.",1772,2016,0.7,Singapore,2.75,,Madagascar,Decepcionante
+659,Fossa,"Camino Verde P., Balao, Guayas",1776,2016,0.75,Singapore,3.5,,Ecuador,Sastisfactorio
+660,Fossa,"Kokoa Kamili Coop, Kilombero",1776,2016,0.67,Singapore,3.75,Trinitario,Tanzania,Sastisfactorio
+661,Franceschi,Choroni,1355,2014,0.7,Venezuela,3.5,,Venezuela,Sastisfactorio
+662,Franceschi,Ocumare,1355,2014,0.7,Venezuela,3.75,,Venezuela,Sastisfactorio
+663,Franceschi,Canoabo,911,2012,0.7,Venezuela,3.75,,Venezuela,Sastisfactorio
+664,Franceschi,Sur del Lago,915,2012,0.6,Venezuela,3.5,,Venezuela,Sastisfactorio
+665,Frederic Blondeel,Costa Rica,1538,2015,0.7,Belgium,3.5,,Costa Rica,Sastisfactorio
+666,Frederic Blondeel,Peru Brutus,1538,2015,0.75,Belgium,3.5,,Peru,Sastisfactorio
+667,Frederic Blondeel,Vietnam,1542,2015,0.8,Belgium,3,Trinitario,Vietnam,Sastisfactorio
+668,Frederic Blondeel,Ghana,1351,2014,0.6,Belgium,3.5,Forastero,Ghana,Sastisfactorio
+669,Frederic Blondeel,Madagascar,1351,2014,0.65,Belgium,3.5,Trinitario,Madagascar,Sastisfactorio
+670,French Broad,"Norandino, batch 161208",1940,2017,0.7,U.S.A.,3.5,,Peru,Sastisfactorio
+671,French Broad,Guatemala,1634,2015,0.73,U.S.A.,3.5,,Guatemala,Sastisfactorio
+672,French Broad,San Andres,1209,2014,0.8,U.S.A.,3,,Costa Rica,Sastisfactorio
+673,French Broad,Matagalpa,1295,2014,0.68,U.S.A.,3.25,,Nicaragua,Sastisfactorio
+674,French Broad,"Palo Blanco, Chulucanas",1042,2013,0.66,U.S.A.,3.5,,Peru,Sastisfactorio
+675,French Broad,Tumbes Coop,883,2012,0.7,U.S.A.,2.5,Criollo,Peru,Decepcionante
+676,French Broad,"Palo Blanco, Chulucanas",883,2012,0.61,U.S.A.,3.5,,Peru,Sastisfactorio
+677,French Broad,"Palo Blanco w/ panela, Chulucanas",887,2012,0.81,U.S.A.,2,,Peru,Decepcionante
+678,French Broad,"Maranon Canyon, Fortunato No. 4",781,2011,0.7,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+679,French Broad,La Red,785,2011,0.65,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+680,Fresco,"Maranon, #228, MR, SC",1383,2014,0.7,U.S.A.,3,Forastero_Nacional,Peru,Sastisfactorio
+681,Fresco,"Maranon, #227, LR, MC",1383,2014,0.7,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+682,Fresco,"Maranon, #229, MR, LC",1383,2014,0.7,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+683,Fresco,"Maranon, #230, DR, LC",1387,2014,0.7,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+684,Fresco,"Conacado, #223, MR, SC",1030,2013,0.72,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+685,Fresco,"Conacado, #224, MR, MC",1081,2013,0.72,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+686,Fresco,"San Martin, Bellavista Coop, #226, DR, MC",1117,2013,0.7,U.S.A.,3.75,,Peru,Sastisfactorio
+687,Fresco,"Bellavista Coop, #225, LR, MC, CG Exclusive",1149,2013,0.7,U.S.A.,4,Trinitario,Peru,Premiun
+688,Fresco,"Markham Valley, #219, LR, MC",899,2012,0.69,U.S.A.,3.5,,Papua New Guinea,Sastisfactorio
+689,Fresco,"Markham Valley, #221, DR, MC",899,2012,0.69,U.S.A.,3.5,,Papua New Guinea,Sastisfactorio
+690,Fresco,"Sambirano Valley, #216, MR, LC",915,2012,0.74,U.S.A.,4,Trinitario,Madagascar,Premiun
+691,Fresco,"Markham Valley, #220, MR, MC",927,2012,0.69,U.S.A.,4,Trinitario,Papua New Guinea,Premiun
+692,Fresco,"Markham Valley, #222, LR, 0C",931,2012,0.69,U.S.A.,3,Trinitario,Papua New Guinea,Sastisfactorio
+693,Fresco,"Ghana, #211, MR, MC",636,2011,0.74,U.S.A.,2.75,Forastero,Ghana,Decepcionante
+694,Fresco,"Jamaica, #209, DR, SC",642,2011,0.7,U.S.A.,3.25,Trinitario,Jamaica,Sastisfactorio
+695,Fresco,"Conacado, #212, LR, SC",642,2011,0.72,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+696,Fresco,"Jamaica, #210, DR, MC",642,2011,0.7,U.S.A.,3.5,Trinitario,Jamaica,Sastisfactorio
+697,Fresco,"Sambirano Valley, #214, LR, MC",682,2011,0.74,U.S.A.,2.75,Trinitario,Madagascar,Decepcionante
+698,Fresco,"Conacado, #213, DR, -C",682,2011,0.72,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+699,Fresco,"Sambirano Valley, #215, MR, MC",688,2011,0.74,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+700,Fresco,"Chuao, #218, MR, MC",745,2011,0.76,U.S.A.,3.25,Trinitario,Venezuela,Sastisfactorio
+701,Fresco,"Chuao, #217, DR, MC",745,2011,0.7,U.S.A.,4,Trinitario,Venezuela,Premiun
+702,Fresco,"Jamaica, #204, DR, SC",370,2009,0.8,U.S.A.,2.75,Trinitario,Jamaica,Decepcionante
+703,Fresco,"Jamaica, #206, DR, LC",370,2009,0.7,U.S.A.,3,Trinitario,Jamaica,Sastisfactorio
+704,Fresco,"Jamaica, #205, DR, MC",370,2009,0.7,U.S.A.,3.25,Trinitario,Jamaica,Sastisfactorio
+705,Fresco,"Carenero Superior, #203, MR, SC",370,2009,0.65,U.S.A.,3.5,Criollo,Venezuela,Sastisfactorio
+706,Friis Holm,"Rugoso, Bad Fermentation",1912,2016,0.7,Denmark,3.5,,Nicaragua,Sastisfactorio
+707,Friis Holm (Bonnat),La Dalia,1680,2015,0.6,Denmark,3,,Nicaragua,Sastisfactorio
+708,Friis Holm (Bonnat),La Dalia,1680,2015,0.85,Denmark,3.25,,Nicaragua,Sastisfactorio
+709,Friis Holm (Bonnat),La Dalia,1259,2014,0.7,Denmark,3.5,,Nicaragua,Sastisfactorio
+710,Friis Holm (Bonnat),"Barba, Xoco",1034,2013,0.7,Denmark,3.25,,Nicaragua,Sastisfactorio
+711,Friis Holm (Bonnat),"Medagla, Xoco",1034,2013,0.7,Denmark,3.5,,Nicaragua,Sastisfactorio
+712,Friis Holm (Bonnat),"Chuno, triple turned, Xoco",895,2012,0.7,Denmark,3.25,Criollo_Trinitario,Nicaragua,Sastisfactorio
+713,Friis Holm (Bonnat),"Red Mayan, Xoco",899,2012,0.7,Denmark,3.25,Criollo_Trinitario,Honduras,Sastisfactorio
+714,Friis Holm (Bonnat),"Chuno, double turned, Xoco",899,2012,0.7,Denmark,3.25,Criollo_Trinitario,Nicaragua,Sastisfactorio
+715,Friis Holm (Bonnat),"Rugoso, Xoco",923,2012,0.7,Denmark,3.75,,Nicaragua,Sastisfactorio
+716,Friis Holm (Bonnat),"Johe, Xoco",623,2011,0.7,Denmark,3.25,Criollo_Trinitario,Nicaragua,Sastisfactorio
+717,Friis Holm (Bonnat),"Chuno, Xoco",623,2011,0.7,Denmark,3.5,Criollo_Trinitario,Nicaragua,Sastisfactorio
+718,Friis Holm (Bonnat),"Nicaliso, Xoco",623,2011,0.7,Denmark,3.5,Criollo_Trinitario,Nicaragua,Sastisfactorio
+719,Fruition,"Wild Bolivian, Batch 2",1780,2016,0.74,U.S.A.,3.75,Beniano,Bolivia,Sastisfactorio
+720,Fruition,"Coto Brus, Heirloom, Batch 1",1780,2016,0.74,U.S.A.,4,Amazon_mix,Costa Rica,Premiun
+721,Fruition,Gran Couva,1347,2014,0.7,U.S.A.,3.75,Trinitario,Trinidad,Sastisfactorio
+722,Fruition,Maranon,1359,2014,0.76,U.S.A.,3,Forastero_Nacional,Peru,Sastisfactorio
+723,Fruition,La Red,1046,2013,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+724,Fruition,Camino Verde,1185,2013,0.75,U.S.A.,3,,Ecuador,Sastisfactorio
+725,Fruition,Peru,863,2012,0.7,U.S.A.,2.5,,Peru,Decepcionante
+726,Fruition,Signature Blend,753,2011,0.66,U.S.A.,3.25,Trinitario,Costa Rica,Sastisfactorio
+727,Fruition,Costa Rica,781,2011,0.7,U.S.A.,3,,Costa Rica,Sastisfactorio
+728,Garden Island,"Kaua'I, Alea Estate +world",1367,2014,0.85,U.S.A.,2.5,Blend,Hawaii,Decepcionante
+729,Georgia Ramon,Akesson P.,1642,2015,0.65,Germany,3.25,Trinitario,Madagascar,Sastisfactorio
+730,Georgia Ramon,ABOCFA Coop,1642,2015,0.7,Germany,4,Forastero,Ghana,Premiun
+731,Georgia Ramon,Conacado Coop,1646,2015,0.7,Germany,3.5,Trinitario,Domincan Republic,Sastisfactorio
+732,Georgia Ramon,Conacado Coop,1646,2015,0.8,Germany,3.5,Trinitario,Domincan Republic,Sastisfactorio
+733,Georgia Ramon,Akesson P.,1646,2015,0.75,Germany,3.5,Trinitario,Madagascar,Sastisfactorio
+734,Glennmade,"Toledo District, 2015 Harvest",1848,2016,0.7,U.S.A.,3.5,,Belize,Sastisfactorio
+735,Glennmade,Bahia,1672,2015,0.66,U.S.A.,3,"Trinitario, Forastero",Brazil,Sastisfactorio
+736,Goodnow Farms,"Almendra Blanca, batch 1004",1924,2016,0.77,U.S.A.,2.75,,Mexico,Decepcionante
+737,Goodnow Farms,"El Carmen, batch 1003",1924,2016,0.77,U.S.A.,3.25,,Nicaragua,Sastisfactorio
+738,Goodnow Farms,"Asochivite, batch 1005",1924,2016,0.77,U.S.A.,3.25,,Guatemala,Sastisfactorio
+739,Grand Place,"Ben Tre, Dong Nai",741,2011,0.72,Vietnam,3,Trinitario,Vietnam,Sastisfactorio
+740,Green & Black's (ICAM),Dark,15,2006,0.7,U.K.,2.5,,,Decepcionante
+741,Green Bean to Bar,Madagascar,1896,2016,0.7,Japan,3.5,,Madagascar,Sastisfactorio
+742,Grenada Chocolate Co.,Grenada,494,2010,0.82,Grenada,3.25,Trinitario,Grenada,Sastisfactorio
+743,Grenada Chocolate Co.,Grenada,363,2009,0.6,Grenada,2.75,Trinitario,Grenada,Decepcionante
+744,Grenada Chocolate Co.,Grenada,241,2008,0.71,Grenada,2.5,Trinitario,Grenada,Decepcionante
+745,Guido Castagna,Arriba,355,2009,0.64,Italy,3,Forastero_Arriba_ASS,Ecuador,Sastisfactorio
+746,Guido Castagna,Ghana,355,2009,0.64,Italy,3,Forastero,Ghana,Sastisfactorio
+747,Guido Castagna,Trinidad & Tobago,355,2009,0.64,Italy,3,,"Trinidad, Tobago",Sastisfactorio
+748,Guido Castagna,Lacri Blend,355,2009,0.76,Italy,3,,Venezuela,Sastisfactorio
+749,Guido Castagna,Blend,355,2009,0.64,Italy,3.25,,"Ven, Trinidad, Ecuador",Sastisfactorio
+750,Guittard,"Epique, Blend No. 49",1602,2015,0.7,U.S.A.,3.75,,,Sastisfactorio
+751,Guittard,Haiti,1053,2013,0.65,U.S.A.,2.75,,Haiti,Decepcionante
+752,Guittard,Nicaragua,1053,2013,0.65,U.S.A.,2.75,,Nicaragua,Decepcionante
+753,Guittard,Jamaica,1053,2013,0.65,U.S.A.,3.25,Trinitario,Jamaica,Sastisfactorio
+754,Guittard,Ecuador,1053,2013,0.65,U.S.A.,3.5,,Ecuador,Sastisfactorio
+755,Guittard,Coucher du Soleil,654,2011,0.72,U.S.A.,2.75,,,Decepcionante
+756,Guittard,Lever du Soleil,654,2011,0.61,U.S.A.,3.25,,,Sastisfactorio
+757,Guittard,Onyx,654,2011,0.72,U.S.A.,3.25,,,Sastisfactorio
+758,Guittard,Trinidad,552,2010,0.65,U.S.A.,3,Trinitario,Trinidad,Sastisfactorio
+759,Guittard,"O'ahu, N. Shore, Waialua E., Kakoleka",316,2009,0.55,U.S.A.,3,,Hawaii,Sastisfactorio
+760,Guittard,Nocturne,387,2009,0.91,U.S.A.,3,,,Sastisfactorio
+761,Guittard,Complexite,387,2009,0.7,U.S.A.,3.5,Blend,,Sastisfactorio
+762,Guittard,Machu Pichu,259,2008,0.65,U.S.A.,3,,Peru,Sastisfactorio
+763,Guittard,Special Maker Reserve,276,2008,0.64,U.S.A.,3,,,Sastisfactorio
+764,Guittard,Ocumare,276,2008,0.65,U.S.A.,3.5,,Venezuela,Sastisfactorio
+765,Guittard,Quetzalcoatl,147,2007,0.72,U.S.A.,3.5,Blend,,Sastisfactorio
+766,Guittard,Chucuri,15,2006,0.65,U.S.A.,3,Trinitario,Colombia,Sastisfactorio
+767,Guittard,Sur del Lago,87,2006,0.65,U.S.A.,2.5,Trinitario_Criollo,Venezuela,Decepcionante
+768,Guittard,"Sambirano, Ambanja",87,2006,0.65,U.S.A.,3.5,Criollo,Madagascar,Sastisfactorio
+769,Guittard,"Los Rios, Quevedo",93,2006,0.65,U.S.A.,3.5,Forastero_Arriba,Ecuador,Sastisfactorio
+770,Guittard,Tsaranta,93,2006,0.61,U.S.A.,3.5,Blend,,Sastisfactorio
+771,Guittard,Semisweet,99,2006,0.61,U.S.A.,3,Blend,,Sastisfactorio
+772,Habitual,Papua New Guinea,1197,2014,0.8,Canada,2.75,,Papua New Guinea,Decepcionante
+773,Habitual,Campesino w/ nibs,1197,2014,0.74,Canada,2.75,,,Decepcionante
+774,Habitual,Dominican Republic,1197,2014,0.75,Canada,3.25,,Dominican Republic,Sastisfactorio
+775,Habitual,Trinitario,1197,2014,0.7,Canada,3.5,Trinitario,,Sastisfactorio
+776,Habitual,Downtown London,1201,2014,0.65,Canada,2.75,,,Decepcionante
+777,Habitual,Africa meets Latina,1201,2014,0.7,Canada,3,,,Sastisfactorio
+778,Habitual,Amazonas,1201,2014,0.8,Canada,3,,,Sastisfactorio
+779,Habitual,Sharkey,1201,2014,0.66,Canada,3.25,,Hawaii,Sastisfactorio
+780,Habitual,one hundred,1205,2014,1,Canada,2,,,Decepcionante
+781,Hachez,Arriba,166,2007,0.77,Germany,2.5,Forastero_Arriba,Ecuador,Decepcionante
+782,Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,0.55,Ecuador,2.75,Trinitario,Ecuador,Decepcionante
+783,Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,0.7,Ecuador,3,Trinitario,Ecuador,Sastisfactorio
+784,Haigh,South America and Africa,701,2011,0.7,Australia,3,,"South America, Africa",Sastisfactorio
+785,Harper Macaw,"Vale do Juliana, w/ nibs",1808,2016,0.85,U.S.A.,3.25,,Brazil,Sastisfactorio
+786,Harper Macaw,Brazil Blend,1696,2015,0.67,U.S.A.,3,,Brazil,Sastisfactorio
+787,Harper Macaw,"Tome Acu E., Amazon Rainforest",1700,2015,0.77,U.S.A.,3.5,,Brazil,Sastisfactorio
+788,Harper Macaw,"Vale do Juliana E., Atlantic Forest",1700,2015,0.74,U.S.A.,3.5,,Brazil,Sastisfactorio
+789,Heilemann,Peru,1876,2016,0.64,Germany,2.75,,Peru,Decepcionante
+790,Heirloom Cacao Preservation (Brasstown),"Maya Mtn, Moho R., Toledo D., 2015",1748,2016,0.7,U.S.A.,3.25,Amazon,Belize,Sastisfactorio
+791,Heirloom Cacao Preservation (Fruition),"Cota Brus, Terciopelo, 2015",1748,2016,0.74,U.S.A.,3.5,Amazon_mix,Costa Rica,Sastisfactorio
+792,Heirloom Cacao Preservation (Guittard),"Alto Beni, Upper Rio Beni, 2014",1239,2014,0.67,U.S.A.,3.5,Amazon_ICS,Bolivia,Sastisfactorio
+793,Heirloom Cacao Preservation (Guittard),"Wild Beni, Lower Rio Beni, Tranquilidad, 2014",1243,2014,0.67,U.S.A.,3,Beniano,Bolivia,Sastisfactorio
+794,Heirloom Cacao Preservation (Guittard),"Los Rios, Hacienda Limon, Orecao, 2014",1243,2014,0.67,U.S.A.,3.75,EET,Ecuador,Sastisfactorio
+795,Heirloom Cacao Preservation (Guittard),"Maunawili, O'ahu, Agri Research C., 2014",1243,2014,0.67,U.S.A.,3.75,,Hawaii,Sastisfactorio
+796,Heirloom Cacao Preservation (Manoa),"Maunawili, O'ahu, Agri Research C., 2015",1744,2016,0.72,U.S.A.,3.5,,Hawaii,Sastisfactorio
+797,Heirloom Cacao Preservation (Millcreek),"Los Rios, Hacienda Limon, Orecao, 2015",1744,2016,0.7,U.S.A.,3.5,EET,Ecuador,Sastisfactorio
+798,Heirloom Cacao Preservation (Mindo),"Pinchincha, Mindo, Coop Nueva Esper., 2015",1748,2016,0.77,U.S.A.,3.5,EET,Ecuador,Sastisfactorio
+799,Heirloom Cacao Preservation (Zokoko),"Alto Beni, Upper Rio Beni, 2015",1744,2016,0.68,U.S.A.,3.75,Amazon_ICS,Bolivia,Sastisfactorio
+800,Heirloom Cacao Preservation (Zokoko),"Wild Beni, Lower Rio Beni, Tranquilidad, 2015",1744,2016,0.72,U.S.A.,4,Beniano,Bolivia,Premiun
+801,hello cocoa,Uganda,1458,2015,0.57,U.S.A.,2.75,Forastero,Uganda,Decepcionante
+802,hello cocoa,Venezuela,1462,2015,0.74,U.S.A.,3.5,Criollo,Venezuela,Sastisfactorio
+803,hexx,Tanzania,1546,2015,0.7,U.S.A.,2.75,,Tanzania,Decepcionante
+804,hexx,Madagascar,1546,2015,0.74,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+805,hexx,Venezuela,1546,2015,0.7,U.S.A.,3,,Venezuela,Sastisfactorio
+806,hexx,Ecuador,1550,2015,0.73,U.S.A.,3.25,,Ecuador,Sastisfactorio
+807,hexx,Peru,1550,2015,0.7,U.S.A.,3.25,,Peru,Sastisfactorio
+808,Hogarth,Akesson's Estate,1712,2016,0.7,New Zealand,2.75,Trinitario,Madagascar,Decepcionante
+809,Hogarth,Carenero Superior,1712,2016,0.72,New Zealand,2.75,Trinitario,Venezuela,Decepcionante
+810,Hogarth,Conacado,1712,2016,0.75,New Zealand,3.25,Trinitario,Domincan Republic,Sastisfactorio
+811,Hogarth,Gran Blanco,1712,2016,0.66,New Zealand,3.5,Criollo,Peru,Sastisfactorio
+812,Hoja Verde (Tulicorp),Arriba,414,2009,0.8,Ecuador,2,Forastero_Arriba_ASS,Ecuador,Decepcionante
+813,Hoja Verde (Tulicorp),Manabi,414,2009,0.8,Ecuador,2.5,Forastero_Arriba_ASS,Ecuador,Decepcionante
+814,Hoja Verde (Tulicorp),Arriba,414,2009,0.72,Ecuador,3,Forastero_Arriba_ASS,Ecuador,Sastisfactorio
+815,Hoja Verde (Tulicorp),Arriba,414,2009,0.58,Ecuador,3.25,Forastero_Arriba_ASS,Ecuador,Sastisfactorio
+816,Hoja Verde (Tulicorp),Manabi,414,2009,0.58,Ecuador,3.5,Forastero_Arriba_ASS,Ecuador,Sastisfactorio
+817,Holy Cacao,Maranon,1872,2016,0.7,Israel,2.75,,Peru,Decepcionante
+818,Holy Cacao,"Camino Verde P., Balao, Guayas",1466,2015,0.7,Israel,3.5,,Ecuador,Sastisfactorio
+819,Holy Cacao,Sambirano,1466,2015,0.7,Israel,3.5,Trinitario,Madagascar,Sastisfactorio
+820,Holy Cacao,Gran Couva,1466,2015,0.7,Israel,3.5,Trinitario,Trinidad,Sastisfactorio
+821,Holy Cacao,Mara,1466,2015,0.7,Israel,3.5,,Venezuela,Sastisfactorio
+822,Holy Cacao,Ivory Coast,431,2009,0.7,Israel,2.5,,Ivory Coast,Decepcionante
+823,Holy Cacao,Hispaniola,431,2009,0.7,Israel,2.75,,Dominican Republic,Decepcionante
+824,Holy Cacao,San Martin,431,2009,0.7,Israel,3.5,,Peru,Sastisfactorio
+825,Holy Cacao,Hispaniola w/ nibs,431,2009,0.75,Israel,3.75,,Dominican Republic,Sastisfactorio
+826,Honest,"Ecuador, w/ nibs",1327,2014,0.72,South Africa,2.5,,Ecuador,Decepcionante
+827,Hotel Chocolat,"Pepiniere, single Cote",1654,2015,0.7,U.K.,2.75,,St. Lucia,Decepcionante
+828,Hotel Chocolat,"Marcial, single Cote, 2012",1030,2013,0.7,U.K.,4,Trinitario,St. Lucia,Premiun
+829,Hotel Chocolat,"Island Growers, 2012, 120hr c.",1113,2013,1,U.K.,1.75,Trinitario,St. Lucia,Desagradable
+830,Hotel Chocolat (Coppeneur),Trinidad,1038,2013,0.75,U.K.,3,Trinitario,Trinidad,Sastisfactorio
+831,Hotel Chocolat (Coppeneur),Mekong Delta & Dong Nai,1038,2013,0.8,U.K.,3.5,Trinitario,Vietnam,Sastisfactorio
+832,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara",1065,2013,0.9,U.K.,3,Forastero_Nacional,Ecuador,Sastisfactorio
+833,Hotel Chocolat (Coppeneur),"Somia Plantation, Akesson, 2012",1065,2013,0.72,U.K.,3,Trinitario,Madagascar,Sastisfactorio
+834,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012",1065,2013,0.82,U.K.,3.5,Forastero_Nacional,Ecuador,Sastisfactorio
+835,Hotel Chocolat (Coppeneur),"Chanchamayo, Pichanadi, 2012, 60hr c.",1109,2013,1,U.K.,2.75,,Peru,Decepcionante
+836,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012, 120hr c.",1113,2013,1,U.K.,2.5,Forastero_Nacional,Ecuador,Decepcionante
+837,Hotel Chocolat (Coppeneur),"Conacado, 2012, 120hr c.",1113,2013,1,U.K.,2.75,,Dominican Republic,Decepcionante
+838,Hotel Chocolat (Coppeneur),Sambirano,809,2012,0.66,U.K.,3.5,Trinitario_Criollo,Madagascar,Sastisfactorio
+839,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 96hr c.",623,2011,0.8,U.K.,3,Forastero_Nacional,Ecuador,Sastisfactorio
+840,Hotel Chocolat (Coppeneur),"Island Growers, 120hr c.",623,2011,0.65,U.K.,3,Trinitario,St. Lucia,Sastisfactorio
+841,Hotel Chocolat (Coppeneur),"Island Growers, 96hr c.",623,2011,0.65,U.K.,3.25,Trinitario,St. Lucia,Sastisfactorio
+842,Hotel Chocolat (Coppeneur),Ecuador,552,2010,0.7,U.K.,2.75,,Ecuador,Decepcionante
+843,Hotel Chocolat (Coppeneur),Santo Domingo,552,2010,0.7,U.K.,3,,Dominican Republic,Sastisfactorio
+844,Hotel Chocolat (Coppeneur),Chuao,600,2010,0.7,U.K.,2.75,Trinitario,Venezuela,Decepcionante
+845,Hotel Chocolat (Coppeneur),St. Lucia,245,2008,0.72,U.K.,3,,St. Lucia,Sastisfactorio
+846,Hotel Chocolat (Coppeneur),Uganda,296,2008,0.8,U.K.,2.5,Forastero,Uganda,Decepcionante
+847,Hotel Chocolat (Coppeneur),Tanzania,296,2008,0.75,U.K.,2.75,,Tanzania,Decepcionante
+848,Hotel Chocolat (Coppeneur),Uba Budo,300,2008,0.72,U.K.,3,Forastero,Sao Tome,Sastisfactorio
+849,Hummingbird,Lam Dong,1542,2015,0.7,Canada,3.5,Trinitario,Vietnam,Sastisfactorio
+850,Hummingbird,Bolivia,1307,2014,0.7,Canada,3,Criollo_Trinitario,Bolivia,Sastisfactorio
+851,Hummingbird,"Bolivia, Bo-nib-ia, w/ nibs",1311,2014,0.7,Canada,3,Criollo_Trinitario,Bolivia,Sastisfactorio
+852,Hummingbird,Momotombo,1311,2014,0.7,Canada,3,Trinitario,Nicaragua,Sastisfactorio
+853,Hummingbird,Hispaniola,1311,2014,0.7,Canada,3.75,Trinitario,Dominican Republic,Sastisfactorio
+854,Hummingbird,Zorzal Reserva w/ Charles Kerchner,1387,2014,0.7,Canada,3.5,,Dominican Republic,Sastisfactorio
+855,Hummingbird,"Ocumare, Cumboto",1097,2013,0.7,Canada,3.25,Trinitario_Criollo,Venezuela,Sastisfactorio
+856,Hummingbird,Amazonas,1097,2013,0.7,Canada,3.75,Forastero,Venezuela,Sastisfactorio
+857,Idilio (Felchlin),"Chuao, Venezuela",1085,2013,0.72,Switzerland,3.75,Trinitario,Venezuela,Sastisfactorio
+858,Idilio (Felchlin),Coopertiva Amazona,725,2011,0.72,Switzerland,3.75,Criollo,Venezuela,Sastisfactorio
+859,Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, 48hr c.",725,2011,0.72,Switzerland,3.75,,Venezuela,Sastisfactorio
+860,Idilio (Felchlin),"Choroni, Finca Torres, 48hr c.",729,2011,0.72,Switzerland,3.25,Criollo,Venezuela,Sastisfactorio
+861,Idilio (Felchlin),"Ocumare, H. Cata, 48hr c.",733,2011,0.72,Switzerland,3.75,Criollo,Venezuela,Sastisfactorio
+862,Idilio (Felchlin),"Porcelana, Zulia",733,2011,0.74,Switzerland,4,Criollo,Venezuela,Premiun
+863,Idilio (Felchlin),"Ocumare, H. Cata, w/ nibs",737,2011,0.72,Switzerland,3.5,Criollo,Venezuela,Sastisfactorio
+864,Idilio (Felchlin),"Carenero Superior, Urrutia, Barlovento",737,2011,0.7,Switzerland,4,Trinitario,Venezuela,Premiun
+865,Idilio (Felchlin),Coopertiva Amazona w/ nibs,737,2011,0.72,Switzerland,4,Criollo,Venezuela,Premiun
+866,Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, w/ nibs",737,2011,0.72,Switzerland,4,,Venezuela,Premiun
+867,Indah,India (south),1788,2016,0.61,India,2.5,,India,Decepcionante
+868,Indaphoria,La Red,821,2012,0.7,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+869,Indaphoria,"Conacado, Manifesto",907,2012,0.7,U.S.A.,2.75,,Dominican Republic,Decepcionante
+870,Indi,Honduras,1255,2014,0.77,U.S.A.,3,,Honduras,Sastisfactorio
+871,iQ Chocolate,"Satipo region, white label",943,2012,0.72,Scotland,2.75,Criollo,Peru,Decepcionante
+872,iQ Chocolate,black label,943,2012,0.72,Scotland,3,,Peru,Sastisfactorio
+873,Isidro,Madagascar,1275,2014,0.72,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+874,Isidro,Peru,1279,2014,0.72,U.S.A.,2.25,,Peru,Decepcionante
+875,Isidro,Belize,1279,2014,0.72,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+876,Isidro,Dominican Republic,1279,2014,0.72,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+877,Izard,"Maya Mountain, Toledo, Batch 29",1542,2015,0.7,U.S.A.,3.5,Trinitario,Belize,Sastisfactorio
+878,Izard,"Elvesia P., Batch 32",1546,2015,0.7,U.S.A.,2.75,,Dominican Republic,Decepcionante
+879,Jacque Torres,Trinatario Treasure,5,2006,0.71,U.S.A.,2,Trinitario,Ghana,Decepcionante
+880,Jordis,Madagascar,1534,2015,0.63,Czech Republic,2.75,Trinitario,Madagascar,Decepcionante
+881,Just Good Chocolate,Belize,1375,2014,0.7,U.S.A.,3.5,Trinitario,Belize,Sastisfactorio
+882,Just Good Chocolate,Madagascar,1375,2014,0.7,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+883,Just Good Chocolate,Peru,1375,2014,0.7,U.S.A.,4,,Peru,Premiun
+884,Kah Kow,"Rizek Cacao, Cibao Valley, Domin. Rep.",1061,2013,0.7,Domincan Republic,3.5,,Dominican Republic,Sastisfactorio
+885,Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,0.82,Domincan Republic,3,,Dominican Republic,Sastisfactorio
+886,Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,0.55,Domincan Republic,3.25,,Dominican Republic,Sastisfactorio
+887,Kah Kow,"Rizek Cacao, Domin. Rep.",1073,2013,0.62,Domincan Republic,3.25,,Dominican Republic,Sastisfactorio
+888,Kakao,Peru,837,2012,0.64,Germany,2.5,,Peru,Decepcionante
+889,Kakao,Vanuatu,387,2009,0.65,Germany,3.75,Trinitario,Vanuatu,Sastisfactorio
+890,Kallari (Ecuatoriana),Sisa 36hr/ W. F. blend prototype,241,2008,0.7,Ecuador,3,,Ecuador,Sastisfactorio
+891,Kallari (Ecuatoriana),Sisa's Secret/ original micro,241,2008,0.7,Ecuador,3.5,,Ecuador,Sastisfactorio
+892,Kallari (Ecuatoriana),Roberto,245,2008,0.75,Ecuador,2.75,,Ecuador,Decepcionante
+893,Kallari (Ecuatoriana),Diego/ original micro,248,2008,0.85,Ecuador,2.5,,Ecuador,Decepcionante
+894,Kallari (Ecuatoriana),Diego 48hr/ W.F. blend prototype,248,2008,0.85,Ecuador,2.75,,Ecuador,Decepcionante
+895,Kallari (Ecuatoriana),Diego 60hr/ W.F. blend prototype,248,2008,0.85,Ecuador,3,,Ecuador,Sastisfactorio
+896,Kallari (Ecuatoriana),Cacao Nacional W.F.,263,2008,0.75,Ecuador,2.5,,Ecuador,Decepcionante
+897,Kallari (Ecuatoriana),Cacao Nacional W.F.,269,2008,0.85,Ecuador,3,,Ecuador,Sastisfactorio
+898,Kaoka (Cemoi),Noir,404,2009,0.7,France,2.75,,,Decepcionante
+899,Kaoka (Cemoi),Ecuador,423,2009,0.8,France,2.75,,Ecuador,Decepcionante
+900,Kerchner,"La Red, Project Reserva, Guaconejo",1133,2013,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+901,Ki' Xocolatl,Dark,431,2009,0.72,Mexico,2,,Mexico,Decepcionante
+902,Kiskadee,"La Red, Guanconjeco",1251,2014,0.6,U.S.A.,3,Trinitario,Dominican Republic,Sastisfactorio
+903,Kto,San Martin,1422,2014,0.72,U.S.A.,2.5,,Peru,Decepcionante
+904,Kto,Ocumare,1422,2014,0.72,U.S.A.,2.75,,Venezuela,Decepcionante
+905,Kto,Belize,1422,2014,0.72,U.S.A.,3,Trinitario,Belize,Sastisfactorio
+906,Kto,Sambirano Valley,1422,2014,0.72,U.S.A.,3.25,Trinitario,Madagascar,Sastisfactorio
+907,Kto,Belize,1426,2014,0.9,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+908,Kto,Elvesia,1426,2014,0.72,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+909,Kto,ROIG,1426,2014,0.72,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+910,K'ul,"Kafupbo, Petit Bourg, De Borgnes",1840,2016,0.7,U.S.A.,3.25,,Haiti,Sastisfactorio
+911,K'ul,"Maranon, Fortunato No. 4",1852,2016,0.7,U.S.A.,2.75,Forastero_Nacional,Peru,Decepcionante
+912,K'ul,"Los Rios, Hacienda Limon, Heirloom",1852,2016,0.7,U.S.A.,3.75,,Ecuador,Sastisfactorio
+913,K'ul,"Bahia, Fazenda Camboa",1852,2016,0.7,U.S.A.,3.75,Forastero,Brazil,Sastisfactorio
+914,Kyya,Uganda,1359,2014,0.725,U.S.A.,2.5,Forastero,Uganda,Decepcionante
+915,Kyya,Hispaniola,1359,2014,0.725,U.S.A.,3,,Dominican Republic,Sastisfactorio
+916,Kyya,Ecuador,1363,2014,0.725,U.S.A.,2.5,,Ecuador,Decepcionante
+917,Kyya,Madagascar,1363,2014,0.725,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+918,L.A. Burdick (Felchlin),Peru,891,2012,0.74,U.S.A.,3.25,,Peru,Sastisfactorio
+919,L.A. Burdick (Felchlin),Brazil,891,2012,0.7,U.S.A.,4,,Brazil,Premiun
+920,L.A. Burdick (Felchlin),Chuao,927,2012,0.68,U.S.A.,3.75,Trinitario,Venezuela,Sastisfactorio
+921,L.A. Burdick (Felchlin),Quito,682,2011,0.74,U.S.A.,3.75,,Ecuador,Sastisfactorio
+922,L.A. Burdick (Felchlin),Grenada,576,2010,0.75,U.S.A.,3.25,Trinitario,Grenada,Sastisfactorio
+923,L.A. Burdick (Felchlin),Dominican Republic,576,2010,0.74,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+924,L.A. Burdick (Felchlin),Venzuela,597,2010,0.71,U.S.A.,3,,Venezuela,Sastisfactorio
+925,L.A. Burdick (Felchlin),Madagascar,431,2009,0.64,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+926,L.A. Burdick (Felchlin),Bolivian,451,2009,0.68,U.S.A.,3,,Bolivia,Sastisfactorio
+927,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 6, brown sugar",1892,2016,0.7,Japan,2.25,Trinitario_Criollo,Peru,Decepcionante
+928,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 7",1892,2016,0.7,Japan,2.5,Trinitario_Criollo,Peru,Decepcionante
+929,La Chocolaterie Nanairo,"Tumbes, 2013 Harvest, Batch 8",1892,2016,0.7,Japan,3,Criollo,Peru,Sastisfactorio
+930,La Chocolaterie Nanairo,"Belize, 2014 Harvest, Batch 9",1892,2016,0.7,Japan,3,Trinitario_Criollo,Belize,Sastisfactorio
+931,La Maison du Chocolat (Valrhona),"Cuana, 2013",1121,2013,0.74,France,2.75,,"Africa, Carribean, C. Am.",Decepcionante
+932,La Maison du Chocolat (Valrhona),Tobago,1145,2013,0.6,France,3.25,,Tobago,Sastisfactorio
+933,La Maison du Chocolat (Valrhona),"Acarigua, w/ nibs",1189,2013,0.56,France,3.25,,Ecuador,Sastisfactorio
+934,La Maison du Chocolat (Valrhona),Loma Sotavento,891,2012,0.66,France,3.5,,Dominican Republic,Sastisfactorio
+935,La Maison du Chocolat (Valrhona),Grenada,741,2011,0.68,France,3.5,Trinitario,Grenada,Sastisfactorio
+936,La Maison du Chocolat (Valrhona),Akosombo,346,2009,0.68,France,3.25,Forastero,Ghana,Sastisfactorio
+937,La Maison du Chocolat (Valrhona),"Porcelana, Pariguan",346,2009,0.69,France,3.5,Criollo_Porcelana,Venezuela,Sastisfactorio
+938,La Maison du Chocolat (Valrhona),Kuruba,439,2009,0.6,France,3,,,Sastisfactorio
+939,La Maison du Chocolat (Valrhona),Orinoco,445,2009,0.6,France,3.75,,,Sastisfactorio
+940,La Maison du Chocolat (Valrhona),"Cuana, 2008",230,2008,0.74,France,3.5,Blend,"Ven., Indonesia, Ecuad.",Sastisfactorio
+941,La Oroquidea,Peruvian Amazon,721,2011,0.72,Peru,2.5,,Peru,Decepcionante
+942,La Pepa de Oro,Vinces,713,2011,0.6,Ecuador,3.25,,Ecuador,Sastisfactorio
+943,Laia aka Chat-Noir,"Madagascar, Batch 59/100",1590,2015,0.75,France,2.75,Trinitario,Madagascar,Decepcionante
+944,Laia aka Chat-Noir,"Vietnam, Batch 50/100",1590,2015,0.75,France,2.75,Trinitario,Vietnam,Decepcionante
+945,Laia aka Chat-Noir,"Cuba, Batch 59/100",1590,2015,0.75,France,3,,Cuba,Sastisfactorio
+946,Laia aka Chat-Noir,"Peru, Batch 51/100",1590,2015,0.75,France,3.25,,Peru,Sastisfactorio
+947,Laia aka Chat-Noir,"Ivory Coast, Batch 56/100",1594,2015,0.75,France,3,,Ivory Coast,Sastisfactorio
+948,Laia aka Chat-Noir,"Sao Tome, Batch 151",1638,2015,0.75,France,3.5,Forastero,Sao Tome,Sastisfactorio
+949,Laia aka Chat-Noir,"Bahia, Batch 148",1642,2015,0.75,France,3.25,,Brazil,Sastisfactorio
+950,Laia aka Chat-Noir,"Lam Dong, Batch 153",1642,2015,0.75,France,3.75,Trinitario,Vietnam,Sastisfactorio
+951,Laia aka Chat-Noir,Cuba,1434,2014,0.7,France,2.75,,Cuba,Decepcionante
+952,Laia aka Chat-Noir,Trinidad-Tobago,1438,2014,0.68,France,2.75,,Trinidad-Tobago,Decepcionante
+953,Lajedo do Ouro,Catongo,927,2012,0.7,Brazil,3.5,Forastero_Catongo,Brazil,Sastisfactorio
+954,Lake Champlain (Callebaut),Tanzania,327,2009,0.75,U.S.A.,2.5,,Tanzania,Decepcionante
+955,L'Amourette,Rugoso,1784,2016,0.8,U.S.A.,3.5,Trinitario,Nicaragua,Sastisfactorio
+956,L'Amourette,Carenero Superior,833,2012,0.75,U.S.A.,3,Trinitario,Venezuela,Sastisfactorio
+957,L'Amourette,Rio Caribe,833,2012,0.75,U.S.A.,3,Trinitario,Venezuela,Sastisfactorio
+958,L'Amourette,Blend,853,2012,0.72,U.S.A.,3,Criollo,"Peru, Ecuador, Venezuela",Sastisfactorio
+959,Letterpress,"La Masica, Batch 7, FHIA",1952,2017,0.7,U.S.A.,3.5,,Honduras,Sastisfactorio
+960,Letterpress,"Maya Mtn, Batch 18, Heirloom",1952,2017,0.7,U.S.A.,3.25,,Belize,Sastisfactorio
+961,Letterpress,Liberia,1728,2016,0.7,U.S.A.,3.25,,Liberia,Sastisfactorio
+962,Letterpress,Beniamo,1562,2015,0.7,U.S.A.,3.25,,Bolivia,Sastisfactorio
+963,Letterpress,"San Juan Estate, Gran Couva",1562,2015,0.7,U.S.A.,3.5,Trinitario,Trinidad,Sastisfactorio
+964,Letterpress,San Andres,1566,2015,0.7,U.S.A.,3,,Costa Rica,Sastisfactorio
+965,Letterpress,"La Red, Guaconejo",1566,2015,0.7,U.S.A.,3.25,,Domincan Republic,Sastisfactorio
+966,Letterpress,Kokoa Kamili,1566,2015,0.7,U.S.A.,3.5,,Tanzania,Sastisfactorio
+967,Letterpress,Maranura,1371,2014,0.7,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+968,Levy,Sambirano,1231,2014,0.71,Finland,3.5,Criollo,Madagascar,Sastisfactorio
+969,Lilla,Madagascar,1856,2016,0.7,Finland,3,Trinitario,Madagascar,Sastisfactorio
+970,Lillie Belle,Perfect Illusion,855,2012,0.65,U.S.A.,3.5,Criollo,Peru,Sastisfactorio
+971,Lillie Belle,"Bolivia, Wild Thing",903,2012,0.68,U.S.A.,3.5,Criollo,Bolivia,Sastisfactorio
+972,Lillie Belle,La Selva,903,2012,0.68,U.S.A.,3.75,,Peru,Sastisfactorio
+973,Lillie Belle,Purple Haze,947,2012,0.75,U.S.A.,2.75,,"Venezuela, Dom. Rep.",Decepcionante
+974,Lillie Belle,"The Other One, Grand Cru",947,2012,0.74,U.S.A.,3,,Dominican Republic,Sastisfactorio
+975,Lillie Belle,Wild Thing,947,2012,0.68,U.S.A.,3.5,Criollo,Bolivia,Sastisfactorio
+976,Lindt & Sprungli,Excellence (US Version),157,2007,0.85,Switzerland,3,,,Sastisfactorio
+977,Loiza,Puerto Rico,1049,2013,0.65,Puerto Rico,2.5,,Puerto Rico,Decepcionante
+978,Lonohana,"Haleiwa, O'ahu; Lonohana E., Kanahiku",1383,2014,0.7,U.S.A.,3.75,,Hawaii,Sastisfactorio
+979,Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,0.65,U.S.A.,3.25,,Hawaii,Sastisfactorio
+980,Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,0.75,U.S.A.,3.75,,Hawaii,Sastisfactorio
+981,Lonohana,"Opaeula Estate, O'ahu, Nene, CG Exclusive",1093,2013,0.71,U.S.A.,3,,Hawaii,Sastisfactorio
+982,Lonohana,"Opaeula Estate, O'ahu, Ele'ele",1097,2013,0.72,U.S.A.,3,,Hawaii,Sastisfactorio
+983,Lonohana,"Hawaiian Crown, Kona Vanilla",1097,2013,0.7,U.S.A.,3.5,,Hawaii,Sastisfactorio
+984,Love Bar,Nicaragua,1502,2015,0.75,U.S.A.,2,,Nicaragua,Decepcionante
+985,Luker,Selva,552,2010,0.46,Colombia,2.75,,"Colombia, Ecuador",Decepcionante
+986,Luker,Macondo,552,2010,0.6,Colombia,3,,"Colombia, Ecuador",Sastisfactorio
+987,Luker,Misterio,552,2010,0.58,Colombia,3,,"Colombia, Ecuador",Sastisfactorio
+988,Luker,Santander,552,2010,0.65,Colombia,3.5,,Colombia,Sastisfactorio
+989,Machu Picchu Trading Co.,Peru,721,2011,0.7,Peru,1.5,,Peru,Desagradable
+990,Machu Picchu Trading Co.,Peru,552,2010,0.55,Peru,2.25,,Peru,Decepcionante
+991,Madecasse (Cinagra),Madagascar,284,2008,0.67,Madagascar,3.5,Trinitario,Madagascar,Sastisfactorio
+992,Madecasse (Cinagra),Madagascar,284,2008,0.7,Madagascar,3.75,Trinitario,Madagascar,Sastisfactorio
+993,Madecasse (Cinagra),Madagascar,284,2008,0.63,Madagascar,4,Trinitario,Madagascar,Premiun
+994,Madecasse (Cinagra),Madagascar,288,2008,0.75,Madagascar,3.5,Trinitario,Madagascar,Sastisfactorio
+995,Madre,Guadalcanal,1940,2017,0.73,U.S.A.,3.5,,Solomon Islands,Sastisfactorio
+996,Madre,Puerto Rico,1085,2013,0.7,U.S.A.,2.75,,Puerto Rico,Decepcionante
+997,Madre,Brazil,1085,2013,0.7,U.S.A.,3.5,,Brazil,Sastisfactorio
+998,Madre,"Choobua, Kona",1089,2013,0.7,U.S.A.,2.75,,Hawaii,Decepcionante
+999,Madre,"Xocunusco, Chiapas, Pichucalco",1089,2013,0.7,U.S.A.,2.75,,Mexico,Decepcionante
+1000,Madre,"Hamakua Coast, Kokoleka",991,2012,0.7,U.S.A.,3.25,,Hawaii,Sastisfactorio
+1001,Madre,"Criollo, Hawaii",995,2012,0.7,U.S.A.,3.25,Criollo,Hawaii,Sastisfactorio
+1002,Madre,Kaua'i,995,2012,0.7,U.S.A.,3.5,,Hawaii,Sastisfactorio
+1003,Madre,Dominican,672,2011,0.7,U.S.A.,2.5,,Dominican Republic,Decepcionante
+1004,Madre,Upala,693,2011,0.7,U.S.A.,2.75,,Costa Rica,Decepcionante
+1005,Madre,"Chiapas, Triple Cacao",607,2010,0.72,U.S.A.,2.75,,Mexico,Decepcionante
+1006,Maglio,Africa,300,2008,0.75,Italy,2,,Tanzania,Decepcionante
+1007,Maglio,Ecuador,308,2008,0.7,Italy,3,Forastero_Nacional,Ecuador,Sastisfactorio
+1008,Maglio,Cuba,308,2008,0.7,Italy,3.25,Criollo,Cuba,Sastisfactorio
+1009,Maglio,Santo Domingo,308,2008,0.7,Italy,3.75,Blend_Forastero_Criollo,Dominican Republic,Sastisfactorio
+1010,Majani,Ecuador,531,2010,0.7,Italy,2,,Ecuador,Decepcionante
+1011,Malagasy (Chocolaterie Robert),Sambirano 2006,184,2007,0.75,Madagascar,2.75,Trinitario,Madagascar,Decepcionante
+1012,Malagasy (Chocolaterie Robert),Mora Mora 2006,184,2007,0.73,Madagascar,3.5,Trinitario,Madagascar,Sastisfactorio
+1013,Malagos,"Davao, Mt. Talamo foothills",1121,2013,0.65,Philippines,3.5,Trinitario,Philippines,Sastisfactorio
+1014,Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate w/ nibs",502,2010,0.55,U.S.A.,3.5,,Hawaii,Sastisfactorio
+1015,Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,0.55,U.S.A.,2.75,Blend,Hawaii,Decepcionante
+1016,Malmo,Chuao,1856,2016,0.7,Sweden,3,,Venezuela,Sastisfactorio
+1017,Mana,Ecuador,1446,2015,0.74,U.S.A.,2.5,,Ecuador,Decepcionante
+1018,Mana,Peru,1219,2014,0.74,U.S.A.,2.5,,Peru,Decepcionante
+1019,Mana,Venezuela,1219,2014,0.74,U.S.A.,2.75,,Venezuela,Decepcionante
+1020,Mana,Conacado,821,2012,0.74,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+1021,Manifesto Cacao,Colombia,1331,2014,0.7,Colombia,2.75,,Colombia,Decepcionante
+1022,Manoa,Markham Valley,1522,2015,0.72,U.S.A.,3.5,,Papua New Guinea,Sastisfactorio
+1023,Manoa,Coto Brus,1522,2015,0.72,U.S.A.,3.75,,Costa Rica,Sastisfactorio
+1024,Manoa,"Waiahole, O'ahu",1089,2013,0.72,U.S.A.,3.75,,Hawaii,Sastisfactorio
+1025,Manoa,"Liberia, #174",1003,2012,0.72,U.S.A.,3.25,,Liberia,Sastisfactorio
+1026,Manoa,"Hamakua, Hawaiian Crown, #176",1007,2012,0.72,U.S.A.,2.75,,Hawaii,Decepcionante
+1027,Manoa,Piura,1007,2012,0.72,U.S.A.,3,,Peru,Sastisfactorio
+1028,Manoa,"Oahu, Winward, #151, Maunawili district",1007,2012,0.72,U.S.A.,3.25,,Hawaii,Sastisfactorio
+1029,Manufaktura Czekolady,Johe,1844,2016,0.7,Poland,3.75,,Nicaragua,Sastisfactorio
+1030,Manufaktura Czekolady,Peru,1848,2016,0.7,Poland,3.5,,Peru,Sastisfactorio
+1031,Manufaktura Czekolady,Porcelana,1255,2014,0.7,Poland,3.75,Criollo,Venezuela,Sastisfactorio
+1032,Manufaktura Czekolady,Kolumbia,1279,2014,0.85,Poland,3.5,,Colombia,Sastisfactorio
+1033,Manufaktura Czekolady,Grand Cru Dominican Republic,871,2012,0.7,Poland,3.25,,Dominican Republic,Sastisfactorio
+1034,Manufaktura Czekolady,Grand Cru Ghana,871,2012,0.7,Poland,3.5,Forastero,Ghana,Sastisfactorio
+1035,Manufaktura Czekolady,Grand Cru Ecuador,875,2012,0.7,Poland,3.25,,Ecuador,Sastisfactorio
+1036,Map Chocolate,"Ben Tre, Surprise Valley",1896,2016,0.75,U.S.A.,3.25,Trinitario,Vietnam,Sastisfactorio
+1037,Map Chocolate,"ROIG, 2014",1474,2015,0.7,U.S.A.,3.5,Criollo_Trinitario,Dominican Republic,Sastisfactorio
+1038,Map Chocolate,"Maranon, 2014",1474,2015,0.62,U.S.A.,3.5,Forastero_Nacional,Peru,Sastisfactorio
+1039,Map Chocolate,Ecuador,1478,2015,0.7,U.S.A.,3.5,Trinitario,Ecuador,Sastisfactorio
+1040,Map Chocolate,"San Juan Estate, Cherry Blossoms at Night",1606,2015,0.7,U.S.A.,2.75,Trinitario,Trinidad,Decepcionante
+1041,Map Chocolate,"A case of the Xerces Blues, triple roast",1606,2015,0.7,U.S.A.,3.5,,Nicaragua,Sastisfactorio
+1042,Map Chocolate,"Tumbes, Dear Mr. Finley, 2014",1606,2015,0.68,U.S.A.,3.5,Criollo,Peru,Sastisfactorio
+1043,Map Chocolate,Colombia,1610,2015,0.75,U.S.A.,2.75,,Colombia,Decepcionante
+1044,Map Chocolate,"Kakoa Kamili, Both Man & Bird & Beast",1610,2015,0.72,U.S.A.,3,,Tanzania,Sastisfactorio
+1045,Map Chocolate,Le Chocolat Chaud,1634,2015,0.78,U.S.A.,3.5,,Honduras,Sastisfactorio
+1046,Marana,Piura,1872,2016,0.7,Peru,3,,Peru,Sastisfactorio
+1047,Marana,Cusco,1884,2016,0.7,Peru,2.75,,Peru,Decepcionante
+1048,Marana,San Martin,1884,2016,0.7,Peru,3,,Peru,Sastisfactorio
+1049,Marigold's Finest,Cacao Nib Crunch,1808,2016,0.75,Canada,3.25,,,Sastisfactorio
+1050,Marou,"Tan Phu Dong Island, Heart of Darkness",1650,2015,0.85,Vietnam,3.25,Trinitario,Vietnam,Sastisfactorio
+1051,Marou,Ben Tre,1650,2015,0.68,Vietnam,3.5,Trinitario,Vietnam,Sastisfactorio
+1052,Marou,"Dak Lak, Batch 2451",1650,2015,0.7,Vietnam,3.75,Trinitario,Vietnam,Sastisfactorio
+1053,Marou,"Tan Phu Dong, Treasure Island",1149,2013,0.75,Vietnam,3.5,Trinitario,Vietnam,Sastisfactorio
+1054,Marou,Ba Ria,845,2012,0.76,Vietnam,3.5,Trinitario,Vietnam,Sastisfactorio
+1055,Marou,Dong Nai,845,2012,0.72,Vietnam,3.5,Trinitario,Vietnam,Sastisfactorio
+1056,Marou,"Tien Giang, Gao Co-op",845,2012,0.7,Vietnam,3.5,Trinitario,Vietnam,Sastisfactorio
+1057,Marou,Ben Tre,849,2012,0.78,Vietnam,3.5,Trinitario,Vietnam,Sastisfactorio
+1058,Marou,Tien Giang,895,2012,0.8,Vietnam,3,Trinitario,Vietnam,Sastisfactorio
+1059,Marou,Lam Dong,955,2012,0.74,Vietnam,3.5,Trinitario,Vietnam,Sastisfactorio
+1060,Mars,"Matina 1-6, prototype",537,2010,0.65,U.S.A.,3,,Costa Rica,Sastisfactorio
+1061,Mars,Ivory Coast,544,2010,0.65,U.S.A.,3,,Ivory Coast,Sastisfactorio
+1062,Mars,Nigeria,544,2010,0.65,U.S.A.,3.25,,Nigeria,Sastisfactorio
+1063,Mars,"Ghana, prototype",544,2010,0.65,U.S.A.,3.5,Forastero,Ghana,Sastisfactorio
+1064,Marsatta,Dominican Republic,1189,2013,0.74,U.S.A.,2.25,,Dominican Republic,Decepcionante
+1065,Marsatta,Dominican Republic,1189,2013,0.89,U.S.A.,2.5,,Dominican Republic,Decepcionante
+1066,Martin Mayer,Alto Beni,1836,2016,0.76,Austria,2.75,,Bolivia,Decepcionante
+1067,Martin Mayer,Pisa,1836,2016,0.82,Austria,3,,Haiti,Sastisfactorio
+1068,Martin Mayer,Tumaco,1836,2016,0.74,Austria,3.25,,Colombia,Sastisfactorio
+1069,Mast Brothers,Guatemala,1450,2015,0.76,U.S.A.,3,,Guatemala,Sastisfactorio
+1070,Mast Brothers,Tanzania,1450,2015,0.74,U.S.A.,3.25,,Tanzania,Sastisfactorio
+1071,Mast Brothers,French Laundry 20th Anniversary,1359,2014,0.75,U.S.A.,3.75,Blend,"Peru, Belize",Sastisfactorio
+1072,Mast Brothers,Shake Shack,959,2012,0.73,U.S.A.,3.5,Blend,"Peru, Mad., Dom. Rep.",Sastisfactorio
+1073,Mast Brothers,Madagascar,999,2012,0.72,U.S.A.,2.5,Trinitario,,Decepcionante
+1074,Mast Brothers,Chuao,999,2012,0.73,U.S.A.,2.75,Trinitario,Venezuela,Decepcionante
+1075,Mast Brothers,Brooklyn Blend,672,2011,0.72,U.S.A.,3.5,,,Sastisfactorio
+1076,Mast Brothers,"Chuao, Med. Roast",701,2011,0.76,U.S.A.,3,Trinitario,Venezuela,Sastisfactorio
+1077,Mast Brothers,"Chuao, Dark Roast",709,2011,0.7,U.S.A.,3,Trinitario,Venezuela,Sastisfactorio
+1078,Mast Brothers,"Chuao, Light Roast",713,2011,0.81,U.S.A.,2.75,Trinitario,Venezuela,Decepcionante
+1079,Mast Brothers,Moho River,773,2011,0.7,U.S.A.,3.5,Trinitario,Belize,Sastisfactorio
+1080,Mast Brothers,Papua New Guinea,777,2011,0.71,U.S.A.,2.75,,Papua New Guinea,Decepcionante
+1081,Mast Brothers,San Martin,777,2011,0.75,U.S.A.,3,,Peru,Sastisfactorio
+1082,Mast Brothers,Conacado,777,2011,0.73,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+1083,Mast Brothers,"La Red de Guanconejo, N. Highlands coop",777,2011,0.74,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+1084,Mast Brothers,Patanemo,572,2010,0.81,U.S.A.,2.75,Criollo,Venezuela,Decepcionante
+1085,Mast Brothers,Ocumare de la Costa,572,2010,0.75,U.S.A.,3,,Venezuela,Sastisfactorio
+1086,Mast Brothers,"Dominican Republic, Coop",572,2010,0.7,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+1087,Matale,"Malekula P., 2013",1177,2013,0.72,Australia,3.5,Trinitario,Vanuatu,Sastisfactorio
+1088,Matale,"Somia, 2013",1177,2013,0.68,Australia,4,Trinitario,Madagascar,Premiun
+1089,Matale,"Kulili P., 2013",1177,2013,0.74,Australia,4,Trinitario,Papua New Guinea,Premiun
+1090,Matale,Blend,1181,2013,0.7,Australia,3.75,Trinitario,"PNG, Vanuatu, Mad",Sastisfactorio
+1091,Maverick,Maya Mountain,1367,2014,0.7,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+1092,Maverick,Elvesia,1367,2014,0.7,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+1093,Maverick,Tumbes,1430,2014,0.82,U.S.A.,3.25,Criollo,Peru,Sastisfactorio
+1094,Maverick,"Morropon, Norandiono Coop, Piura",1430,2014,0.63,U.S.A.,3.5,Criollo,Peru,Sastisfactorio
+1095,Mayacama,Hispaniola,1728,2016,0.72,U.S.A.,3,,Domincan Republic,Sastisfactorio
+1096,Meadowlands,Bolivia,1287,2014,0.7,U.S.A.,2.5,,Bolivia,Decepcionante
+1097,Meadowlands,Venezuela,1287,2014,0.7,U.S.A.,2.75,,Venezuela,Decepcionante
+1098,Meadowlands,Belize,1287,2014,0.7,U.S.A.,3,Trinitario,Belize,Sastisfactorio
+1099,Meadowlands,"Nicaragua, w/ inbs",1291,2014,0.7,U.S.A.,3,,Nicaragua,Sastisfactorio
+1100,Meadowlands,Dominican Republic,1291,2014,0.7,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+1101,Menakao (aka Cinagra),Madagascar,837,2012,0.8,Madagascar,2.5,Trinitario,Madagascar,Decepcionante
+1102,Menakao (aka Cinagra),Madagascar,841,2012,0.72,Madagascar,2.5,Trinitario,Madagascar,Decepcionante
+1103,Mesocacao,El Salvador,1494,2015,0.8,Honduras,2.75,,El Salvador,Decepcionante
+1104,Mesocacao,El Salvador,1494,2015,0.7,Honduras,3,,El Salvador,Sastisfactorio
+1105,Mesocacao,Honduras,1347,2014,0.8,Honduras,3.25,,Honduras,Sastisfactorio
+1106,Mesocacao,Honduras,1347,2014,0.7,Honduras,3.5,,Honduras,Sastisfactorio
+1107,Mesocacao,"La Tronca, Matagalpa",1351,2014,0.7,Honduras,3.25,,Nicaragua,Sastisfactorio
+1108,Mesocacao,"La Tronca, Matagalpa",1351,2014,0.8,Honduras,3.5,,Nicaragua,Sastisfactorio
+1109,Metiisto,"Fazenda Sempre Firme P., Bahia",1267,2014,0.7,Sweden,3,,Brazil,Sastisfactorio
+1110,Metiisto,Akesson Estate,1267,2014,0.72,Sweden,3.5,Trinitario,Madagascar,Sastisfactorio
+1111,Metropolitan,South America,1688,2015,0.7,Amsterdam,3.5,Trinitario,South America,Sastisfactorio
+1112,Michel Cluizel,"Chiapas, Mokaya P.",963,2012,0.66,France,3.75,,Mexico,Sastisfactorio
+1113,Michel Cluizel,"Carenero Superior, Concepcion",117,2007,0.66,France,3.5,Trinitario,Venezuela,Sastisfactorio
+1114,Michel Cluizel,Vila Gracinda,135,2007,0.67,France,3.5,Forastero,Sao Tome,Sastisfactorio
+1115,Michel Cluizel,Carre Amer,24,2006,0.6,France,2,,,Decepcionante
+1116,Michel Cluizel,Carre Grand Noir,24,2006,0.85,France,2,,,Decepcionante
+1117,Michel Cluizel,Tamarina,24,2006,0.7,France,3,Forastero,Sao Tome,Sastisfactorio
+1118,Michel Cluizel,Los Ancones P.,24,2006,0.67,France,4,,Dominican Republic,Premiun
+1119,Michel Cluizel,Mangaro P.,24,2006,0.65,France,4,Trinitario,Madagascar,Premiun
+1120,Michel Cluizel,Maralumi P.,24,2006,0.64,France,4,,Papua New Guinea,Premiun
+1121,Michel Cluizel,Noir Infini,81,2006,0.99,France,2,,,Decepcionante
+1122,Middlebury,Maya Mountain,1490,2015,0.8,U.S.A.,3.5,Trinitario,Belize,Sastisfactorio
+1123,Middlebury,San Juan Estate,1490,2015,0.7,U.S.A.,3.5,Trinitario,Trinidad,Sastisfactorio
+1124,Middlebury,Oko Caribe,1490,2015,0.75,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+1125,Middlebury,"Patanemo, Epoch, Donaldo",1490,2015,0.75,U.S.A.,3.75,,Venezuela,Sastisfactorio
+1126,Middlebury,Kokoa Kamili,1538,2015,0.75,U.S.A.,3.25,,Tanzania,Sastisfactorio
+1127,Middlebury,"Matagalpa, Cacao Bisiesto",1538,2015,0.7,U.S.A.,3.5,,Nicaragua,Sastisfactorio
+1128,Middlebury,La Red,1117,2013,0.75,U.S.A.,2.5,,Dominican Republic,Decepcionante
+1129,Middlebury,Belize,1117,2013,0.8,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+1130,Middlebury,Houseblend,887,2012,0.65,U.S.A.,1.5,,,Desagradable
+1131,Middlebury,Alto Beni,887,2012,0.75,U.S.A.,2,Criollo,Bolivia,Decepcionante
+1132,Middlebury,"Balinese, Java",887,2012,0.7,U.S.A.,2.5,Criollo,Indonesia,Decepcionante
+1133,Millcreek Cacao Roasters,Ecuador,1073,2013,0.7,U.S.A.,2.5,Forastero_Nacional,Ecuador,Decepcionante
+1134,Millcreek Cacao Roasters,Ecuador,825,2012,0.7,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1135,Mindo,Ecuador,607,2010,0.67,U.S.A.,2.75,,Ecuador,Decepcionante
+1136,Mindo,Ecuador,607,2010,0.77,U.S.A.,2.75,,Ecuador,Decepcionante
+1137,Minimal,"Acul-du-Nord, 2015",1920,2016,0.7,Japan,3.5,Criollo_Trinitario,Haiti,Sastisfactorio
+1138,Mission,"Fazenda Camboa, Bahia",1880,2016,0.75,Brazil,3.75,,Brazil,Sastisfactorio
+1139,Mission,"Bahia, Fazenda Venturosa",1626,2015,0.7,Brazil,3.5,Forastero_Parazinho,Brazil,Sastisfactorio
+1140,Mita,Tumaco,955,2012,0.65,Colombia,2.5,,Colombia,Decepcionante
+1141,Moho,"Toledo District, w/ nibs",1026,2013,0.73,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+1142,Moho,Toledo District,1030,2013,0.72,U.S.A.,3,Trinitario,Belize,Sastisfactorio
+1143,Moho,"Umoho R., Toledo District, San Felipe",607,2010,0.67,U.S.A.,2.75,Trinitario,Belize,Decepcionante
+1144,Molucca,La Red,1614,2015,0.7,U.S.A.,3,,Domincan Republic,Sastisfactorio
+1145,Molucca,Indonesia,1618,2015,0.7,U.S.A.,2.75,,Indonesia,Decepcionante
+1146,Molucca,Peru,1618,2015,0.7,U.S.A.,3.25,,Peru,Sastisfactorio
+1147,Momotombo,Matagalpa,661,2011,0.7,Nicaragua,2.75,,Nicaragua,Decepcionante
+1148,Momotombo,Mombacho,661,2011,0.7,Nicaragua,2.75,,Nicaragua,Decepcionante
+1149,Momotombo,Oscuro,772,2011,0.7,Nicaragua,3.25,,Nicaragua,Sastisfactorio
+1150,Monarque,Oko Caribe,1812,2016,0.72,Canada,3.5,,Dominican Republic,Sastisfactorio
+1151,Monsieur Truffe,Papaua New Guinea,1391,2014,0.7,Australia,3.25,,Papua New Guinea,Sastisfactorio
+1152,Montecristi,Manabi,1654,2015,0.7,Ecuador,3.25,,Ecuador,Sastisfactorio
+1153,Montecristi,Manabi,1654,2015,0.63,Ecuador,3.5,,Ecuador,Sastisfactorio
+1154,Montecristi,Manabi,1658,2015,0.85,Ecuador,3.5,,Ecuador,Sastisfactorio
+1155,Muchomas (Mesocacao),Nicaragua,1462,2015,0.7,U.S.A.,3.5,,Nicaragua,Sastisfactorio
+1156,Muchomas (Mesocacao),Nicaragua,1462,2015,0.8,U.S.A.,3.5,,Nicaragua,Sastisfactorio
+1157,Mutari,"Kokoa Kamili, batch 1 SRB",1896,2016,0.68,U.S.A.,2.75,,Tanzania,Decepcionante
+1158,Mutari,"Oko Caribe, batch 1 SRB",1896,2016,0.71,U.S.A.,2.75,,Domincan Republic,Decepcionante
+1159,Mutari,"Ambanja, batch 1 SRB",1900,2016,0.68,U.S.A.,2.75,,Madagascar,Decepcionante
+1160,Mutari,"Tien Giang, batch 1 SRB",1900,2016,0.8,U.S.A.,3,Trinitario,Vietnam,Sastisfactorio
+1161,Nahua,"Costa Rica, Oscuro",1049,2013,0.58,Costa Rica,2.5,,Costa Rica,Decepcionante
+1162,Nahua,"Costa Rica, Oscuro",1049,2013,0.7,Costa Rica,3,,Costa Rica,Sastisfactorio
+1163,Naive,Trinidad & Tobago,1046,2013,0.7,Lithuania,3.75,,"Trinidad, Tobago",Sastisfactorio
+1164,Naive,"Maranon Canyon, Fortunato No. 4",1133,2013,0.78,Lithuania,3.75,Forastero_Nacional,Peru,Sastisfactorio
+1165,Naive,Grenada,867,2012,0.71,Lithuania,2.5,Trinitario,Grenada,Decepcionante
+1166,Naï¿½ï¿,Nicaragua,1379,2014,0.7,Lithuania,3.25,Criollo,Nicaragua,Sastisfactorio
+1167,Naï¿½ï¿,Chuao,1399,2014,0.75,Lithuania,2.75,Trinitario,Venezuela,Decepcionante
+1168,Naï¿½ï¿,Barinas,1399,2014,0.7,Lithuania,3,,Venezuela,Sastisfactorio
+1169,Nanea,Criollo Blend,1007,2013,0.85,U.S.A.,3.5,,Hawaii,Sastisfactorio
+1170,Nathan Miller,Peru,1403,2014,0.72,U.S.A.,2.25,,Peru,Decepcionante
+1171,Nathan Miller,Hispaniola,1403,2014,0.7,U.S.A.,2.5,,Dominican Republic,Decepcionante
+1172,Nathan Miller,Madagascar,1403,2014,0.735,U.S.A.,2.5,Trinitario,Madagascar,Decepcionante
+1173,Nathan Miller,Ghana,1403,2014,0.7,U.S.A.,3.5,Forastero,Ghana,Sastisfactorio
+1174,Neuhaus (Callebaut),Papua New Guinea,531,2010,0.7,Belgium,2.5,Criollo,Papua New Guinea,Decepcionante
+1175,Neuhaus (Callebaut),Manickchand Estate,230,2008,0.67,Belgium,3.75,Trinitario,Trinidad,Sastisfactorio
+1176,Neuhaus (Callebaut),Dark,135,2007,0.73,Belgium,1,,,Desagradable
+1177,Neuhaus (Callebaut),West Africa,15,2006,0.73,Belgium,2,Forastero,West Africa,Decepcionante
+1178,Neuhaus (Callebaut),Sao Tome,15,2006,0.75,Belgium,2.75,Forastero,Sao Tome,Decepcionante
+1179,Neuhaus (Callebaut),Ocumare,24,2006,0.71,Belgium,3,Criollo,Venezuela,Sastisfactorio
+1180,Nibble,Patanemo,1526,2015,0.72,U.S.A.,2.25,Criollo,Venezuela,Decepcionante
+1181,Nibble,Elvesia P.,1526,2015,0.72,U.S.A.,2.75,Trinitario,Dominican Republic,Decepcionante
+1182,Nibble,"Ambanja, Sambirano Valley",1526,2015,0.72,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+1183,Nibble,Tumbes,1526,2015,0.72,U.S.A.,3,Criollo,Peru,Sastisfactorio
+1184,Night Owl,Peru,1022,2013,0.75,U.S.A.,2.75,,Peru,Decepcionante
+1185,Night Owl,Ecuador,1022,2013,0.75,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1186,Noble Bean aka Jerjobo,Ghana,1295,2014,0.75,U.S.A.,3,Forastero,Ghana,Sastisfactorio
+1187,Noble Bean aka Jerjobo,Moho Valley,1299,2014,0.75,U.S.A.,3,Trinitario,Belize,Sastisfactorio
+1188,Noble Bean aka Jerjobo,Maranon Canyon,1299,2014,0.75,U.S.A.,3.25,Forastero_Nacional,Peru,Sastisfactorio
+1189,Noir d' Ebine,Venezuela,837,2012,0.7,U.S.A.,3,,Venezuela,Sastisfactorio
+1190,Noir d' Ebine,Ecuador,841,2012,0.7,U.S.A.,3,,Ecuador,Sastisfactorio
+1191,Nova Monda,"La Patriota, cacao Indio, purple label",931,2012,0.7,Nicaragua,3,,Nicaragua,Sastisfactorio
+1192,Nova Monda,"La Dalia, Matagalpa,cacao Bisesto,green label",935,2012,0.75,Niacragua,2.75,,Nicaragua,Decepcionante
+1193,Nova Monda,"Punta Galera, cacao Nacional, gold label",935,2012,0.8,Nicaragua,3.25,Forastero_Nacional,Ecuador,Sastisfactorio
+1194,Nuance,"Ghana, 2013",1454,2015,0.7,U.S.A.,3.75,Forastero,Ghana,Sastisfactorio
+1195,Nuance,"Ecuador, 2013",1458,2015,0.7,U.S.A.,2.75,Trinitario,Ecuador,Decepcionante
+1196,Nuance,"Canoabo, 2013",1458,2015,0.7,U.S.A.,3,Criollo,Venezuela,Sastisfactorio
+1197,Nuance,"Sambirano Valley, 2012",1458,2015,0.7,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+1198,Nuance,La Red,1470,2015,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+1199,Nugali,Fazenda Leolinda,1876,2016,0.7,Brazil,3.5,Trinitario_Scavina,Brazil,Sastisfactorio
+1200,Oakland Chocolate Co.,Jamaica,478,2010,0.7,U.S.A.,2.5,Trinitario,Jamaica,Decepcionante
+1201,Obolo,Pangoa,1638,2015,0.7,Chile,3.75,Criollo,Peru,Sastisfactorio
+1202,Obolo,"Pangoa, w/ nibs",1638,2015,0.7,Chile,3.75,Criollo,Peru,Sastisfactorio
+1203,Ocelot,Virunga,1558,2015,0.7,Scotland,3.75,Forastero,Congo,Sastisfactorio
+1204,Ocelot,Piura,1558,2015,0.75,Scotland,4,Criollo,Peru,Premiun
+1205,Ocho,Sang Yum Coop,1760,2016,1,New Zealand,2.75,,Samoa,Decepcionante
+1206,Ocho,Sang Yum Coop,1760,2016,0.7,New Zealand,3.5,,Samoa,Sastisfactorio
+1207,Ocho,"PNG, Devotion",1411,2014,0.66,New Zealand,2.75,,Papua New Guinea,Decepcionante
+1208,Ocho,"PNG, Revolution",1411,2014,0.7,New Zealand,3,,Papua New Guinea,Sastisfactorio
+1209,Ocho,"PNG, Voodoo",1411,2014,0.88,New Zealand,3.25,,Papua New Guinea,Sastisfactorio
+1210,Ocho,"PNG, Nib Bar",1411,2014,0.74,New Zealand,3.5,,Papua New Guinea,Sastisfactorio
+1211,Ohiyo,"San Juan Estate, Gran Couva",1594,2015,0.7,U.S.A.,2.75,Trinitario,Trinidad,Decepcionante
+1212,Ohiyo,Tanzania,1598,2015,0.7,U.S.A.,3,,Tanzania,Sastisfactorio
+1213,Oialla by Bojessen (Malmo),"Sylvestre, Oialla",761,2011,0.7,Germany,3.5,Criollo,Bolivia,Sastisfactorio
+1214,Olive and Sinclair,Dominican Republic prototype,486,2010,0.72,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1215,Olive and Sinclair,Ghana prototype,486,2010,0.72,U.S.A.,3,Forastero,Ghana,Sastisfactorio
+1216,Olive and Sinclair,Dark 67,457,2009,0.67,U.S.A.,2.75,,"Ghana, Domin. Rep",Decepcionante
+1217,Olive and Sinclair,Dark 75,457,2009,0.75,U.S.A.,3,,"Ghana, Domin. Rep",Sastisfactorio
+1218,Olivia,Carribean-Raw,688,2011,0.76,Canada,2,,Carribean,Decepcionante
+1219,Olivia,Carribean,688,2011,0.76,Canada,2.75,,Carribean,Decepcionante
+1220,Olivia,Carribean,688,2011,0.85,Canada,2.75,,Carribean,Decepcionante
+1221,Olivia,Carribean-Raw,688,2011,0.85,Canada,3,,Carribean,Sastisfactorio
+1222,Omanhene,Ghana,693,2011,0.8,Ghana,2.75,Forastero,Ghana,Decepcionante
+1223,Omnom,"Kakao Kamili, Kilombero Valley",1816,2016,0.7,Iceland,3.75,Trinitario,Tanzania,Sastisfactorio
+1224,Omnom,Papua New Guinea,1247,2014,0.7,Iceland,3,,Papua New Guinea,Sastisfactorio
+1225,Omnom,Madagascar,1247,2014,0.66,Iceland,3.5,Trinitario,Madagascar,Sastisfactorio
+1226,organicfair,Maya Mountain,1161,2013,0.74,Canada,2.75,Trinitario,Belize,Decepcionante
+1227,organicfair,La Red,1165,2013,0.72,Canada,2.75,,Dominican Republic,Decepcionante
+1228,organicfair,Nicaraqua,1165,2013,0.72,Canada,2.75,Trinitario,Nicaragua,Decepcionante
+1229,organicfair,Caribe,1165,2013,0.72,Canada,3,,Dominican Republic,Sastisfactorio
+1230,organicfair,Mindo,1165,2013,0.72,Canada,3,Trinitario,Ecuador,Sastisfactorio
+1231,Original Beans (Felchlin),Papua Kerafat,1438,2014,0.68,Switzerland,2.75,,Papua New Guinea,Decepcionante
+1232,Original Beans (Felchlin),"Grand Cru Blend No.1, 5 yr. Anniversary Ed",1442,2014,0.8,Switzerland,3.25,Blend,,Sastisfactorio
+1233,Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R. 24hr c.",733,2011,0.66,Switzerland,3.75,,Bolivia,Sastisfactorio
+1234,Original Beans (Felchlin),"D.R. Congo, Cru Virunga",331,2009,0.7,Switzerland,3,Forastero,Congo,Sastisfactorio
+1235,Original Beans (Felchlin),"Piura, Apotequil, ""Porcelana"" 72hr c.",341,2009,0.75,Switzerland,3,Criollo,Peru,Sastisfactorio
+1236,Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R., 60hr c.",341,2009,0.68,Switzerland,3.25,,Bolivia,Sastisfactorio
+1237,Original Hawaiin Chocolate Factory,"Hawai'i, Kona Grand Cru E.",316,2009,0.6,U.S.A.,3,Criollo,Hawaii,Sastisfactorio
+1238,Original Hawaiin Chocolate Factory,"Hawai'i, Kona Estate Grown",24,2006,0.6,U.S.A.,3,,Hawaii,Sastisfactorio
+1239,Orquidea,Peru,859,2012,0.65,Peru,3,,Peru,Sastisfactorio
+1240,Orquidea,Peru,859,2012,0.72,Peru,3,,Peru,Sastisfactorio
+1241,Pacari,"Sierra Nevada, Tutu Iku",1848,2016,0.7,Ecuador,4,,Colombia,Premiun
+1242,Pacari,Garaua,1415,2014,0.7,Ecuador,3.25,,Ecuador,Sastisfactorio
+1243,Pacari,Cumbia,1415,2014,0.7,Ecuador,3.5,,Ecuador,Sastisfactorio
+1244,Pacari,Montubia,1415,2014,0.7,Ecuador,3.75,,Ecuador,Sastisfactorio
+1245,Pacari,Tangara,1415,2014,0.7,Ecuador,4,,Ecuador,Premiun
+1246,Pacari,"Ecuador, raw",817,2012,0.85,Ecuador,2.75,,Ecuador,Decepcionante
+1247,Pacari,Piura,863,2012,0.7,Ecuador,4,,Peru,Premiun
+1248,Pacari,Nube- prototype,721,2011,0.7,Ecuador,3.5,,Ecuador,Sastisfactorio
+1249,Pacari,Esmeraldas,224,2008,0.6,Ecuador,2.5,Forastero_Arriba,Ecuador,Decepcionante
+1250,Pacari,Manabi,224,2008,0.65,Ecuador,2.75,Forastero_Arriba,Ecuador,Decepcionante
+1251,Pacari,Los Rios,224,2008,0.72,Ecuador,3,Forastero_Arriba,Ecuador,Sastisfactorio
+1252,Pacari,Raw,266,2008,1,Ecuador,2,Forastero_Arriba,Ecuador,Decepcionante
+1253,Pacari,Raw,266,2008,0.7,Ecuador,3.5,Forastero_Arriba,Ecuador,Sastisfactorio
+1254,Palette de Bine,Lachua,1720,2016,0.7,Canada,2.75,,Guatemala,Decepcionante
+1255,Palette de Bine,Maya Mtn,1720,2016,0.72,Canada,3,Trinitario,Belize,Sastisfactorio
+1256,Palette de Bine,"Silvestre, La Paz, Beni",1570,2015,0.7,Canada,3.25,,Bolivia,Sastisfactorio
+1257,Palette de Bine,"San Juan Estate, Gran Couva",1570,2015,0.7,Canada,3.25,Trinitario,Trinidad,Sastisfactorio
+1258,Palette de Bine,Kokoa Kamili,1574,2015,0.72,Canada,3.5,,Tanzania,Sastisfactorio
+1259,Palette de Bine,Lam Dong,1574,2015,0.72,Canada,3.75,Trinitario,Vietnam,Sastisfactorio
+1260,Palette de Bine,"Alto Beni, Palos Blancos",1239,2014,0.72,Canada,2.75,,Bolivia,Decepcionante
+1261,Palette de Bine,Sambirano,1239,2014,0.78,Canada,3.75,Trinitario,Madagascar,Sastisfactorio
+1262,Palette de Bine,"Camino Verde P., Balao, Guayas",1303,2014,0.75,Canada,2.75,,Ecuador,Decepcionante
+1263,Palette de Bine,Duo- Gran Couva & Camino Verde,1399,2014,0.75,Canada,3.5,Blend,"Trinidad, Ecuador",Sastisfactorio
+1264,Palette de Bine,Gran Couva,1399,2014,0.7,Canada,3.75,Trinitario,Trinidad,Sastisfactorio
+1265,Pangea,Matasawalevu,1860,2016,0.76,Spain,3,,Fiji,Sastisfactorio
+1266,Park 75,South America,1363,2014,0.65,U.S.A.,3.5,,South America,Sastisfactorio
+1267,Parliament,Kilombero Valley,1856,2016,0.7,U.S.A.,3.25,,Tanzania,Sastisfactorio
+1268,Parliament,"Lachua, Q'egchi families",1542,2015,0.7,U.S.A.,3.5,,Guatemala,Sastisfactorio
+1269,Parliament,Alto Beni,1251,2014,0.7,U.S.A.,3,,Bolivia,Sastisfactorio
+1270,Parliament,Oko Caribe,1255,2014,0.7,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+1271,Pascha,Peru,1137,2013,0.55,Peru,2.5,,Peru,Decepcionante
+1272,Pascha,Peru,1137,2013,0.7,Peru,2.75,,Peru,Decepcionante
+1273,Patric,Signature Blend,636,2011,0.7,U.S.A.,3.75,Blend,,Sastisfactorio
+1274,Patric,Madagascar,331,2009,0.75,U.S.A.,4,Trinitario,Madagascar,Premiun
+1275,Patric,Madagascar,439,2009,0.67,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+1276,Patric,"Rio Caribe, Paria Penninsula",439,2009,0.7,U.S.A.,3.5,Trinitario,Venezuela,Sastisfactorio
+1277,Patric,Madagascar,196,2007,0.7,U.S.A.,4,Trinitario,Madagascar,Premiun
+1278,Patric,"Piura, Choc. Garage Exclusive",1034,2013,0.67,U.S.A.,4,,Peru,Premiun
+1279,Paul Young,"Madagascar, w/ shell",1271,2014,0.73,U.K.,2.25,Trinitario,Madagascar,Decepcionante
+1280,Paul Young,"Madagascar, w/ shell",1271,2014,0.64,U.K.,2.75,Trinitario,Madagascar,Decepcionante
+1281,Peppalo,Dominican Republic,1454,2015,0.82,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1282,Pierre Marcolini,"Haut Penja, w/ nibs",1658,2015,0.7,Belgium,3.25,Forastero,Cameroon,Sastisfactorio
+1283,Pierre Marcolini,Chuao,478,2010,0.75,Belgium,3,Criollo,Venezuela,Sastisfactorio
+1284,Pierre Marcolini,Trinite,478,2010,0.75,Belgium,3.25,Trinitario,Trinidad,Sastisfactorio
+1285,Pierre Marcolini,"Baracoa, Cuba",516,2010,0.78,Belgium,3.75,"Criollo, Forastero",Cuba,Sastisfactorio
+1286,Pierre Marcolini,"Peru, Las Pampas P.",531,2010,0.85,Belgium,3,Criollo,Peru,Sastisfactorio
+1287,Pierre Marcolini,"Bahia Brazil, Fazenda Sao Pedro",414,2009,0.72,Belgium,3,Forastero,Brazil,Sastisfactorio
+1288,Pierre Marcolini,"Porcelana, Tabasco, Finca La Joya",445,2009,0.72,Belgium,3,Criollo,Mexico,Sastisfactorio
+1289,Pierre Marcolini,Cabosse,111,2007,0.7,Belgium,4,Blend,"Venezuela, Java",Premiun
+1290,Pierre Marcolini,"Los Rios, Puerto Romero, Equateur",129,2007,0.72,Belgium,3.75,Forastero_Nacional,Ecuador,Sastisfactorio
+1291,Pierre Marcolini,"Sambirano, Ambanja, Madagascar",141,2007,0.72,Belgium,4,Trinitario,Madagascar,Premiun
+1292,Pierre Marcolini,Fleur de Cacao,166,2007,0.85,Belgium,3.5,Blend,Venezuela/ Ghana,Sastisfactorio
+1293,Pierre Marcolini,"Porcelana, Tabasco, Limited Ed.",81,2006,0.72,Belgium,4,Criollo,Mexico,Premiun
+1294,Pierre Marcolini,"Kendem Lembu, Java",93,2006,0.72,Belgium,3,Criollo,Indonesia,Sastisfactorio
+1295,Pierre Marcolini,"Ocumare, Puerto Cabello, Venezuela",93,2006,0.72,Belgium,4,Criollo,Venezuela,Premiun
+1296,Pinellas,Wampusirpi Region,1772,2016,0.8,U.S.A.,2.5,,Honduras,Decepcionante
+1297,Pitch Dark,Tenor,1506,2015,0.62,U.S.A.,2.5,,Nicaragua,Decepcionante
+1298,Pitch Dark,Johe,1506,2015,0.8,U.S.A.,2.75,,Nicaragua,Decepcionante
+1299,Pitch Dark,Chuno,1510,2015,0.8,U.S.A.,2.75,Criollo_Trinitario,Nicaragua,Decepcionante
+1300,Pitch Dark,Nicalizo,1510,2015,0.8,U.S.A.,2.75,Trinitario,Nicaragua,Decepcionante
+1301,Pitch Dark,Rugoso,1510,2015,0.8,U.S.A.,3.25,,Nicaragua,Sastisfactorio
+1302,Pitch Dark,Akesson Estate,1311,2014,0.73,U.S.A.,3.25,Trinitario,Madagascar,Sastisfactorio
+1303,Pitch Dark,Namau Village,1315,2014,0.73,U.S.A.,2.5,Trinitario,Fiji,Decepcionante
+1304,Pitch Dark,"Camino Verde P., Balao, Guayas, ""Fruity""",1319,2014,0.73,U.S.A.,3.25,,Ecuador,Sastisfactorio
+1305,Pitch Dark,"Camino Verde P., Balao, Guayas, ""Floral""",1319,2014,0.73,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1306,Pomm (aka Dead Dog),"La Red, 2011",829,2012,0.76,U.S.A.,2.5,,Dominican Republic,Decepcionante
+1307,Pomm (aka Dead Dog),Peru,829,2012,0.82,U.S.A.,2.75,Criollo,Peru,Decepcionante
+1308,Potomac,"Oko Caribe, Duarte Province, 2016 H.",1820,2016,0.7,U.S.A.,3.75,,Domincan Republic,Sastisfactorio
+1309,Potomac,"Cuyagua, 2013",1387,2014,0.7,U.S.A.,3.75,,Venezuela,Sastisfactorio
+1310,Potomac,Upala w/ nibs,647,2011,0.7,U.S.A.,3.5,Matina,Costa Rica,Sastisfactorio
+1311,Potomac,"Upala, Batch 18",654,2011,0.7,U.S.A.,3,Matina,Costa Rica,Sastisfactorio
+1312,Potomac,"San Martin, Amazonian Highlands",789,2011,0.7,U.S.A.,2.75,,Peru,Decepcionante
+1313,Potomac,Bahia,789,2011,0.7,U.S.A.,3.5,,Brazil,Sastisfactorio
+1314,Potomac,"Upala, Batch 12",607,2010,0.82,U.S.A.,3.75,Matina,Costa Rica,Sastisfactorio
+1315,Pralus,Peru,1446,2015,0.75,France,3.25,,Peru,Sastisfactorio
+1316,Pralus,"Porcelana, S. of Lake Maracaibo",717,2011,0.75,France,3.25,Criollo_Porcelana,Venezuela,Sastisfactorio
+1317,Pralus,Chuao,486,2010,0.75,France,3.5,Trinitario,Venezuela,Sastisfactorio
+1318,Pralus,Cuyagua,451,2009,0.75,France,2,,Venezuela,Decepcionante
+1319,Pralus,Papouasie,199,2008,0.75,France,3,Trinitario,Papua New Guinea,Sastisfactorio
+1320,Pralus,"Sambirano Valley, Le 100%",202,2008,1,France,3,Criollo,Madagascar,Sastisfactorio
+1321,Pralus,Dominican Republic-Organic,280,2008,0.75,France,2,,Dominican Republic,Decepcionante
+1322,Pralus,"Monte Alegre, Diego Badero",280,2008,0.75,France,3.5,,Brazil,Sastisfactorio
+1323,Pralus,Claudio Corallo w/ nibs,162,2007,0.75,France,4,Forastero,Sao Tome,Premiun
+1324,Pralus,"Monte Alegre (Itacare), Brazil",105,2006,0.75,France,3,Forastero,Brazil,Sastisfactorio
+1325,Pralus,Tanzania,105,2006,0.75,France,3.5,Criollo,Tanzania,Sastisfactorio
+1326,Pralus,Sao Tome & Principe,5,2006,0.75,France,3.5,Forastero,Sao Tome & Principe,Sastisfactorio
+1327,Pralus,Trinidad,5,2006,0.75,France,3.5,Trinitario,Trinidad,Sastisfactorio
+1328,Pralus,"Madagascar, Nosy Be Isle.",5,2006,0.75,France,3.75,Criollo,Madagascar,Sastisfactorio
+1329,Pralus,"Java, Indonesie",32,2006,0.75,France,3.5,Criollo,Indonesia,Sastisfactorio
+1330,Pralus,"Barlovento, Venezuela",32,2006,0.75,France,3.5,Trinitario,Venezuela,Sastisfactorio
+1331,Pralus,Jamaique,32,2006,0.75,France,4,Trinitario,Jamaica,Premiun
+1332,Pralus,Equateur,40,2006,0.75,France,3,Trinitario,Ecuador,Sastisfactorio
+1333,Pralus,Vanuatu,40,2006,0.75,France,3,Trinitario,Vanuatu,Sastisfactorio
+1334,Pralus,Ghana,40,2006,0.75,France,3.25,Forastero,Ghana,Sastisfactorio
+1335,Pralus,Colombie,40,2006,0.75,France,3.5,Trinitario,Colombia,Sastisfactorio
+1336,Pralus,Fortissima,93,2006,0.8,France,4,Criollo_Trinitario,Ecuador,Premiun
+1337,Pralus,Cuba,99,2006,0.75,France,3,Trinitario,Cuba,Sastisfactorio
+1338,Pralus,"Caracas, Venezuela and Ghana",99,2006,0.75,France,3,"Trinitario, Forastero","Venezuela, Ghana",Sastisfactorio
+1339,Pralus,"Djakarta, Java and Ghana",99,2006,0.75,France,3.5,"Criollo, Forastero","Indonesia, Ghana",Sastisfactorio
+1340,Pump Street Bakery,"Chocoan Rainforest, Teroro Escondido, ESM",1872,2016,0.77,U.K.,3.5,,Ecuador,Sastisfactorio
+1341,Pump Street Bakery,"Crayfish Bay Estate, 2014",1502,2015,0.7,U.K.,3.5,Trinitario,Grenada,Sastisfactorio
+1342,Pump Street Bakery,"Akesson's, batch 4411",1530,2015,0.74,U.K.,3.5,Criollo,Madagascar,Sastisfactorio
+1343,Pump Street Bakery,Honduras,1688,2015,0.8,U.K.,2.75,,Honduras,Decepcionante
+1344,Pump Street Bakery,"Patanemo Vil., Carabobo State, Tisano family",1223,2014,0.75,U.K.,2.75,Trinitario,Venezuela,Decepcionante
+1345,Pump Street Bakery,Guantupi River,1223,2014,0.75,U.K.,3,Forastero_Nacional,Ecuador,Sastisfactorio
+1346,Pump Street Bakery,"Akessons Estate, Sambirano, Ambanja",1223,2014,0.72,U.K.,3.25,Trinitario,Madagascar,Sastisfactorio
+1347,Pump Street Bakery,Guantupi River,1227,2014,0.85,U.K.,2.75,Forastero_Nacional,Ecuador,Decepcionante
+1348,Pura Delizia,Venezuela,931,2012,0.73,Italy,2.75,,Venezuela,Decepcionante
+1349,Q Chocolate,Brazil,1057,2013,0.75,Brazil,3.25,,Brazil,Sastisfactorio
+1350,Q Chocolate,Brazil,1057,2013,0.85,Brazil,3.5,,Brazil,Sastisfactorio
+1351,Q Chocolate,Brazil,1069,2013,0.55,Brazil,2.75,,Brazil,Decepcionante
+1352,Q Chocolate,Brazil,1069,2013,0.8,Brazil,3.25,,Brazil,Sastisfactorio
+1353,Q Chocolate,Brazil,935,2012,0.6,Brazil,3,,Brazil,Sastisfactorio
+1354,Q Chocolate,Brazil,935,2012,0.65,Brazil,3.25,,Brazil,Sastisfactorio
+1355,Quetzalli (Wolter),"Mexico, Lot 28022016",1796,2016,0.7,Mexico,2.75,Criollo,Mexico,Decepcionante
+1356,Quetzalli (Wolter),"Uranga, Lot 22032016",1800,2016,0.74,Mexico,3,Trinitario,Mexico,Sastisfactorio
+1357,Raaka,Amazon Basin Blend,1788,2016,0.7,U.S.A.,3,,"Peru(SMartin,Pangoa,nacional)",Sastisfactorio
+1358,Raaka,Virunga,1708,2015,0.75,U.S.A.,2.75,Forastero,Congo,Decepcionante
+1359,Raaka,Madagascar,959,2012,0.75,U.S.A.,3.25,Trinitario,Madagascar,Sastisfactorio
+1360,Raaka,La Red,785,2011,0.85,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+1361,Rain Republic,Suchitepequez E.,470,2010,0.7,Guatemala,2.75,,Guatemala,Decepcionante
+1362,Rancho San Jacinto,Ecuador,565,2010,0.75,Eucador,3,"Forastero(Arriba, CCN)",Ecuador,Sastisfactorio
+1363,Ranger,"San Martin, Batch 2",1558,2015,0.7,U.S.A.,2.5,,Peru,Decepcionante
+1364,Ranger,"Chulucanas, Batch 1",1562,2015,0.8,U.S.A.,3.25,,Peru,Sastisfactorio
+1365,Ranger,"Tumbes, Batch 2",1562,2015,0.73,U.S.A.,3.5,Criollo,Peru,Sastisfactorio
+1366,Raoul Boulanger,Piura,1872,2016,0.75,France,3.25,Criollo,Peru,Sastisfactorio
+1367,Raw Cocoa,Raw,867,2012,0.7,Poland,2.5,Criollo,,Decepcionante
+1368,Republica del Cacao (aka Confecta),Esmeraldas,494,2010,0.75,Ecuador,3.25,,Ecuador,Sastisfactorio
+1369,Republica del Cacao (aka Confecta),"Los Rios, Vinces",439,2009,0.75,Ecuador,2.5,Forastero_Arriba,Ecuador,Decepcionante
+1370,Republica del Cacao (aka Confecta),Manabi,147,2007,0.75,Ecuador,3,Forastero_Arriba,Ecuador,Sastisfactorio
+1371,Republica del Cacao (aka Confecta),El Oro,147,2007,0.67,Ecuador,3.5,Forastero_Arriba,Ecuador,Sastisfactorio
+1372,Republica del Cacao (aka Confecta),Los Rios,170,2007,0.75,Ecuador,3.75,Forastero_Arriba,Ecuador,Sastisfactorio
+1373,Ritual,"Camino Verde P., Balao, 2015 harvest, batch8",1860,2016,0.75,U.S.A.,3.75,,Ecuador,Sastisfactorio
+1374,Ritual,"Camino Verde P., Balao, Guayas, 2014",1466,2015,0.85,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1375,Ritual,"Mid Mountain, 2014",1466,2015,0.7,U.S.A.,3.5,Blend,,Sastisfactorio
+1376,Ritual,"Toledo District, Maya",1089,2013,0.75,U.S.A.,3.75,Trinitario,Belize,Sastisfactorio
+1377,Ritual,"Maranon, Cajamarca",1181,2013,0.75,U.S.A.,3,Forastero_Nacional,Peru,Sastisfactorio
+1378,Ritual,Sambirano,891,2012,0.75,U.S.A.,4,Trinitario,Madagascar,Premiun
+1379,Ritual,"Camino Verde P., 2012, Balao, Guayas",967,2012,0.75,U.S.A.,3.25,Nacional_Arriba,Ecuador,Sastisfactorio
+1380,Ritual,Gran Couva,979,2012,0.75,U.S.A.,3.5,Trinitario,Trinidad,Sastisfactorio
+1381,Ritual,Costa Rica,745,2011,0.75,U.S.A.,3.5,,Costa Rica,Sastisfactorio
+1382,Roasting Masters,"La Dorado, light roast",1844,2016,0.7,South Korea,3.25,,Costa Rica,Sastisfactorio
+1383,Roasting Masters,"Tapanti, light roast",1844,2016,0.7,South Korea,3.25,,Costa Rica,Sastisfactorio
+1384,Roasting Masters,Maleku,1844,2016,0.7,South Korea,3.25,,Costa Rica,Sastisfactorio
+1385,Robert (aka Chocolaterie Robert),Madagascar,1061,2013,0.75,Madagascar,3.25,Trinitario,Madagascar,Sastisfactorio
+1386,Robert (aka Chocolaterie Robert),Madagascar w/ nibs,1061,2013,0.68,Madagascar,3.25,Trinitario,Madagascar,Sastisfactorio
+1387,Rococo (Grenada Chocolate Co.),"Gru Grococo, St. Andrews",923,2012,0.66,U.K.,3.5,Trinitario,Grenada,Sastisfactorio
+1388,Rogue,"La Masica, Batch 1, FHIA Research Center",1748,2016,0.75,U.S.A.,3.75,,Honduras,Sastisfactorio
+1389,Rogue,"Caranero, Choc. Garage Exclusive",1446,2015,0.7,U.S.A.,3.75,,Venezuela,Sastisfactorio
+1390,Rogue,"Tranquilidad, Batch 1",1566,2015,0.75,U.S.A.,3.25,,Bolivia,Sastisfactorio
+1391,Rogue,Porcelana,1209,2014,0.8,U.S.A.,3.75,Criollo,Venezuela,Sastisfactorio
+1392,Rogue,"Akessons Estate, Sambirano, 2013",1038,2013,0.7,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+1393,Rogue,"Hispaniola, 2013",1081,2013,0.7,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+1394,Rogue,"Silvestre, Batch 7, 2013",1081,2013,0.75,U.S.A.,4,,Bolivia,Premiun
+1395,Rogue,"Bachelor's Hall E., St. Thomas Parish",1193,2013,0.75,U.S.A.,3.75,Trinitario,Jamaica,Sastisfactorio
+1396,Rogue,"Camino Verde P., Balao, Guayas",979,2012,0.75,U.S.A.,3.75,Nacional_Arriba,Ecuador,Sastisfactorio
+1397,Rogue,"Silvestre, Batch 1, 2011",793,2011,0.75,U.S.A.,3,Criollo,Bolivia,Sastisfactorio
+1398,Rogue,Piura,565,2010,0.75,U.S.A.,3.75,,Peru,Sastisfactorio
+1399,Rogue,Rio Caribe,327,2009,0.7,U.S.A.,3.5,Trinitario,Venezuela,Sastisfactorio
+1400,Rogue,"Hispaniola, 2008",213,2008,0.7,U.S.A.,2.75,,Dominican Republic,Decepcionante
+1401,Rogue,Jamaica,213,2008,0.7,U.S.A.,2.75,Trinitario,Jamaica,Decepcionante
+1402,Rogue,"Sambirano, 2008",213,2008,0.7,U.S.A.,2.75,Trinitario,Madagascar,Decepcionante
+1403,Rogue,Trinidad,213,2008,0.7,U.S.A.,3,Trinitario,Trinidad,Sastisfactorio
+1404,Rozsavolgyi,Sur del Lago,809,2012,0.84,Hungary,2.5,,Venezuela,Decepcionante
+1405,Rozsavolgyi,"Rio Caribe Superior, Paria Penninsula",871,2012,0.76,Hungary,2.25,Trinitario,Venezuela,Decepcionante
+1406,Rozsavolgyi,"Sambirano, Akesson Estate",871,2012,0.72,Hungary,2.5,Trinitario,Madagascar,Decepcionante
+1407,Rozsavolgyi,Carenero Superior,713,2011,0.73,Hungary,3.5,Criollo,Venezuela,Sastisfactorio
+1408,Rozsavolgyi,Porcelana,717,2011,0.71,Hungary,2.5,,Venezuela,Decepcionante
+1409,Rozsavolgyi,"Aragua, Trincheras",717,2011,0.7,Hungary,3.5,,Venezuela,Sastisfactorio
+1410,Rozsavolgyi,Principe,765,2011,0.77,Hungary,2.75,Forastero,Principe,Decepcionante
+1411,S.A.I.D.,Malgascio,607,2010,0.64,Italy,3.5,Trinitario,Madagascar,Sastisfactorio
+1412,S.A.I.D.,100 percent,615,2010,1,Italy,1.5,,,Desagradable
+1413,S.A.I.D.,Samana,615,2010,0.7,Italy,3,,Dominican Republic,Sastisfactorio
+1414,S.A.I.D.,Arawak,615,2010,0.72,Italy,3.5,,Carribean,Sastisfactorio
+1415,S.A.I.D.,Latino,615,2010,0.72,Italy,3.5,,,Sastisfactorio
+1416,Sacred,Midnight,813,2012,0.83,U.S.A.,2.75,,Central and S. America,Decepcionante
+1417,Sacred,Twilight,813,2012,0.69,U.S.A.,3.25,,Central and S. America,Sastisfactorio
+1418,Salgado,Bahia Superior,288,2008,0.7,Argentina,3.5,Forastero,Brazil,Sastisfactorio
+1419,Salgado,Esmeraldas,288,2008,0.7,Argentina,3.5,Forastero_Nacional,Ecuador,Sastisfactorio
+1420,Salgado,Carenero Superior,288,2008,0.7,Argentina,3.5,Trinitario,Venezuela,Sastisfactorio
+1421,Salgado,Rio Arriba,292,2008,0.7,Argentina,3.5,Forastero_Arriba_ASSS,Ecuador,Sastisfactorio
+1422,Santander (Compania Nacional),Colombian 2008,404,2009,0.75,Colombia,2.75,Forastero_Nacional,Colombia,Decepcionante
+1423,Santander (Compania Nacional),Colombian w/ nibs,414,2009,0.7,Colombia,3,Forastero_Nacional,Colombia,Sastisfactorio
+1424,Santander (Compania Nacional),Colombian Semi Dark,32,2006,0.53,Colombia,2,Forastero_Nacional,Colombia,Decepcionante
+1425,Santander (Compania Nacional),Colombian,32,2006,0.65,Colombia,3,Forastero_Nacional,Colombia,Sastisfactorio
+1426,Santander (Compania Nacional),Colombian Dark,32,2006,0.7,Colombia,4,Forastero_Nacional,Colombia,Premiun
+1427,Santome,Sao Tome,761,2011,0.7,France,2.75,Forastero,Sao Tome,Decepcionante
+1428,Scharffen Berger,San Juan de Cheni,959,2012,0.78,U.S.A.,4,,Peru,Premiun
+1429,Scharffen Berger,Markham Valley,781,2011,0.68,U.S.A.,3.75,,Papua New Guinea,Sastisfactorio
+1430,Scharffen Berger,Camahogne,464,2010,0.68,U.S.A.,3.5,Trinitario,Grenada,Sastisfactorio
+1431,Scharffen Berger,Amina,464,2010,0.65,U.S.A.,3.75,Trinitario_Criollo,Madagascar,Sastisfactorio
+1432,Scharffen Berger,Tome Acu,336,2009,0.68,U.S.A.,3.75,,Brazil,Sastisfactorio
+1433,Scharffen Berger,Asante,336,2009,0.65,U.S.A.,4,Forastero,Ghana,Premiun
+1434,Scharffen Berger,Ben Tre,445,2009,0.72,U.S.A.,3.75,Trinitario,Vietnam,Sastisfactorio
+1435,Scharffen Berger,Finisterra,227,2008,0.72,U.S.A.,3,Blend,"Ven., Trinidad, Mad.",Sastisfactorio
+1436,Scharffen Berger,Las Islas,117,2007,0.72,U.S.A.,3,Blend,Carribean(DR/Jam/Tri),Sastisfactorio
+1437,Scharffen Berger,Nibby,135,2007,0.62,U.S.A.,3,,,Sastisfactorio
+1438,Scharffen Berger,Cuyagua,135,2007,0.75,U.S.A.,3.75,,Venezuela,Sastisfactorio
+1439,Scharffen Berger,Antilles (Trin/Gren/DR/Ven),188,2007,0.75,U.S.A.,3,Blend,Carribean,Sastisfactorio
+1440,Scharffen Berger,Extra Dark,15,2006,0.82,U.S.A.,2,,,Decepcionante
+1441,Scharffen Berger,Bittersweet,15,2006,0.7,U.S.A.,3.5,Blend,,Sastisfactorio
+1442,Scharffen Berger,Kumasi Sambirano,40,2006,0.68,U.S.A.,2,Blend,Ghana & Madagascar,Decepcionante
+1443,Scharffen Berger,Jamaica a l'ancienne,56,2006,0.7,U.S.A.,2,Trinitario,Jamaica,Decepcionante
+1444,Scharffen Berger,Semisweet,56,2006,0.62,U.S.A.,3,Blend,,Sastisfactorio
+1445,Seaforth,Dominican Republic,1658,2015,0.7,U.K.,2.75,,Domincan Republic,Decepcionante
+1446,Seaforth,Grenada,1658,2015,0.7,U.K.,2.75,,Grenada,Decepcionante
+1447,Shark Mountain,Jamaica,1450,2015,0.72,U.S.A.,3.25,Trinitario,Jamaica,Sastisfactorio
+1448,Shark Mountain,Papua New Guinea,1450,2015,0.73,U.S.A.,3.5,Forastero,Papua New Guinea,Sastisfactorio
+1449,Shark Mountain,Cuyagua,1466,2015,0.77,U.S.A.,2.75,Criollo,Venezuela,Decepcionante
+1450,Shark Mountain,ROIG,1466,2015,0.74,U.S.A.,3.5,Criollo_Trinitario,Dominican Republic,Sastisfactorio
+1451,Shark Mountain,Ecuador,1335,2014,0.75,U.S.A.,3,Trinitario,Ecuador,Sastisfactorio
+1452,Shark Mountain,"Belize, 2013",1335,2014,0.72,U.S.A.,3.25,Criollo_Trinitario,Belize,Sastisfactorio
+1453,Shark's,Hilo,713,2011,0.73,U.S.A.,2,,Hawaii,Decepcionante
+1454,Shark's,"Hilo, w/ added cocoa butter",721,2011,0.73,U.S.A.,2.5,,Hawaii,Decepcionante
+1455,Shattel,Tingo Maria,1884,2016,0.7,Peru,3.25,,Peru,Sastisfactorio
+1456,Shattell,Porcelana,757,2011,0.75,Peru,3.5,Criollo,Peru,Sastisfactorio
+1457,Sibu,Oro,1586,2015,0.82,Costa Rica,3.25,,Costa Rica,Sastisfactorio
+1458,Sibu,Oscuro,1586,2015,0.7,Costa Rica,3.5,,Costa Rica,Sastisfactorio
+1459,Sibu Sura,Peru,911,2012,0.7,U.S.A.,2.5,,Peru,Decepcionante
+1460,Silvio Bessone,Maya Belize,717,2011,0.67,Italy,3,Criollo,Belize,Sastisfactorio
+1461,Silvio Bessone,"Trintade, Sao Tome",725,2011,0.65,Italy,3.25,Forastero,Sao Tome,Sastisfactorio
+1462,Silvio Bessone,"Bahia, Scavina",729,2011,0.6,Italy,3.25,Trinitario,Brazil,Sastisfactorio
+1463,Silvio Bessone,"Porcelana, Colombia, Amazonas",741,2011,0.68,Italy,3,Criollo_Trinitario,Colombia,Sastisfactorio
+1464,Sirene,Wild Bolivia,1788,2016,0.73,Canada,3.5,,Bolivia,Sastisfactorio
+1465,Sirene,Kokoa Kamili Coop,1856,2016,0.73,Canada,3.5,,Tanzania,Sastisfactorio
+1466,Sirene,"Esmeraldas, Salazar Farm",1860,2016,0.73,Canada,3.75,,Ecuador,Sastisfactorio
+1467,Sirene,"Somia Plantation, 2012",1502,2015,1,Canada,3,Trinitario,Madagascar,Sastisfactorio
+1468,Sirene,"Camino Verde P., Balao, Guayas, 2012",1506,2015,1,Canada,3,,Ecuador,Sastisfactorio
+1469,Sirene,Lachua w/ cane sugar,1614,2015,0.73,Canada,3,,Guatemala,Sastisfactorio
+1470,Sirene,"Lachua w/ maple sugar, batch 5",1614,2015,0.73,Canada,3.25,,Guatemala,Sastisfactorio
+1471,Sirene,Pisa,1650,2015,0.73,Canada,3.25,,Haiti,Sastisfactorio
+1472,Sirene,"Somia Plantation, 2012",1339,2014,0.67,Canada,3.75,Trinitario,Madagascar,Sastisfactorio
+1473,Sirene,"Somia Plantation, 2012",1339,2014,0.73,Canada,3.75,Trinitario,Madagascar,Sastisfactorio
+1474,Sirene,"Camino Verde P., Balao, Guayas",1343,2014,0.73,Canada,3.75,,Ecuador,Sastisfactorio
+1475,Sjolinds,Ghana,1454,2015,0.7,U.S.A.,2.75,Forastero,Ghana,Decepcionante
+1476,Sjolinds,Nicaragua,1462,2015,0.72,U.S.A.,3,,Nicaragua,Sastisfactorio
+1477,"Smooth Chocolator, The","Oko Caribe, DOR005",1940,2017,0.7,Australia,3.5,,Dominican Republic,Sastisfactorio
+1478,"Smooth Chocolator, The","Guasare, La Sierra de Perija, batch gua001",1740,2016,0.7,Australia,3.75,Criollo,Venezuela,Sastisfactorio
+1479,"Smooth Chocolator, The","Porcelana, Sorotaima,Machiques,batch pcl001",1740,2016,0.7,Australia,4,Criollo,Ecuador,Premiun
+1480,"Smooth Chocolator, The","Maya Mtn, Moho R., Toledo D.",1756,2016,0.7,Australia,3.75,,Belize,Sastisfactorio
+1481,"Smooth Chocolator, The",Tien Giang,1864,2016,0.7,Australia,3,Trinitario,Vietnam,Sastisfactorio
+1482,"Smooth Chocolator, The",Australia,1864,2016,0.67,Australia,3.75,,Australia,Sastisfactorio
+1483,"Smooth Chocolator, The","Chimelb, Lanquin, Alta Verapaz, b-GUA001",1908,2016,0.7,Australia,3.25,,Guatemala,Sastisfactorio
+1484,"Smooth Chocolator, The",Akesson's Estate,1618,2015,0.65,Australia,3.25,Trinitario,Madagascar,Sastisfactorio
+1485,"Smooth Chocolator, The",Akesson's Estate,1622,2015,0.7,Australia,3.5,Trinitario,Madagascar,Sastisfactorio
+1486,"Smooth Chocolator, The",Kokoa Kamili,1622,2015,0.67,Australia,3.75,,Tanzania,Sastisfactorio
+1487,"Smooth Chocolator, The",San Juan Estate,1622,2015,0.7,Australia,3.75,Trinitario,Trinidad,Sastisfactorio
+1488,"Smooth Chocolator, The",Camino Verde,1622,2015,0.72,Australia,4,,Ecuador,Premiun
+1489,"Smooth Chocolator, The",Bolivia,1626,2015,0.72,Australia,2.75,,Bolivia,Decepcionante
+1490,"Smooth Chocolator, The","Papua New Guinea, triple roast, batch 1",1662,2015,0.65,Australia,3.5,,Papua New Guinea,Sastisfactorio
+1491,"Smooth Chocolator, The","Maranon, batch 2",1666,2015,0.67,Australia,3,Forastero_Nacional,Peru,Sastisfactorio
+1492,"Smooth Chocolator, The","Chuao, batch 3",1666,2015,0.7,Australia,3.75,Trinitario,Venezuela,Sastisfactorio
+1493,Snake & Butterfly,Ghana,693,2011,0.67,U.S.A.,1.5,Forastero,Ghana,Desagradable
+1494,Snake & Butterfly,Madagascar,502,2010,0.68,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+1495,Snake & Butterfly,Ecuador,502,2010,0.68,U.S.A.,3.25,,Ecuador,Sastisfactorio
+1496,Sol Cacao,"Ecuador, Batch 1",1812,2016,0.7,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1497,Sol Cacao,Madagascar,1518,2015,0.72,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+1498,Solkiki,"Maranon, Fortunato No. 4",1840,2016,0.68,U.K.,2.75,Forastero_Nacional,Peru,Decepcionante
+1499,Solkiki,"Castillo, Hispaniola, unroasted",1840,2016,0.85,U.K.,2.75,,Domincan Republic,Decepcionante
+1500,Solomons Gold,Solomon Island,1792,2016,0.7,New Zealand,3.25,,Solomon Islands,Sastisfactorio
+1501,Solomons Gold,Solomon Island w/ nibs,1796,2016,0.75,New Zealand,3.25,,Solomon Islands,Sastisfactorio
+1502,Solstice,Bundibugyo,1335,2014,0.7,U.S.A.,3,"Forastero, Trinitario",Uganda,Sastisfactorio
+1503,Solstice,Sambirano,1157,2013,0.7,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+1504,Solstice,Amazonas,1157,2013,0.7,U.S.A.,3,,Venezuela,Sastisfactorio
+1505,Solstice,Bolivia,1161,2013,0.7,U.S.A.,3.25,,Bolivia,Sastisfactorio
+1506,Solstice,San Martin,1161,2013,0.7,U.S.A.,3.25,,Peru,Sastisfactorio
+1507,Solstice,Wasatch,1161,2013,0.7,U.S.A.,3.5,Blend,,Sastisfactorio
+1508,Soma,"Oko Caribe, Duarte P., Collab w Chocosol",1820,2016,0.62,Canada,3.5,,Domincan Republic,Sastisfactorio
+1509,Soma,"Sambirano Valley, Black Science, B-60307.0",1820,2016,0.7,Canada,3.5,Trinitario,Madagascar,Sastisfactorio
+1510,Soma,"Bahia Black, batch bra50722.1",1828,2016,0.7,Canada,3.5,Forastero_Parazinho,Brazil,Sastisfactorio
+1511,Soma,"Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,0.75,Canada,3.75,,"Ven.,Ecu.,Peru,Nic.",Sastisfactorio
+1512,Soma,"Chuno, San Jose de Bocay, Pantasma R.,B.S.",1828,2016,0.7,Canada,3.75,Trinitario,Nicaragua,Sastisfactorio
+1513,Soma,"Tien Giang, Black S., batch VIT60420.0",1828,2016,0.7,Canada,4,Trinitario,Vietnam,Premiun
+1514,Soma,"Camino Verde, Black S., batch cvu6030.0",1832,2016,0.7,Canada,3.25,,Ecuador,Sastisfactorio
+1515,Soma,CSB Chama,1594,2015,0.7,Canada,3.5,Criollo,Venezuela,Sastisfactorio
+1516,Soma,Porcelana,1594,2015,0.75,Canada,4,,Venezuela,Premiun
+1517,Soma,"La Tronca, Matagalpa",1227,2014,0.7,Canada,3.5,,Nicaragua,Sastisfactorio
+1518,Soma,Maranon Canyon,1259,2014,0.7,Canada,3.75,Forastero_Nacional,Peru,Sastisfactorio
+1519,Soma,La Dalia,1307,2014,0.7,Canada,3.25,Trinitario,Nicaragua,Sastisfactorio
+1520,Soma,"Camino Verde P., Balao, Guayas",1307,2014,0.8,Canada,3.5,Forastero_Nacional,Ecuador,Sastisfactorio
+1521,Soma,"Espiritu Santo, 'Smoke Monster'",1307,2014,0.7,Canada,3.75,Forastero (Amelonado),Vanuatu,Sastisfactorio
+1522,Soma,Little Big Man,1339,2014,0.7,Canada,3.25,Blend,Madagascar & Ecuador,Sastisfactorio
+1523,Soma,"Rizek Cacao, Domin. Rep.",1019,2013,0.77,Canada,3.75,Trinitario,Dominican Republic,Sastisfactorio
+1524,Soma,Java,1030,2013,0.7,Canada,3.25,Criollo,Indonesia,Sastisfactorio
+1525,Soma,"Apurimac, El Quinacho Co-op",1073,2013,0.7,Canada,2.75,Criollo,Peru,Decepcionante
+1526,Soma,"Sangre Grande P., Trinidad",1073,2013,0.7,Canada,3.75,Trinitario,Trinidad,Sastisfactorio
+1527,Soma,Chef's Blend,1077,2013,0.7,Canada,3.25,,,Sastisfactorio
+1528,Soma,Patanemo,1077,2013,0.7,Canada,3.75,Criollo,Venezuela,Sastisfactorio
+1529,Soma,Crazy 88,1077,2013,0.88,Canada,4,,"Guat., D.R., Peru, Mad., PNG",Premiun
+1530,Soma,"Maracaibo, El Vigia",1077,2013,0.7,Canada,4,Criollo,Venezuela,Premiun
+1531,Soma,Equator,1081,2013,0.67,Canada,4,,"Peru, Dom. Rep",Premiun
+1532,Soma,Orinoco,1173,2013,0.7,Canada,3.25,Forastero,Venezuela,Sastisfactorio
+1533,Soma,"Bachelor's Hall E., St. Thomas Parish",1177,2013,0.7,Canada,4,Trinitario,Jamaica,Premiun
+1534,Soma,Noula Coop,817,2012,0.7,Canada,3.25,,Haiti,Sastisfactorio
+1535,Soma,O'ahu,833,2012,0.7,Canada,3.75,,Hawaii,Sastisfactorio
+1536,Soma,"Dual Origins, Sambirano, Elvesia",867,2012,0.7,Canada,4,Blend,"Dom. Rep., Madagascar",Premiun
+1537,Soma,"Dancing in Your Head, 5 bean blend",867,2012,0.7,Canada,4,Blend,"Gre., PNG, Haw., Haiti, Mad",Premiun
+1538,Soma,Cahabon Region,951,2012,0.7,Canada,3.5,Trinitario,Guatemala,Sastisfactorio
+1539,Soma,Carenero Superior,951,2012,0.7,Canada,3.75,Trinitario,Venezuela,Sastisfactorio
+1540,Soma,Eastern Promises,967,2012,0.7,Canada,3.5,Blend,"Mad., Java, PNG",Sastisfactorio
+1541,Soma,Papua New Guinea,983,2012,0.85,Canada,3.5,Trinitario,Papua New Guinea,Sastisfactorio
+1542,Soma,"Grenada, Black Science",676,2011,0.7,Canada,2.75,Trinitario,Grenada,Decepcionante
+1543,Soma,"Alto Beni, Wild Bolivian",676,2011,0.7,Canada,3.5,Nacional,Bolivia,Sastisfactorio
+1544,Soma,Peruvian,676,2011,0.64,Canada,4,,Peru,Premiun
+1545,Soma,"Three Amigos(Chuao, Wild Bolivia, D.R.)",676,2011,0.7,Canada,4,,"Ven, Bolivia, D.R.",Premiun
+1546,Soma,"Elvesia P., Black Science",682,2011,0.7,Canada,3.75,Forastero,Dominican Republic,Sastisfactorio
+1547,Soma,Chuao,688,2011,0.7,Canada,3.5,Criollo,Venezuela,Sastisfactorio
+1548,Soma,Black Science Blend 1,607,2010,0.7,Canada,3.75,"Trinitario, Nacional","DR, Ecuador, Peru",Sastisfactorio
+1549,Soma,Hispaniola,377,2009,0.7,Canada,3,Forastero,Dominican Republic,Sastisfactorio
+1550,Soma,Africa,377,2009,0.7,Canada,3.5,Forastero,Ghana,Sastisfactorio
+1551,Soma,Conacado,387,2009,0.7,Canada,3,Trinitario,Dominican Republic,Sastisfactorio
+1552,Soma,Papua New Guinea,387,2009,0.7,Canada,3.5,Trinitario,Papua New Guinea,Sastisfactorio
+1553,Soma,Madagascar,387,2009,0.7,Canada,3.75,Criollo,Madagascar,Sastisfactorio
+1554,Soma,Ocumare,387,2009,0.7,Canada,3.75,Criollo,Venezuela,Sastisfactorio
+1555,Somerville,Nicaragua,1367,2014,0.7,U.S.A.,3.25,,Nicaragua,Sastisfactorio
+1556,Somerville,"Hawaiian, Big Island",1395,2014,0.7,U.S.A.,3.5,,Hawaii,Sastisfactorio
+1557,Soul,Dominican Republic,1932,2017,0.7,Canada,3.25,,Dominican Republic,Sastisfactorio
+1558,Soul,Madagascar,1936,2017,0.7,Canada,3.5,,Madagascar,Sastisfactorio
+1559,Soul,Venezuela,1936,2017,0.75,Canada,3.5,,Venezuela,Sastisfactorio
+1560,Soul,Ecuador,1936,2017,0.75,Canada,3.25,,Ecuador,Sastisfactorio
+1561,Soul,Papua New Guinea,1936,2017,0.77,Canada,3.25,,Papua New Guinea,Sastisfactorio
+1562,Soul,Tanzania,1940,2017,0.8,Canada,3.5,,Tanzania,Sastisfactorio
+1563,Spagnvola,AgroCriso Plantation,793,2012,0.7,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1564,Spagnvola,AgroCriso Plantation,793,2012,0.8,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1565,Spagnvola,AgroCriso Plantation,793,2012,0.75,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+1566,Spencer,Dominican Republic,1932,2017,0.7,U.S.A.,3.75,,Dominican Republic,Sastisfactorio
+1567,Spencer,Ecuador,1932,2017,0.7,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1568,Spencer,Peru,1932,2017,0.7,U.S.A.,2.75,,Peru,Decepcionante
+1569,Spencer,"Dominican Republic, lot D82R",1792,2016,0.7,Australia,3.5,,Domincan Republic,Sastisfactorio
+1570,Spencer,"Ecuador, lot E432314L",1792,2016,0.7,Australia,3.75,,Ecuador,Sastisfactorio
+1571,Spencer,"Madagascar, lot M0403R",1792,2016,0.7,Australia,3.75,,Madagascar,Sastisfactorio
+1572,Spencer,Malekula Island,1434,2014,0.72,Australia,2.75,Trinitario,Vanuatu,Decepcionante
+1573,Sprungli (Felchlin),Alto Beni,1057,2013,0.7,Switzerland,3,Criollo,Bolivia,Sastisfactorio
+1574,SRSLY,Dominican Republic,1113,2013,0.7,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1575,SRSLY,Dominican Republic,1121,2013,0.84,U.S.A.,2.25,,Dominican Republic,Decepcionante
+1576,Starchild,"Bolivar, Arriba",1634,2015,0.7,U.S.A.,3,Forastero_Nacional,Ecuador,Sastisfactorio
+1577,Starchild,Hispaniola,1692,2015,0.7,U.S.A.,3,,Domincan Republic,Sastisfactorio
+1578,Starchild,Cacao Verapaz,1692,2015,0.7,U.S.A.,3,,Guatemala,Sastisfactorio
+1579,Starchild,Rio Tuma,1692,2015,0.7,U.S.A.,3,Trinitario (Amelonado),Nicaragua,Sastisfactorio
+1580,Starchild,Sambirano Valley,1696,2015,0.7,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+1581,Stella (aka Bernrain),"Bahia, Agri-Forestal Plantation, 2010",859,2012,0.68,Switzerland,2.75,Trinitario,Brazil,Decepcionante
+1582,Stella (aka Bernrain),India,729,2011,0.72,Switzerland,3.25,,India,Sastisfactorio
+1583,Stone Grindz,"Ecuador, Midnight Dark",1291,2014,0.84,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1584,Stone Grindz,"Ecuador, Twilght Dark",1291,2014,0.7,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1585,StRita Supreme,"Samar, East Visayas region",939,2012,0.65,U.S.A.,2.5,,Philippines,Decepcionante
+1586,StRita Supreme,"Samar, East Visayas region",943,2012,0.7,U.S.A.,2.5,,Philippines,Decepcionante
+1587,StRita Supreme,"Samar, East Visayas region",943,2012,0.75,U.S.A.,2.75,,Philippines,Decepcionante
+1588,Sublime Origins,Sambirano,1157,2013,0.67,U.S.A.,2.75,Trinitario,Madagascar,Decepcionante
+1589,Sublime Origins,Moho Valley,1157,2013,0.78,U.S.A.,3.25,Trinitario,Belize,Sastisfactorio
+1590,Summerbird,Peru,1800,2016,0.61,Denmark,2.5,Criollo_Trinitario,Peru,Decepcionante
+1591,Summerbird,Peru,1800,2016,0.71,Denmark,3,Criollo_Trinitario,Peru,Sastisfactorio
+1592,Suruca Chocolate,Venezuela,1796,2016,0.7,Venezuela,2.75,,Venezuela,Decepcionante
+1593,Suruca Chocolate,Venezuela,1796,2016,0.6,Venezuela,3,,Venezuela,Sastisfactorio
+1594,Svenska Kakaobolaget,Sri Lanka,1618,2015,0.7,Sweden,2.75,Criollo_Trinitario,Sri Lanka,Decepcionante
+1595,Szanto Tibor,Nacional,1668,2015,0.7,Hungary,3.25,,Ecuador,Sastisfactorio
+1596,Szanto Tibor,Baracoa,1704,2015,0.88,Hungary,3.25,Trinitario,Cuba,Sastisfactorio
+1597,Szanto Tibor,Ambolikapiky,1704,2015,0.7,Hungary,3.25,Trinitario,Madagascar,Sastisfactorio
+1598,Szanto Tibor,"Winak, Sumaco",1704,2015,0.7,Hungary,3.75,Forastero_Nacional,Ecuador,Sastisfactorio
+1599,Szanto Tibor,"Ben Tre, Mekong Delta",1708,2015,0.7,Hungary,3.25,Trinitario,Vietnam,Sastisfactorio
+1600,Szanto Tibor,"Fazenda Sempre Firme, Bahia",1708,2015,0.7,Hungary,3.5,Forastero_Parazinho,Brazil,Sastisfactorio
+1601,Szanto Tibor,Porcelana,1263,2014,0.7,Hungary,3.5,Criollo,Venezuela,Sastisfactorio
+1602,Szanto Tibor,Baracoa,1263,2014,0.7,Hungary,3.75,Trinitario,Cuba,Sastisfactorio
+1603,Szanto Tibor,"Autumn, Primary Harvest, 2012",1185,2013,0.7,Hungary,3.5,Criollo,Madagascar,Sastisfactorio
+1604,Szanto Tibor,"Spring, Secondary Harvest, 2012",1185,2013,0.7,Hungary,3.5,Criollo,Madagascar,Sastisfactorio
+1605,Szanto Tibor,Cacao Blanco,1193,2013,0.7,Hungary,3.25,,Nicaragua,Sastisfactorio
+1606,Szanto Tibor,Santo Domingo,939,2012,0.7,Hungary,3.25,,Dominican Republic,Sastisfactorio
+1607,Szanto Tibor,Millot Plantation,939,2012,0.7,Hungary,3.25,,Madagascar,Sastisfactorio
+1608,Szanto Tibor,"Ayacucho, ""El Guinacho""",939,2012,0.7,Hungary,3.75,,Peru,Sastisfactorio
+1609,Szanto Tibor,Crudo,761,2011,0.7,Hungary,3,,Venezuela,Sastisfactorio
+1610,Tabal,Costa Rica,1101,2013,0.7,U.S.A.,2.75,,Costa Rica,Decepcionante
+1611,Tabal,Dominican Republic,1101,2013,0.7,U.S.A.,2.75,,Dominican Republic,Decepcionante
+1612,Tabal,"Chiapas, Lacandon Jungle",1105,2013,0.7,U.S.A.,2.5,,Mexico,Decepcionante
+1613,Tabal,Peru,1105,2013,0.7,U.S.A.,3,,Peru,Sastisfactorio
+1614,Tablette (aka Vanillabeans),Colombia,1450,2015,0.7,Japan,3,,Colombia,Sastisfactorio
+1615,Tablette (aka Vanillabeans),Papua,1450,2015,0.62,Japan,3.25,,Papua New Guinea,Sastisfactorio
+1616,Tablette (aka Vanillabeans),Vietnam,1450,2015,0.6,Japan,3.25,Trinitario,Vietnam,Sastisfactorio
+1617,Tablette (aka Vanillabeans),Trinidad,1680,2015,0.77,Japan,2.75,Trinitario,Trinidad,Decepcionante
+1618,Tan Ban Skrati,"Paramaribo, batch 20160043-01",1868,2016,0.7,Suriname,3.25,Trinitario,Suriname,Sastisfactorio
+1619,Taza,Belize,1271,2014,0.68,U.S.A.,3,Trinitario,Belize,Sastisfactorio
+1620,Taza,Alto Beni,785,2011,0.87,U.S.A.,3.25,,Bolivia,Sastisfactorio
+1621,Taza,Chiapan,451,2009,0.75,U.S.A.,2.75,,Mexico,Decepcionante
+1622,Taza,"Dark, Stone Ground",180,2007,0.7,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1623,TCHO,West Africa,1716,2016,0.62,U.S.A.,2,Forastero,West Africa,Decepcionante
+1624,TCHO,Peru- Ecuador,915,2012,0.99,U.S.A.,3.25,,"Peru, Ecuador",Sastisfactorio
+1625,TCHO,TCHOPro 60.5,387,2009,0.6,U.S.A.,2.75,,,Decepcionante
+1626,TCHO,TCHOPro 68,387,2009,0.68,U.S.A.,3,,,Sastisfactorio
+1627,TCHO,Chocolatey-beta,199,2008,0.7,U.S.A.,2.5,Forastero,Ghana,Decepcionante
+1628,TCHO,Fruity-beta,280,2008,0.7,U.S.A.,2.5,,Peru,Decepcionante
+1629,TCHO,Citrus-beta,280,2008,0.7,U.S.A.,2.75,,Madagascar,Decepcionante
+1630,TCHO,Nutty-beta,284,2008,0.7,U.S.A.,2.5,,Peru,Decepcionante
+1631,Tejas,Concepcion,801,2012,0.7,U.S.A.,2.75,,Madagascar,Decepcionante
+1632,Tejas,Bayou Blend,801,2012,0.7,U.S.A.,3,Blend,"Ecuador, Mad., PNG",Sastisfactorio
+1633,Tejas,Aranama,805,2012,0.7,U.S.A.,3,,Papua New Guinea,Sastisfactorio
+1634,Tejas,Presidio,805,2012,0.7,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+1635,Tejas,"La Bahia, w/ cane juice",817,2012,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+1636,Tejas,Capistrano,821,2012,0.7,U.S.A.,2,,Peru,Decepcionante
+1637,Tejas,"La Bahia, w/ cane sugar",825,2012,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+1638,Tejas,San Jose,829,2012,0.7,U.S.A.,2.75,,Bolivia,Decepcionante
+1639,Tejas,Capistrano*,829,2012,0.7,U.S.A.,3,,Madagascar,Sastisfactorio
+1640,Tejas,Espada,833,2012,0.7,U.S.A.,3.25,,Mexico,Sastisfactorio
+1641,Tejas,Espada,967,2012,0.7,U.S.A.,2.75,,Brazil,Decepcionante
+1642,Tejas,Concepcion*,971,2012,0.8,U.S.A.,3,,Venezuela,Sastisfactorio
+1643,Tejas,San Jose,971,2012,0.67,U.S.A.,3.25,,Bolivia,Sastisfactorio
+1644,Tejas,"Bahia, Floresta Azul,Good Friends Reserve#3",971,2012,0.7,U.S.A.,3.5,Forastero_Parazinho,Brazil,Sastisfactorio
+1645,Terroir,Peru,1478,2015,0.7,U.S.A.,2.75,,Peru,Decepcionante
+1646,Terroir,Belize,1478,2015,0.7,U.S.A.,3.75,Trinitario,Belize,Sastisfactorio
+1647,Terroir,Madagascar,1478,2015,0.7,U.S.A.,3.75,Trinitario,Madagascar,Sastisfactorio
+1648,Terroir,Ecuador,1482,2015,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+1649,Terroir,Oko Caribe,1554,2015,0.7,U.S.A.,3.5,,Domincan Republic,Sastisfactorio
+1650,Terroir,Guatemala,1558,2015,0.7,U.S.A.,3.75,Trinitario,Guatemala,Sastisfactorio
+1651,Terroir,Ecuador,1323,2014,0.77,U.S.A.,3.25,,Ecuador,Sastisfactorio
+1652,Terroir,Madagascar,1323,2014,0.67,U.S.A.,3.75,Trinitario,Madagascar,Sastisfactorio
+1653,Terroir,Uganda,1323,2014,0.73,U.S.A.,3.75,Forastero,Uganda,Sastisfactorio
+1654,The Barn,Peru,1614,2015,0.7,Sweden,3,,Peru,Sastisfactorio
+1655,Theo,Congo w/ nibs,903,2012,0.65,U.S.A.,3.25,Forastero,Congo,Sastisfactorio
+1656,Theo,Madagascar,162,2007,0.65,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+1657,Theo,Ivory Coast,184,2007,0.75,U.S.A.,2.5,,Ivory Coast,Decepcionante
+1658,Theo,"Ghana, Kumasi",184,2007,0.84,U.S.A.,3,Forastero,Ghana,Sastisfactorio
+1659,Theo,"Venezuela; Barinos, Merida, Tachron",188,2007,0.91,U.S.A.,2,Blend,Venezuela,Decepcionante
+1660,Theo,"Ghana, Panama, Ecuador",188,2007,0.75,U.S.A.,3,Blend,"Ghana, Panama, Ecuador",Sastisfactorio
+1661,Theobroma,"Piura Select, Cacao Blanc",1684,2015,0.7,Japan,3.25,,Peru,Sastisfactorio
+1662,Timo A. Meyer,"Belize, med roast",1836,2016,0.72,Germany,3.75,Trinitario_TCGA,Belize,Sastisfactorio
+1663,To'ak (Ecuatoriana),Manabi,1418,2014,0.81,Ecuador,3.25,Forastero_Nacional,Ecuador,Sastisfactorio
+1664,Tobago Estate (Pralus),"Roxborough, Tobago",895,2012,0.7,France,4,Trinitario,Tobago,Premiun
+1665,Tocoti,"Wild Bolivian, Jungle Love",927,2012,0.77,U.S.A.,3,Criollo,Bolivia,Sastisfactorio
+1666,Tocoti,Venezuela,789,2011,0.72,U.S.A.,2.75,,Venezuela,Decepcionante
+1667,Tocoti,Dominican Republic,789,2011,0.74,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1668,Treehouse,Conacado,1239,2014,0.72,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1669,Tsara (Cinagra),"Ambanja, Tsara Valley",753,2011,0.72,Madagascar,3.5,,Madagascar,Sastisfactorio
+1670,twenty-four blackbirds,Oko Caribe,1700,2015,0.75,U.S.A.,2.75,,Domincan Republic,Decepcionante
+1671,twenty-four blackbirds,"Cedeno, lot 271",1700,2015,0.75,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1672,twenty-four blackbirds,Madagascar,1235,2014,0.75,U.S.A.,3.5,Trinitario,Madagascar,Sastisfactorio
+1673,twenty-four blackbirds,Dominican Republic,1022,2013,0.68,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+1674,twenty-four blackbirds,Palos Blancos,1026,2013,0.75,U.S.A.,2.5,,Bolivia,Decepcionante
+1675,twenty-four blackbirds,Dominican Republic,753,2011,0.73,U.S.A.,2.75,,Dominican Republic,Decepcionante
+1676,Two Ravens,Peru,1740,2016,0.6,U.S.A.,3,Criollo,Peru,Sastisfactorio
+1677,Un Dimanche A Paris,Dominican Republic,709,2011,0.63,France,3.75,,Dominican Republic,Sastisfactorio
+1678,Undone,Matagalpa,1438,2014,0.74,U.S.A.,2.75,,Nicaragua,Decepcionante
+1679,Undone,Nourish,1438,2014,0.7,U.S.A.,3,,Dominican Republic,Sastisfactorio
+1680,Upchurch,"Madagascar, Sassy Bar",1752,2016,0.72,U.S.A.,3,Trinitario,Madagascar,Sastisfactorio
+1681,Upchurch,"Tanzania, Party Bar",1752,2016,0.72,U.S.A.,3.25,,Tanzania,Sastisfactorio
+1682,Urzi,"Sur del Lago, Merida",1327,2014,0.65,Italy,3.25,Trinitario,Venezuela,Sastisfactorio
+1683,Valrhona,"Piura, Illanka, Quemazon",1510,2015,0.63,France,4,,Peru,Premiun
+1684,Valrhona,"Andoa, Grand Cru blend",1145,2013,0.7,France,3.5,,,Sastisfactorio
+1685,Valrhona,"Loma Sotavento, 2013",1153,2013,0.64,France,3.5,,Dominican Republic,Sastisfactorio
+1686,Valrhona,"Otucan, Grand Cru",931,2012,0.69,France,4,,Venezuela,Premiun
+1687,Valrhona,Caraque,709,2011,0.56,France,3.25,,,Sastisfactorio
+1688,Valrhona,"Porcelana, Pedegral",757,2011,0.64,France,4,Criollo,Venezuela,Premiun
+1689,Valrhona,Tainori,327,2009,0.64,France,3.75,,Dominican Republic,Sastisfactorio
+1690,Valrhona,Alpaco,370,2009,0.66,France,3.75,,Ecuador,Sastisfactorio
+1691,Valrhona,Nyangbo,395,2009,0.68,France,3.5,Forastero,Ghana,Sastisfactorio
+1692,Valrhona,Araguani,117,2007,0.72,France,3,Blend,"Venezuela, Carribean",Sastisfactorio
+1693,Valrhona,Chuao 2002 P.,129,2007,0.65,France,3.75,Trinitario,Venezuela,Sastisfactorio
+1694,Valrhona,Manjari,129,2007,0.64,France,4,Criollo_Trinitario,Madagascar,Premiun
+1695,Valrhona,Le Noir Extra Amer,147,2007,0.85,France,1.5,,,Desagradable
+1696,Valrhona,Abinao,153,2007,0.85,France,2.5,Forastero,West Africa,Decepcionante
+1697,Valrhona,Le Noir Amer,157,2007,0.71,France,2.75,Forastero,West Africa,Decepcionante
+1698,Valrhona,"Porcelana, Maracaibo, Palmira P. 2006",162,2007,0.64,France,3.25,Criollo_Porcelana,Venezuela,Sastisfactorio
+1699,Valrhona,Caraibe,63,2006,0.66,France,3,Trinitario,Carribean,Sastisfactorio
+1700,Valrhona,Guanaja,63,2006,0.7,France,4,Criollo_Trinitario,South America,Premiun
+1701,Valrhona,Gran Couva 2005 P.,75,2006,0.64,France,2.5,Trinitario,Trinidad,Decepcionante
+1702,Valrhona,"Porcelana, Maracaibo, Palmira P. 2005",75,2006,0.64,France,3,Criollo_Porcelana,Venezuela,Sastisfactorio
+1703,Valrhona,"Sambirano, Ampamakia 2005, Millot P.",75,2006,0.64,France,3.5,Trinitario,Madagascar,Sastisfactorio
+1704,Vanleer (Barry Callebaut),Manhattan,963,2012,0.72,U.S.A.,2.5,Forastero,Ghana,Decepcionante
+1705,Vanleer (Barry Callebaut),Napa,963,2012,0.65,U.S.A.,2.75,Forastero,Ghana,Decepcionante
+1706,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.72,Madagascar,2.75,Trinitario,Madagascar,Decepcionante
+1707,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.76,Madagascar,2.75,Trinitario,Madagascar,Decepcionante
+1708,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.8,Madagascar,2.75,Trinitario,Madagascar,Decepcionante
+1709,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.7,Madagascar,3,Trinitario,Madagascar,Sastisfactorio
+1710,Vao Vao (Chocolaterie Robert),Madagascar w/ nibs,404,2009,0.68,Madagascar,3,Trinitario,Madagascar,Sastisfactorio
+1711,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,0.64,Madagascar,3.25,Trinitario,Madagascar,Sastisfactorio
+1712,Vicuna,Palos Blancos,1470,2015,0.7,U.S.A.,3.25,,Bolivia,Sastisfactorio
+1713,Vicuna,Palos Blancos + nibs,1470,2015,0.7,U.S.A.,3.25,,Bolivia,Sastisfactorio
+1714,Videri,Dominican Republic,1211,2014,0.9,U.S.A.,3.25,,Dominican Republic,Sastisfactorio
+1715,Videri,Trinidad,1211,2014,0.75,U.S.A.,3.5,Trinitario,Trinidad,Sastisfactorio
+1716,Videri,Mindo,1227,2014,0.75,U.S.A.,3.5,,Ecuador,Sastisfactorio
+1717,Videri,Dark,1117,2013,0.9,U.S.A.,3.75,,Central and S. America,Sastisfactorio
+1718,Videri,Classic,991,2012,0.7,U.S.A.,3.25,,Central and S. America,Sastisfactorio
+1719,Vietcacao (A. Morin),"Ben Tre, Mekong Delta, MoCay",951,2012,0.7,France,3.5,Trinitario,Vietnam,Sastisfactorio
+1720,Vintage Plantations,San Martin,1205,2014,0.75,U.S.A.,3,,Peru,Sastisfactorio
+1721,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,1,U.S.A.,2,Forastero_Arriba,Ecuador,Decepcionante
+1722,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,0.9,U.S.A.,2,Forastero_Arriba,Ecuador,Decepcionante
+1723,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,0.75,U.S.A.,3,Forastero_Arriba,Ecuador,Sastisfactorio
+1724,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2007",153,2007,0.65,U.S.A.,3,Forastero_Arriba,Ecuador,Sastisfactorio
+1725,Violet Sky,Sambirano Valley,1458,2015,0.77,U.S.A.,2.75,Trinitario,Madagascar,Decepcionante
+1726,Violet Sky,Moho River Valley,1458,2015,0.77,U.S.A.,3,Criollo_Trinitario,Belize,Sastisfactorio
+1727,Violet Sky,Cuyagua,1458,2015,0.77,U.S.A.,3,Criollo,Venezuela,Sastisfactorio
+1728,Violet Sky,Peru,1458,2015,0.77,U.S.A.,3.25,Criollo_Trinitario,Peru,Sastisfactorio
+1729,Violet Sky,Cahabon,1502,2015,0.77,U.S.A.,2.75,Trinitario,Guatemala,Decepcionante
+1730,Vivra,Peru,1720,2016,0.7,U.S.A.,2.5,,Peru,Decepcionante
+1731,Vivra,Ocumare,1720,2016,0.7,U.S.A.,2.5,,Venezuela,Decepcionante
+1732,Vivra,Dominican Republic,1724,2016,0.7,U.S.A.,3,,Domincan Republic,Sastisfactorio
+1733,Wellington Chocolate Factory,Conacado,1756,2016,0.7,New Zealand,3.5,Trinitario,Dominican Republic,Sastisfactorio
+1734,Wellington Chocolate Factory,"Piura Blanco, Norandino",1756,2016,0.7,New Zealand,3.5,,Peru,Sastisfactorio
+1735,Whittakers,Ghana,733,2011,0.72,New Zealand,2.5,Forastero,Ghana,Decepcionante
+1736,Wilkie's Organic,Amazonas,1169,2013,0.75,Ireland,2.5,Criollo,Peru,Decepcionante
+1737,Wilkie's Organic,Amazonas,1169,2013,0.89,Ireland,2.75,Criollo,Peru,Decepcionante
+1738,Wilkie's Organic,Tumbes,1169,2013,0.75,Ireland,3.25,Criollo,Peru,Sastisfactorio
+1739,Wilkie's Organic,Amazonas w/ nibs,1173,2013,0.75,Ireland,2.75,Criollo,Peru,Decepcionante
+1740,Willie's Cacao,Los Llanos,1848,2016,0.7,U.K.,4,,Colombia,Premiun
+1741,Willie's Cacao,Los Llanos,1227,2014,0.88,U.K.,3,Trinitario,Colombia,Sastisfactorio
+1742,Willie's Cacao,"Java, Indonesian Black",1109,2013,1,U.K.,2.25,,Indonesia,Decepcionante
+1743,Willie's Cacao,Sambirano,593,2010,0.71,U.K.,3,Trinitario,Madagascar,Sastisfactorio
+1744,Willie's Cacao,Hacienda Las Trincheras,593,2010,0.72,U.K.,3.5,,Venezuela,Sastisfactorio
+1745,Willie's Cacao,Java,593,2010,0.69,U.K.,3.75,,Indonesia,Sastisfactorio
+1746,Willie's Cacao,San Martin,457,2009,0.7,U.K.,3,,Peru,Sastisfactorio
+1747,Willie's Cacao,Rio Caribe,457,2009,0.72,U.K.,3.25,Trinitario,Venezuela,Sastisfactorio
+1748,Wm,"Guasare, Zulia Prov., 2015, batch 124",1912,2016,0.74,U.S.A.,3,Criollo,Venezuela,Sastisfactorio
+1749,Wm,"Wild Beniano, 2016, batch 128, Heirloom",1912,2016,0.76,U.S.A.,3.5,,Bolivia,Sastisfactorio
+1750,Wm,"Ghana, 2013, batch 129",1916,2016,0.75,U.S.A.,3.75,,Ghana,Sastisfactorio
+1751,Woodblock,"Maranon, Cajamarca",1243,2014,0.7,U.S.A.,3,Forastero_Nacional,Peru,Sastisfactorio
+1752,Woodblock,"Camino Verde P., Balao, Guayas",1042,2013,0.7,U.S.A.,3.25,,Ecuador,Sastisfactorio
+1753,Woodblock,Gran Couva,1042,2013,0.7,U.S.A.,3.5,Trinitario,Trinidad,Sastisfactorio
+1754,Woodblock,Ecuador,825,2012,0.7,U.S.A.,2.5,,Ecuador,Decepcionante
+1755,Woodblock,Costa Rica,825,2012,0.7,U.S.A.,3,,Costa Rica,Sastisfactorio
+1756,Woodblock,Sambirano,951,2012,0.7,U.S.A.,3.25,Trinitario,Madagascar,Sastisfactorio
+1757,Woodblock,Ocumare,741,2011,0.7,U.S.A.,4,,Venezuela,Premiun
+1758,Woodblock,La Red,769,2011,0.7,U.S.A.,3.5,,Dominican Republic,Sastisfactorio
+1759,Xocolat,Hispaniola,1057,2013,0.66,Domincan Republic,3,,Dominican Republic,Sastisfactorio
+1760,Xocolla,"Sambirano, batch 170102",1948,2017,0.7,U.S.A.,2.75,,Madagascar,Decepcionante
+1761,Xocolla,"Hispaniola, batch 170104",1948,2017,0.7,U.S.A.,2.5,,Dominican Republic,Decepcionante
+1762,Zak's,"Papua New Guinea, Batch 2",1574,2015,0.7,U.S.A.,3,,Papua New Guinea,Sastisfactorio
+1763,Zak's,"Dominican Republic, Batch D2",1578,2015,0.7,U.S.A.,3.25,,Domincan Republic,Sastisfactorio
+1764,Zak's,"Madagascar, Batch 2",1578,2015,0.7,U.S.A.,3.25,Trinitario,Madagascar,Sastisfactorio
+1765,Zak's,"Peru, Batch 1",1578,2015,0.7,U.S.A.,3.25,,Peru,Sastisfactorio
+1766,Zak's,"Belize, Batch 2",1578,2015,0.7,U.S.A.,3.5,Trinitario,Belize,Sastisfactorio
+1767,Zak's,"House Blend, Batch 2",1582,2015,0.6,U.S.A.,3,,,Sastisfactorio
+1768,Zart Pralinen,"Millot P., Ambanja",1820,2016,0.7,Austria,3.5,Criollo_Trinitario,Madagascar,Sastisfactorio
+1769,Zart Pralinen,UNOCACE,1824,2016,0.7,Austria,2.75,Nacional_Arriba,Ecuador,Decepcionante
+1770,Zart Pralinen,San Juan Estate,1824,2016,0.85,Austria,2.75,Trinitario,Trinidad,Decepcionante
+1771,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,0.85,Austria,3,Criollo_Trinitario,Tanzania,Sastisfactorio
+1772,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,0.7,Austria,3.5,Criollo_Trinitario,Tanzania,Sastisfactorio
+1773,Zart Pralinen,"San Juan Estate, Gran Couva",1880,2016,0.78,Austria,3.5,Trinitario,Trinidad,Sastisfactorio
+1774,Zokoko,Guadalcanal,1716,2016,0.78,Australia,3.75,,Solomon Islands,Sastisfactorio
+1775,Zokoko,Goddess Blend,1780,2016,0.65,Australia,3.25,,,Sastisfactorio
+1776,Zokoko,Alto Beni,697,2011,0.68,Australia,3.5,,Bolivia,Sastisfactorio
+1777,Zokoko,Tokiala,701,2011,0.66,Australia,3.5,Trinitario,Papua New Guinea,Sastisfactorio
+1778,Zokoko,"Tranquilidad, Baures",701,2011,0.72,Australia,3.75,,Bolivia,Sastisfactorio
+1779,Zotter,Raw,1205,2014,0.8,Austria,2.75,,,Decepcionante
+1780,Zotter,"Bocas del Toro, Cocabo Co-op",801,2012,0.72,Austria,3.5,,Panama,Sastisfactorio
+1781,Zotter,Amazonas Frucht,801,2012,0.65,Austria,3.5,,,Sastisfactorio
+1782,Zotter,"Satipo Pangoa region, 16hr conche",875,2012,0.7,Austria,3,Criollo_Amarru,Peru,Sastisfactorio
+1783,Zotter,"Satipo Pangoa region, 20hr conche",875,2012,0.7,Austria,3.5,Criollo_Amarru,Peru,Sastisfactorio
+1784,Zotter,"Loma Los Pinos, Yacao region, D.R.",875,2012,0.62,Austria,3.75,,Dominican Republic,Sastisfactorio
+1785,Zotter,El Oro,879,2012,0.75,Austria,3,Forastero_Nacional,Ecuador,Sastisfactorio
+1786,Zotter,Huiwani Coop,879,2012,0.75,Austria,3,Criollo_Trinitario,Papua New Guinea,Sastisfactorio
+1787,Zotter,El Ceibo Coop,879,2012,0.9,Austria,3.25,,Bolivia,Sastisfactorio
+1788,Zotter,Santo Domingo,879,2012,0.7,Austria,3.75,,Dominican Republic,Sastisfactorio
+1789,Zotter,"Kongo, Highlands",883,2012,0.68,Austria,3.25,Forastero,Congo,Sastisfactorio
+1790,Zotter,"Indianer, Raw",883,2012,0.58,Austria,3.5,,,Sastisfactorio
+1791,Zotter,Peru,647,2011,0.7,Austria,3.75,,Peru,Sastisfactorio
+1792,Zotter,Congo,749,2011,0.65,Austria,3,Forastero,Congo,Sastisfactorio
+1793,Zotter,Kerala State,749,2011,0.65,Austria,3.5,Forastero,India,Sastisfactorio
+1794,Zotter,Kerala State,781,2011,0.62,Austria,3.25,,India,Sastisfactorio
+1795,Zotter,"Brazil, Mitzi Blue",486,2010,0.65,Austria,3,,Brazil,Sastisfactorio

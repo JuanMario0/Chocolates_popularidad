@@ -1,0 +1,153 @@
+---
+title: "Chcolates_PROYECTO"
+author: "Juan Mario"
+date: "2023-01-28"
+output:
+  word_document: default
+  html_document: default
+---
+
+##Cargamos las librerias 
+Nota: las librerias siguientes se pueden instalar con "install.packages: 
+
+```{r}
+library(ggplot2) #paquete de gráficas
+library(tidyverse) #Paquete que nos ayuda a ocnectar con más paquetes
+library(rmarkdown) #paquete que nos ayuda a cargar un  informrte en HTTML, word, etc
+library(skimr) #para variables estadisticas
+library(dplyr) #para editar los datos
+library(janitor) #funciones para la limpieza de datos
+library("here")  #Este paquete facilita la consulta de los archivos
+library(readr) #para leer datos
+```
+
+##Datos a analizar 
+
+para poder cargar un documentos cvs usamos la siguiente función de R 
+
+```{r}
+flavors_of_cacao <- read_csv("C:/Users/moren/OneDrive/Escritorio/Proyectos/Proyecto_Chocolate/flavors_of_cacao.csv")
+View(flavors_of_cacao)
+
+##Datros con clasificación de popularidad 
+
+flavors_of_cacao_V3 <- read_csv("C:/Users/moren/OneDrive/Escritorio/Proyectos/Proyecto_Chocolate/flavors_of_cacao_V3.csv")
+View(flavors_of_cacao_V3)
+```
+
+##Reporte de datos 
+
+Usamos las siguientes funciones para que nos de un resumen de los datos
+que estamos usando.
+
+```{r}
+skim_without_charts(flavors_of_cacao_V3) #resumen detallado de los datos
+
+glimpse(flavors_of_cacao_V3) #resumen de las columnas
+
+head(flavors_of_cacao_V3)
+```
+
+##Gráficas 
+Vemos que en el diagrama de dispersión tenemos la popularidad de Desagradable a Elite y sus niveles y como esque se comportan. 
+
+```{r}
+ggplot(data = flavors_of_cacao_V3) + geom_point((mapping = 
+                                                  aes(x = Porcentaje_Cocoa,
+                                                      y = Popularidad, color = 
+                                                        Popularidad_Class
+                                                    )))+
+  labs(title="Porcentaje de cocoa y popularidad por clase",
+       caption= "@RACHAEL TATMAN conjunto de datos Kaggle") 
+```
+
+Ahora tenemos Tenemos que el porcentaje de Cocoa en mayor numero de conteo es en nivel satisfactorio 
+
+```{r}
+ggplot(data = flavors_of_cacao_V3) + geom_bar((mapping = 
+                                                aes(x = Porcentaje_Cocoa
+                                                    , fill= Popularidad_Class
+                                                )))+
+  labs(title="Porcentaje de cocoa y conteo color por popularidad Clase",
+       caption= "@RACHAEL TATMAN conjunto de datos Kaggle")
+
+```
+
+Grafico de porcentaje de cocoa vs popularidad 
+el porcentaje de cocoa en 0.7 la popularidad es la más alta.
+
+```{r}
+ggplot(data = flavors_of_cacao) + geom_smooth((mapping = 
+                                                 aes(x= Porcentaje_Cocoa, 
+                                                     y= Popularidad)))+
+  labs(title="Cocoa vs popularidad",
+       caption= "@RACHAEL TATMAN conjunto de datos Kaggle")
+```
+
+Popularidad y sus reseñas en cuestión del tiempo por gráficos 
+
+```{r}
+ggplot(data = flavors_of_cacao)+
+  geom_bar(mapping=aes(x= Popularidad, fill=Revisar))+
+  facet_wrap(~Revisar)+
+  labs(title="Popularidad y reseñas",
+       caption= "@RACHAEL TATMAN conjunto de datos Kaggle")
+```
+
+Valor revisado y su aumento REF
+
+```{r}
+ggplot(data = flavors_of_cacao) +geom_smooth(mapping = 
+                                       aes(x = Revisar,
+                                           y = REF)) +
+  labs(title="Revisars vs REF",
+       caption= "@RACHAEL TATMAN conjunto de datos Kaggle")
+```
+
+Popularidad y porcentaje de Cocoa por localidad
+
+```{r}
+ggplot(data = flavors_of_cacao) +geom_jitter(mapping = 
+                                      aes(x = Popularidad,
+                                          y = Porcentaje_Cocoa, color = Empresa_localidad))+
+  geom_smooth(mapping = aes(x = Popularidad,
+                                                y = Porcentaje_Cocoa, color = Empresa_localidad))+ 
+  labs(title="Popularidad y porcentaje de cocoa por Localidad",
+       caption= "@RACHAEL TATMAN conjunto de datos Kaggle")
+```
+
+Popularidad clase y conteo, numero de datos que más hay por clase 
+
+```{r}
+ggplot(data = flavors_of_cacao_V3)+
+  geom_bar(mapping=aes(x=Popularidad_Class, fill = Popularidad_Class))+ 
+  labs(title="Clase y conteo",
+       caption= "@RACHAEL TATMAN conjunto de datos Kaggle")
+```
+
+##Estadísticas 
+
+Teneiendo los datos de los chocolates, en cuestión de estadisticas, las columnas de Porcentaje cococa y popularidad no tienen relación alguna, podemos verlos en las siguientes estadísticas y gráficas. 
+
+```{r}
+flavors_of_cacao_V3 %>% 
+  group_by(Popularidad_Class) %>% 
+  summarise(mean(Popularidad), sd(Porcentaje_Cocoa), mean(Porcentaje_Cocoa), sd(Popularidad), 
+            cor(Popularidad, Porcentaje_Cocoa)) 
+```
+Gráfica de la estadísticas anterior. 
+
+```{r}
+ggplot(flavors_of_cacao_V3, aes(Porcentaje_Cocoa, Popularidad)) +
+  geom_point() + geom_smooth(method = lm, se=FALSE) 
+```
+
+##Conclusión 
+Los datos de chocolates, tienen en más porcentaje y popularidad los paises U.S.A, Venezuela, U.K, Spain, y en azul con poca Nicaragua. 
+Con el tiempo han aumentado las reseñas de los chocolates y la actualización del conjunto de datos.
+Tambien tenemos la popularidad y la relación con las reseñas por año, que igual manera han ido aumentando. 
+Los que tienen un porcentaje de Cocoa mayor a %70 y <80% tienen una popularidad >3 
+esto quiere decir que el porcentaje de cocoa es bueno pero falta más produción o reseñas. 
+Podemos decir que el conjunto de datos esta bien pero faltan datos más cuantitativos, para un análisis más completo. 
+
+
